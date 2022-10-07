@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-10-07T08:12:22.486Z</updated>
+    <updated>2022-10-07T09:14:42.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Magical Symphony - ADORA | KBS 221007 방송]]></title>
+        <id>https://tv.naver.com/v/29759014</id>
+        <link href="https://tv.naver.com/v/29759014"/>
+        <updated>2022-10-07T09:14:41.820Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mi Deh Yah (feat. KOONTA(쿤타)) - 코카앤버터 (CocaNButter) | KBS 221007 방송]]></title>
+        <id>https://tv.naver.com/v/29758635</id>
+        <link href="https://tv.naver.com/v/29758635"/>
+        <updated>2022-10-07T09:14:41.820Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Icarus - RoaD-B(로드비) | KBS 221007 방송]]></title>
+        <id>https://tv.naver.com/v/29758497</id>
+        <link href="https://tv.naver.com/v/29758497"/>
+        <updated>2022-10-07T09:14:41.827Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NAZABABABA - 롤링쿼츠(Rolling Quartz) | KBS 221007 방송]]></title>
+        <id>https://tv.naver.com/v/29757795</id>
+        <link href="https://tv.naver.com/v/29757795"/>
+        <updated>2022-10-07T09:14:41.834Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[질주 (2 Baddies) - NCT127 | KBS 220930 방송]]></title>
         <id>https://tv.naver.com/v/29591217</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/29412602"/>
         <updated>2022-09-25T12:25:21.226Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rose - mimiirose | KBS 220923 방송]]></title>
-        <id>https://tv.naver.com/v/29412324</id>
-        <link href="https://tv.naver.com/v/29412324"/>
-        <updated>2022-09-25T12:25:21.242Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어묵 국물 (Memory) - 권민제 | KBS 220923 방송]]></title>
-        <id>https://tv.naver.com/v/29411999</id>
-        <link href="https://tv.naver.com/v/29411999"/>
-        <updated>2022-09-25T12:25:21.242Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can’t Stop Shining - TEMPEST(템페스트) | KBS 220923 방송]]></title>
-        <id>https://tv.naver.com/v/29411882</id>
-        <link href="https://tv.naver.com/v/29411882"/>
-        <updated>2022-09-25T12:25:21.242Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장미 - 강민재 | KBS 220923 방송]]></title>
-        <id>https://tv.naver.com/v/29411879</id>
-        <link href="https://tv.naver.com/v/29411879"/>
-        <updated>2022-09-25T12:25:21.242Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
     </entry>
 </feed>
