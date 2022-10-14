@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-10-14T08:16:35.982Z</updated>
+    <updated>2022-10-14T09:15:16.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sugarcoat - AB6IX (에이비식스) | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29930513</id>
+        <link href="https://tv.naver.com/v/29930513"/>
+        <updated>2022-10-14T09:15:15.708Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Underwater - 권은비 | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29930511</id>
+        <link href="https://tv.naver.com/v/29930511"/>
+        <updated>2022-10-14T09:15:15.709Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PARTY ROCK - CRAVITY | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29930510</id>
+        <link href="https://tv.naver.com/v/29930510"/>
+        <updated>2022-10-14T09:15:15.710Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HUSH RUSH - 이채연 | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29930344</id>
+        <link href="https://tv.naver.com/v/29930344"/>
+        <updated>2022-10-14T09:15:15.711Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drip N’ Drop - 미래소년 | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29930340</id>
+        <link href="https://tv.naver.com/v/29930340"/>
+        <updated>2022-10-14T09:15:15.712Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StarLight - 라임라잇(LIMELIGHT) | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29930339</id>
+        <link href="https://tv.naver.com/v/29930339"/>
+        <updated>2022-10-14T09:15:15.713Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백야(Long Live The King) - KINGDOM (킹덤) | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29930182</id>
+        <link href="https://tv.naver.com/v/29930182"/>
+        <updated>2022-10-14T09:15:15.714Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rose - mimiirose | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29930181</id>
+        <link href="https://tv.naver.com/v/29930181"/>
+        <updated>2022-10-14T09:15:15.716Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PARTY ROCK - CRAVITY | KBS 221007 방송]]></title>
         <id>https://tv.naver.com/v/29759842</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/29591017"/>
         <updated>2022-09-30T10:11:38.962Z</updated>
         <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magical Symphony - ADORA | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29591010</id>
-        <link href="https://tv.naver.com/v/29591010"/>
-        <updated>2022-09-30T10:11:38.962Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막가리 - 김영철 | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29590942</id>
-        <link href="https://tv.naver.com/v/29590942"/>
-        <updated>2022-09-30T10:11:38.971Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRATATA - Lapillus(라필루스) | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29590832</id>
-        <link href="https://tv.naver.com/v/29590832"/>
-        <updated>2022-09-30T10:11:38.972Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산책하러 갈래 - 예빈나다 | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29590830</id>
-        <link href="https://tv.naver.com/v/29590830"/>
-        <updated>2022-09-30T10:11:38.972Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rose - mimiirose | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29590823</id>
-        <link href="https://tv.naver.com/v/29590823"/>
-        <updated>2022-09-30T10:11:38.972Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어묵 국물 (Memory) - 권민제 | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29590755</id>
-        <link href="https://tv.naver.com/v/29590755"/>
-        <updated>2022-09-30T10:11:38.972Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In The Air (777) - 트라이비(TRI.BE) | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29590744</id>
-        <link href="https://tv.naver.com/v/29590744"/>
-        <updated>2022-09-30T10:11:38.973Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StarLight - 라임라잇(LIMELIGHT) | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29590642</id>
-        <link href="https://tv.naver.com/v/29590642"/>
-        <updated>2022-09-30T10:11:38.973Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
