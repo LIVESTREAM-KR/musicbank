@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-10-14T09:15:16.323Z</updated>
+    <updated>2022-10-14T10:11:17.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[28 Reasons - 슬기(SEULGI) | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29931644</id>
+        <link href="https://tv.naver.com/v/29931644"/>
+        <updated>2022-10-14T10:11:16.687Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CASE 143 - Stray Kids (스트레이 키즈) | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29931630</id>
+        <link href="https://tv.naver.com/v/29931630"/>
+        <updated>2022-10-14T10:11:16.687Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Rules - 백호 (BAEKHO) | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29931500</id>
+        <link href="https://tv.naver.com/v/29931500"/>
+        <updated>2022-10-14T10:11:16.692Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ILLELLA (일낼라) - 마마무(MAMAMOO) | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29931378</id>
+        <link href="https://tv.naver.com/v/29931378"/>
+        <updated>2022-10-14T10:11:16.692Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If Love - 업텐션 | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29931122</id>
+        <link href="https://tv.naver.com/v/29931122"/>
+        <updated>2022-10-14T10:11:16.692Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNFORGETTABLE (STAGE) (feat. 한해) (Prod. 이대휘) - 이대휘 (AB6IX) | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29931117</id>
+        <link href="https://tv.naver.com/v/29931117"/>
+        <updated>2022-10-14T10:11:16.692Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dont Regret - 원호 (WONHO) | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29931001</id>
+        <link href="https://tv.naver.com/v/29931001"/>
+        <updated>2022-10-14T10:11:16.692Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VISION - 드림캐쳐 | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29930995</id>
+        <link href="https://tv.naver.com/v/29930995"/>
+        <updated>2022-10-14T10:11:16.692Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NITRO - 박지훈 | KBS 221014 방송]]></title>
+        <id>https://tv.naver.com/v/29930808</id>
+        <link href="https://tv.naver.com/v/29930808"/>
+        <updated>2022-10-14T10:11:16.692Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sugarcoat - AB6IX (에이비식스) | KBS 221014 방송]]></title>
         <id>https://tv.naver.com/v/29930513</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/29759229"/>
         <updated>2022-10-07T10:12:30.808Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magical Symphony - ADORA | KBS 221007 방송]]></title>
-        <id>https://tv.naver.com/v/29759014</id>
-        <link href="https://tv.naver.com/v/29759014"/>
-        <updated>2022-10-07T09:14:41.820Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mi Deh Yah (feat. KOONTA(쿤타)) - 코카앤버터 (CocaNButter) | KBS 221007 방송]]></title>
-        <id>https://tv.naver.com/v/29758635</id>
-        <link href="https://tv.naver.com/v/29758635"/>
-        <updated>2022-10-07T09:14:41.820Z</updated>
-        <content type="html"><![CDATA[02:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Icarus - RoaD-B(로드비) | KBS 221007 방송]]></title>
-        <id>https://tv.naver.com/v/29758497</id>
-        <link href="https://tv.naver.com/v/29758497"/>
-        <updated>2022-10-07T09:14:41.827Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NAZABABABA - 롤링쿼츠(Rolling Quartz) | KBS 221007 방송]]></title>
-        <id>https://tv.naver.com/v/29757795</id>
-        <link href="https://tv.naver.com/v/29757795"/>
-        <updated>2022-10-07T09:14:41.834Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[질주 (2 Baddies) - NCT127 | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29591217</id>
-        <link href="https://tv.naver.com/v/29591217"/>
-        <updated>2022-09-30T10:11:38.937Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DICE - NMIXX(엔믹스) | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29591123</id>
-        <link href="https://tv.naver.com/v/29591123"/>
-        <updated>2022-09-30T10:11:38.940Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brand New - 시우민(XIUMIN) | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29591122</id>
-        <link href="https://tv.naver.com/v/29591122"/>
-        <updated>2022-09-30T10:11:38.948Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drip N’ Drop - 미래소년 | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29591121</id>
-        <link href="https://tv.naver.com/v/29591121"/>
-        <updated>2022-09-30T10:11:38.962Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PARTY ROCK - CRAVITY | KBS 220930 방송]]></title>
-        <id>https://tv.naver.com/v/29591017</id>
-        <link href="https://tv.naver.com/v/29591017"/>
-        <updated>2022-09-30T10:11:38.962Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
     </entry>
 </feed>
