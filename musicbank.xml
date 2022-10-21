@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-10-21T09:18:14.956Z</updated>
+    <updated>2022-10-21T10:12:19.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폭망 (I Like You) - 엔플라잉 (N.Flying) | KBS 221021 방송]]></title>
+        <id>https://tv.naver.com/v/30123057</id>
+        <link href="https://tv.naver.com/v/30123057"/>
+        <updated>2022-10-21T10:12:19.253Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ILLELLA (일낼라) - 마마무(MAMAMOO) | KBS 221021 방송]]></title>
+        <id>https://tv.naver.com/v/30123049</id>
+        <link href="https://tv.naver.com/v/30123049"/>
+        <updated>2022-10-21T10:12:19.253Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CASE 143 - Stray Kids (스트레이 키즈) | KBS 221021 방송]]></title>
+        <id>https://tv.naver.com/v/30122922</id>
+        <link href="https://tv.naver.com/v/30122922"/>
+        <updated>2022-10-21T10:12:19.253Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Rules - 백호 (BAEKHO) | KBS 221021 방송]]></title>
+        <id>https://tv.naver.com/v/30122836</id>
+        <link href="https://tv.naver.com/v/30122836"/>
+        <updated>2022-10-21T10:12:19.253Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nxde - (여자)아이들 | KBS 221021 방송]]></title>
+        <id>https://tv.naver.com/v/30122683</id>
+        <link href="https://tv.naver.com/v/30122683"/>
+        <updated>2022-10-21T10:12:19.283Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떻게 널 잊어 - 김용준 | KBS 221021 방송]]></title>
+        <id>https://tv.naver.com/v/30122503</id>
+        <link href="https://tv.naver.com/v/30122503"/>
+        <updated>2022-10-21T10:12:19.285Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Fresh - 케플러(Kep1er) | KBS 221021 방송]]></title>
+        <id>https://tv.naver.com/v/30122475</id>
+        <link href="https://tv.naver.com/v/30122475"/>
+        <updated>2022-10-21T10:12:19.296Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On & On (Feat. YUNHWAY) - 원호 (WONHO) | KBS 221021 방송]]></title>
         <id>https://tv.naver.com/v/30122360</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/29930340"/>
         <updated>2022-10-14T09:15:15.712Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StarLight - 라임라잇(LIMELIGHT) | KBS 221014 방송]]></title>
-        <id>https://tv.naver.com/v/29930339</id>
-        <link href="https://tv.naver.com/v/29930339"/>
-        <updated>2022-10-14T09:15:15.713Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백야(Long Live The King) - KINGDOM (킹덤) | KBS 221014 방송]]></title>
-        <id>https://tv.naver.com/v/29930182</id>
-        <link href="https://tv.naver.com/v/29930182"/>
-        <updated>2022-10-14T09:15:15.714Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rose - mimiirose | KBS 221014 방송]]></title>
-        <id>https://tv.naver.com/v/29930181</id>
-        <link href="https://tv.naver.com/v/29930181"/>
-        <updated>2022-10-14T09:15:15.716Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PARTY ROCK - CRAVITY | KBS 221007 방송]]></title>
-        <id>https://tv.naver.com/v/29759842</id>
-        <link href="https://tv.naver.com/v/29759842"/>
-        <updated>2022-10-07T10:12:30.775Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brand New - 시우민(XIUMIN) | KBS 221007 방송]]></title>
-        <id>https://tv.naver.com/v/29759834</id>
-        <link href="https://tv.naver.com/v/29759834"/>
-        <updated>2022-10-07T10:12:30.775Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28 Reasons - 슬기(SEULGI) | KBS 221007 방송]]></title>
-        <id>https://tv.naver.com/v/29759754</id>
-        <link href="https://tv.naver.com/v/29759754"/>
-        <updated>2022-10-07T10:12:30.775Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CASE 143 - Stray Kids (스트레이 키즈) | KBS 221007 방송]]></title>
-        <id>https://tv.naver.com/v/29759562</id>
-        <link href="https://tv.naver.com/v/29759562"/>
-        <updated>2022-10-07T10:12:30.775Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
