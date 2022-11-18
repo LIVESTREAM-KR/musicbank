@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-11-18T08:10:49.254Z</updated>
+    <updated>2022-11-18T09:09:12.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑歌 - EPEX(이펙스) | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30885399</id>
+        <link href="https://tv.naver.com/v/30885399"/>
+        <updated>2022-11-18T09:09:11.173Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tick Tick Boom - CLASS:y (클라씨) | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30885122</id>
+        <link href="https://tv.naver.com/v/30885122"/>
+        <updated>2022-11-18T09:09:11.181Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bad Cupid - YOUNITE | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30885120</id>
+        <link href="https://tv.naver.com/v/30885120"/>
+        <updated>2022-11-18T09:09:11.183Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러브티콘 (♡TiCON) - 첫사랑(CSR) | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30884791</id>
+        <link href="https://tv.naver.com/v/30884791"/>
+        <updated>2022-11-18T09:09:11.185Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATTITUDE - ATBO | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30884663</id>
+        <link href="https://tv.naver.com/v/30884663"/>
+        <updated>2022-11-18T09:09:11.187Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Draw - ICHILLIN’ (아이칠린) | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30884660</id>
+        <link href="https://tv.naver.com/v/30884660"/>
+        <updated>2022-11-18T09:09:11.189Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yummy Yummy (야미야미) - Queenz Eye (퀸즈아이) | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30884481</id>
+        <link href="https://tv.naver.com/v/30884481"/>
+        <updated>2022-11-18T09:09:11.234Z</updated>
+        <content type="html"><![CDATA[02:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VAGABOND - TRENDZ(트렌드지) | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30884472</id>
+        <link href="https://tv.naver.com/v/30884472"/>
+        <updated>2022-11-18T09:09:11.234Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nxde - (여자)아이들 | KBS 221028 방송]]></title>
         <id>https://tv.naver.com/v/30320870</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/30122836"/>
         <updated>2022-10-21T10:12:19.253Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nxde - (여자)아이들 | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30122683</id>
-        <link href="https://tv.naver.com/v/30122683"/>
-        <updated>2022-10-21T10:12:19.283Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 널 잊어 - 김용준 | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30122503</id>
-        <link href="https://tv.naver.com/v/30122503"/>
-        <updated>2022-10-21T10:12:19.285Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Fresh - 케플러(Kep1er) | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30122475</id>
-        <link href="https://tv.naver.com/v/30122475"/>
-        <updated>2022-10-21T10:12:19.296Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On & On (Feat. YUNHWAY) - 원호 (WONHO) | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30122360</id>
-        <link href="https://tv.naver.com/v/30122360"/>
-        <updated>2022-10-21T09:18:14.117Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NITRO - 박지훈 | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30122166</id>
-        <link href="https://tv.naver.com/v/30122166"/>
-        <updated>2022-10-21T09:18:14.118Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VISION - 드림캐쳐 | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30122162</id>
-        <link href="https://tv.naver.com/v/30122162"/>
-        <updated>2022-10-21T09:18:14.119Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Underwater - 권은비 | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30121980</id>
-        <link href="https://tv.naver.com/v/30121980"/>
-        <updated>2022-10-21T09:18:14.122Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HUSH RUSH - 이채연 | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30121977</id>
-        <link href="https://tv.naver.com/v/30121977"/>
-        <updated>2022-10-21T09:18:14.124Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
