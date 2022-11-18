@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-11-18T09:09:12.004Z</updated>
+    <updated>2022-11-18T10:08:53.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Alone - 하이라이트 | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30886517</id>
+        <link href="https://tv.naver.com/v/30886517"/>
+        <updated>2022-11-18T10:08:52.405Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lights - 김종현(JR) | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30886143</id>
+        <link href="https://tv.naver.com/v/30886143"/>
+        <updated>2022-11-18T10:08:52.407Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groove Back - 박진영 | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30886141</id>
+        <link href="https://tv.naver.com/v/30886141"/>
+        <updated>2022-11-18T10:08:52.422Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfish - 유아 | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30886030</id>
+        <link href="https://tv.naver.com/v/30886030"/>
+        <updated>2022-11-18T10:08:52.423Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virus - VICTON(빅톤) | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30885933</id>
+        <link href="https://tv.naver.com/v/30885933"/>
+        <updated>2022-11-18T10:08:52.426Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIMBO! (넘어와) - 네이처(NATURE) | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30885906</id>
+        <link href="https://tv.naver.com/v/30885906"/>
+        <updated>2022-11-18T10:08:52.427Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tap Tap - VERIVERY | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30885646</id>
+        <link href="https://tv.naver.com/v/30885646"/>
+        <updated>2022-11-18T10:08:52.427Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loveable - 조유리 | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30885533</id>
+        <link href="https://tv.naver.com/v/30885533"/>
+        <updated>2022-11-18T10:08:52.427Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The One - DRIPPIN (드리핀) | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30885531</id>
+        <link href="https://tv.naver.com/v/30885531"/>
+        <updated>2022-11-18T10:08:52.440Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impurities - LE SSERAFIM | KBS 221118 방송]]></title>
+        <id>https://tv.naver.com/v/30885511</id>
+        <link href="https://tv.naver.com/v/30885511"/>
+        <updated>2022-11-18T10:08:52.441Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑歌 - EPEX(이펙스) | KBS 221118 방송]]></title>
         <id>https://tv.naver.com/v/30885399</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/30319629"/>
         <updated>2022-10-28T09:12:08.419Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATTITUDE - ATBO | KBS 221028 방송]]></title>
-        <id>https://tv.naver.com/v/30319626</id>
-        <link href="https://tv.naver.com/v/30319626"/>
-        <updated>2022-10-28T09:12:08.449Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMAZON - TFN | KBS 221028 방송]]></title>
-        <id>https://tv.naver.com/v/30319439</id>
-        <link href="https://tv.naver.com/v/30319439"/>
-        <updated>2022-10-28T09:12:08.449Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kill Me More - mimiirose | KBS 221028 방송]]></title>
-        <id>https://tv.naver.com/v/30319432</id>
-        <link href="https://tv.naver.com/v/30319432"/>
-        <updated>2022-10-28T09:12:08.449Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generation - tripleS AAA | KBS 221028 방송]]></title>
-        <id>https://tv.naver.com/v/30319430</id>
-        <link href="https://tv.naver.com/v/30319430"/>
-        <updated>2022-10-28T09:12:08.450Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yummy Yummy (야미야미) - Queenz Eye (퀸즈아이) | KBS 221028 방송]]></title>
-        <id>https://tv.naver.com/v/30319171</id>
-        <link href="https://tv.naver.com/v/30319171"/>
-        <updated>2022-10-28T09:12:08.452Z</updated>
-        <content type="html"><![CDATA[02:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carnival - 에이블루(ABLUE) | KBS 221028 방송]]></title>
-        <id>https://tv.naver.com/v/30319166</id>
-        <link href="https://tv.naver.com/v/30319166"/>
-        <updated>2022-10-28T09:12:08.452Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭망 (I Like You) - 엔플라잉 (N.Flying) | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30123057</id>
-        <link href="https://tv.naver.com/v/30123057"/>
-        <updated>2022-10-21T10:12:19.253Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILLELLA (일낼라) - 마마무(MAMAMOO) | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30123049</id>
-        <link href="https://tv.naver.com/v/30123049"/>
-        <updated>2022-10-21T10:12:19.253Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CASE 143 - Stray Kids (스트레이 키즈) | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30122922</id>
-        <link href="https://tv.naver.com/v/30122922"/>
-        <updated>2022-10-21T10:12:19.253Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Rules - 백호 (BAEKHO) | KBS 221021 방송]]></title>
-        <id>https://tv.naver.com/v/30122836</id>
-        <link href="https://tv.naver.com/v/30122836"/>
-        <updated>2022-10-21T10:12:19.253Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>
