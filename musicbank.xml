@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-11-25T10:08:49.815Z</updated>
+    <updated>2022-11-25T11:07:17.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[03:44]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Higher - FIFTY FIFTY(피프티 피프티) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31086731</id>
-        <link href="https://tv.naver.com/v/31086731"/>
-        <updated>2022-11-25T10:08:49.034Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dragon(飛上) - TEMPEST(템페스트) | KBS 221125 방송]]></title>
         <id>https://tv.naver.com/v/31086741</id>
         <link href="https://tv.naver.com/v/31086741"/>
         <updated>2022-11-25T10:08:49.035Z</updated>
         <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher - FIFTY FIFTY(피프티 피프티) | KBS 221125 방송]]></title>
+        <id>https://tv.naver.com/v/31086731</id>
+        <link href="https://tv.naver.com/v/31086731"/>
+        <updated>2022-11-25T10:08:49.034Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hair Cut - Xdinary Heroes | KBS 221125 방송]]></title>
