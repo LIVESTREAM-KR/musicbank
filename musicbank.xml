@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-11-25T23:07:36.019Z</updated>
+    <updated>2022-11-26T00:34:30.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -48,7 +48,7 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼음땡(Freeze Tag) - TO1 | KBS 221125 방송]]></title>
+        <title type="html"><![CDATA[얼음 땡(Freeze Tag) - TO1 | KBS 221125 방송]]></title>
         <id>https://tv.naver.com/v/31087107</id>
         <link href="https://tv.naver.com/v/31087107"/>
         <updated>2022-11-25T10:08:49.033Z</updated>
