@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-12-02T08:10:09.297Z</updated>
+    <updated>2022-12-02T09:08:03.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Draw(드로우) - ICHILLIN’ (아이칠린) | KBS 221202 방송]]></title>
+        <id>https://tv.naver.com/v/31285307</id>
+        <link href="https://tv.naver.com/v/31285307"/>
+        <updated>2022-12-02T09:08:03.113Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEALOUS - CLASS:y (클라씨) | KBS 221202 방송]]></title>
+        <id>https://tv.naver.com/v/31285292</id>
+        <link href="https://tv.naver.com/v/31285292"/>
+        <updated>2022-12-02T09:08:03.115Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay w!th me - IRRIS (아이리스) | KBS 221202 방송]]></title>
+        <id>https://tv.naver.com/v/31285289</id>
+        <link href="https://tv.naver.com/v/31285289"/>
+        <updated>2022-12-02T09:08:03.116Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VAGABOND - TRENDZ(트렌드지) | KBS 221202 방송]]></title>
+        <id>https://tv.naver.com/v/31285288</id>
+        <link href="https://tv.naver.com/v/31285288"/>
+        <updated>2022-12-02T09:08:03.116Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fight Inside - AIMERS | KBS 221202 방송]]></title>
+        <id>https://tv.naver.com/v/31285145</id>
+        <link href="https://tv.naver.com/v/31285145"/>
+        <updated>2022-12-02T09:08:03.116Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher - FIFTY FIFTY(피프티 피프티) | KBS 221202 방송]]></title>
+        <id>https://tv.naver.com/v/31284509</id>
+        <link href="https://tv.naver.com/v/31284509"/>
+        <updated>2022-12-02T09:08:03.116Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back In Vogue - AleXa (알렉사) | KBS 221202 방송]]></title>
+        <id>https://tv.naver.com/v/31284317</id>
+        <link href="https://tv.naver.com/v/31284317"/>
+        <updated>2022-12-02T09:08:03.119Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selfish - 유아 | KBS 221125 방송]]></title>
         <id>https://tv.naver.com/v/31088250</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/30885933"/>
         <updated>2022-11-18T10:08:52.426Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIMBO! (넘어와) - 네이처(NATURE) | KBS 221118 방송]]></title>
-        <id>https://tv.naver.com/v/30885906</id>
-        <link href="https://tv.naver.com/v/30885906"/>
-        <updated>2022-11-18T10:08:52.427Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tap Tap - VERIVERY | KBS 221118 방송]]></title>
-        <id>https://tv.naver.com/v/30885646</id>
-        <link href="https://tv.naver.com/v/30885646"/>
-        <updated>2022-11-18T10:08:52.427Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loveable - 조유리 | KBS 221118 방송]]></title>
-        <id>https://tv.naver.com/v/30885533</id>
-        <link href="https://tv.naver.com/v/30885533"/>
-        <updated>2022-11-18T10:08:52.427Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The One - DRIPPIN (드리핀) | KBS 221118 방송]]></title>
-        <id>https://tv.naver.com/v/30885531</id>
-        <link href="https://tv.naver.com/v/30885531"/>
-        <updated>2022-11-18T10:08:52.440Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impurities - LE SSERAFIM | KBS 221118 방송]]></title>
-        <id>https://tv.naver.com/v/30885511</id>
-        <link href="https://tv.naver.com/v/30885511"/>
-        <updated>2022-11-18T10:08:52.441Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑歌 - EPEX(이펙스) | KBS 221118 방송]]></title>
-        <id>https://tv.naver.com/v/30885399</id>
-        <link href="https://tv.naver.com/v/30885399"/>
-        <updated>2022-11-18T09:09:11.173Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tick Tick Boom - CLASS:y (클라씨) | KBS 221118 방송]]></title>
-        <id>https://tv.naver.com/v/30885122</id>
-        <link href="https://tv.naver.com/v/30885122"/>
-        <updated>2022-11-18T09:09:11.181Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
