@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-12-09T11:05:54.243Z</updated>
+    <updated>2022-12-09T12:12:37.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://tv.naver.com/v/31482707"/>
         <updated>2022-12-09T10:08:23.254Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ME= (나는) - JUST B | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31482542</id>
+        <link href="https://tv.naver.com/v/31482542"/>
+        <updated>2022-12-09T12:12:37.023Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The One - DRIPPIN (드리핀) | KBS 221209 방송]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31285292"/>
         <updated>2022-12-02T09:08:03.115Z</updated>
         <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stay w!th me - IRRIS (아이리스) | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31285289</id>
-        <link href="https://tv.naver.com/v/31285289"/>
-        <updated>2022-12-02T09:08:03.116Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
