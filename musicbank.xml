@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-12-09T08:09:52.536Z</updated>
+    <updated>2022-12-09T09:07:55.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VAGABOND - TRENDZ(트렌드지) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481832</id>
+        <link href="https://tv.naver.com/v/31481832"/>
+        <updated>2022-12-09T09:07:55.131Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 같이 걸어요 - 하동연 | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481800</id>
+        <link href="https://tv.naver.com/v/31481800"/>
+        <updated>2022-12-09T09:07:55.135Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay w!th me - IRRIS (아이리스) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481464</id>
+        <link href="https://tv.naver.com/v/31481464"/>
+        <updated>2022-12-09T09:07:55.145Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루하루 - WeNU(위앤유) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481349</id>
+        <link href="https://tv.naver.com/v/31481349"/>
+        <updated>2022-12-09T09:07:55.165Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fight Inside - AIMERS | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481316</id>
+        <link href="https://tv.naver.com/v/31481316"/>
+        <updated>2022-12-09T09:07:55.180Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올드스쿨 (Old School) - NTX | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481147</id>
+        <link href="https://tv.naver.com/v/31481147"/>
+        <updated>2022-12-09T09:07:55.186Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러브티콘 (♡TiCON) - 첫사랑(CSR) | KBS 221202 방송]]></title>
         <id>https://tv.naver.com/v/31286189</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/31087312"/>
         <updated>2022-11-25T10:08:49.033Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼음 땡(Freeze Tag) - TO1 | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31087107</id>
-        <link href="https://tv.naver.com/v/31087107"/>
-        <updated>2022-11-25T10:08:49.033Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rollercoaster - woo!ah! (우아!) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31087103</id>
-        <link href="https://tv.naver.com/v/31087103"/>
-        <updated>2022-11-25T10:08:49.033Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The One - DRIPPIN (드리핀) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31086777</id>
-        <link href="https://tv.naver.com/v/31086777"/>
-        <updated>2022-11-25T10:08:49.034Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragon(飛上) - TEMPEST(템페스트) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31086741</id>
-        <link href="https://tv.naver.com/v/31086741"/>
-        <updated>2022-11-25T10:08:49.035Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Higher - FIFTY FIFTY(피프티 피프티) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31086731</id>
-        <link href="https://tv.naver.com/v/31086731"/>
-        <updated>2022-11-25T10:08:49.034Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hair Cut - Xdinary Heroes | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31086571</id>
-        <link href="https://tv.naver.com/v/31086571"/>
-        <updated>2022-11-25T10:08:49.035Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
