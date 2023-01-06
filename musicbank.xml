@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-01-06T09:07:46.388Z</updated>
+    <updated>2023-01-06T10:07:49.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HALAZIA - ATEEZ(에이티즈) | KBS 230106 방송]]></title>
+        <id>https://tv.naver.com/v/32183333</id>
+        <link href="https://tv.naver.com/v/32183333"/>
+        <updated>2023-01-06T10:07:49.325Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberpunk - ATEEZ(에이티즈) | KBS 230106 방송]]></title>
+        <id>https://tv.naver.com/v/32183182</id>
+        <link href="https://tv.naver.com/v/32183182"/>
+        <updated>2023-01-06T10:07:49.326Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madness - 문빈&산하(ASTRO) | KBS 230106 방송]]></title>
+        <id>https://tv.naver.com/v/32182944</id>
+        <link href="https://tv.naver.com/v/32182944"/>
+        <updated>2023-01-06T10:07:49.326Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chup Chup - 문빈&산하(ASTRO) | KBS 230106 방송]]></title>
+        <id>https://tv.naver.com/v/32182941</id>
+        <link href="https://tv.naver.com/v/32182941"/>
+        <updated>2023-01-06T10:07:49.339Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phantom - WayV | KBS 230106 방송]]></title>
+        <id>https://tv.naver.com/v/32182715</id>
+        <link href="https://tv.naver.com/v/32182715"/>
+        <updated>2023-01-06T10:07:49.339Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Troublemaker - TO1 | KBS 230106 방송]]></title>
+        <id>https://tv.naver.com/v/32182574</id>
+        <link href="https://tv.naver.com/v/32182574"/>
+        <updated>2023-01-06T10:07:49.339Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollercoaster - woo!ah! (우아!) | KBS 230106 방송]]></title>
+        <id>https://tv.naver.com/v/32182570</id>
+        <link href="https://tv.naver.com/v/32182570"/>
+        <updated>2023-01-06T10:07:49.339Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 (Forever) - DKZ | KBS 230106 방송]]></title>
+        <id>https://tv.naver.com/v/32182564</id>
+        <link href="https://tv.naver.com/v/32182564"/>
+        <updated>2023-01-06T10:07:49.339Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지나갈거야 - 박현서 | KBS 230106 방송]]></title>
+        <id>https://tv.naver.com/v/32182442</id>
+        <link href="https://tv.naver.com/v/32182442"/>
+        <updated>2023-01-06T10:07:49.339Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건물 사이에 피어난 장미 - H1-KEY (하이키) | KBS 230106 방송]]></title>
+        <id>https://tv.naver.com/v/32182332</id>
+        <link href="https://tv.naver.com/v/32182332"/>
+        <updated>2023-01-06T10:07:49.339Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우린 한 편의 소설로 남겠죠 (이별소설) - 범진 | KBS 230106 방송]]></title>
+        <id>https://tv.naver.com/v/32182330</id>
+        <link href="https://tv.naver.com/v/32182330"/>
+        <updated>2023-01-06T10:07:49.339Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Endless - 에스페로 | KBS 230106 방송]]></title>
         <id>https://tv.naver.com/v/32181947</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/31481464"/>
         <updated>2022-12-09T09:07:55.145Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루하루 - WeNU(위앤유) | KBS 221209 방송]]></title>
-        <id>https://tv.naver.com/v/31481349</id>
-        <link href="https://tv.naver.com/v/31481349"/>
-        <updated>2022-12-09T09:07:55.165Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fight Inside - AIMERS | KBS 221209 방송]]></title>
-        <id>https://tv.naver.com/v/31481316</id>
-        <link href="https://tv.naver.com/v/31481316"/>
-        <updated>2022-12-09T09:07:55.180Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올드스쿨 (Old School) - NTX | KBS 221209 방송]]></title>
-        <id>https://tv.naver.com/v/31481147</id>
-        <link href="https://tv.naver.com/v/31481147"/>
-        <updated>2022-12-09T09:07:55.186Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러브티콘 (♡TiCON) - 첫사랑(CSR) | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31286189</id>
-        <link href="https://tv.naver.com/v/31286189"/>
-        <updated>2022-12-02T10:08:17.352Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHEN I MOVE - 카라 | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31286187</id>
-        <link href="https://tv.naver.com/v/31286187"/>
-        <updated>2022-12-02T10:08:17.352Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birthday - Red Velvet | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31286172</id>
-        <link href="https://tv.naver.com/v/31286172"/>
-        <updated>2022-12-02T10:08:17.353Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheshire - ITZY | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31286047</id>
-        <link href="https://tv.naver.com/v/31286047"/>
-        <updated>2022-12-02T10:08:17.357Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tap Tap - VERIVERY | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31286044</id>
-        <link href="https://tv.naver.com/v/31286044"/>
-        <updated>2022-12-02T10:08:17.357Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The One - DRIPPIN (드리핀) | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31285914</id>
-        <link href="https://tv.naver.com/v/31285914"/>
-        <updated>2022-12-02T10:08:17.357Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back Down - P1Harmony | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31285684</id>
-        <link href="https://tv.naver.com/v/31285684"/>
-        <updated>2022-12-02T10:08:17.357Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼음땡(Freeze Tag) - TO1 | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31285683</id>
-        <link href="https://tv.naver.com/v/31285683"/>
-        <updated>2022-12-02T10:08:17.358Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
