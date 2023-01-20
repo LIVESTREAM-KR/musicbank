@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-01-20T08:10:21.736Z</updated>
+    <updated>2023-01-20T09:08:20.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건물 사이에 피어난 장미 - H1-KEY (하이키) | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532104</id>
+        <link href="https://tv.naver.com/v/32532104"/>
+        <updated>2023-01-20T09:08:20.188Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endless - 에스페로 | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532007</id>
+        <link href="https://tv.naver.com/v/32532007"/>
+        <updated>2023-01-20T09:08:20.188Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[별꽃동화 - 아일리원(ILY:1) | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532003</id>
+        <link href="https://tv.naver.com/v/32532003"/>
+        <updated>2023-01-20T09:08:20.190Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지나갈거야 - 박현서 | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32531829</id>
+        <link href="https://tv.naver.com/v/32531829"/>
+        <updated>2023-01-20T09:08:20.216Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Destiny or Challenge - HEEO (히오) | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32531572</id>
+        <link href="https://tv.naver.com/v/32531572"/>
+        <updated>2023-01-20T09:08:20.216Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRIMROSE - 프림로즈 (PRIMROSE) | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32531411</id>
+        <link href="https://tv.naver.com/v/32531411"/>
+        <updated>2023-01-20T09:08:20.216Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beautiful Liar - MONSTA X | KBS 230113 방송]]></title>
         <id>https://tv.naver.com/v/32360770</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/32182332"/>
         <updated>2023-01-06T10:07:49.339Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우린 한 편의 소설로 남겠죠 (이별소설) - 범진 | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32182330</id>
-        <link href="https://tv.naver.com/v/32182330"/>
-        <updated>2023-01-06T10:07:49.339Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endless - 에스페로 | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32181947</id>
-        <link href="https://tv.naver.com/v/32181947"/>
-        <updated>2023-01-06T09:07:45.823Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑이 온거라면 좋겠다 - 이층버스 | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32181945</id>
-        <link href="https://tv.naver.com/v/32181945"/>
-        <updated>2023-01-06T09:07:45.823Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별꽃동화 - 아일리원(ILY:1) | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32181774</id>
-        <link href="https://tv.naver.com/v/32181774"/>
-        <updated>2023-01-06T09:07:45.823Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조금 더 일찍 이별할 걸 그랬어 - 이아영 | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32181773</id>
-        <link href="https://tv.naver.com/v/32181773"/>
-        <updated>2023-01-06T09:07:45.823Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루하루 - WeNU(위앤유) | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32181771</id>
-        <link href="https://tv.naver.com/v/32181771"/>
-        <updated>2023-01-06T09:07:45.823Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>
