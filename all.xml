@@ -2,8 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-27T09:07:56.403Z</updated>
+    <updated>2023-01-27T10:08:08.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[OMG - 뉴진스(NewJeans) | KBS 230127 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32675119</id>
+        <link href="https://tv.naver.com/v/32675119"/>
+        <updated>2023-01-27T10:08:07.397Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small Things - 예성 (YESUNG) | KBS 230127 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32674963</id>
+        <link href="https://tv.naver.com/v/32674963"/>
+        <updated>2023-01-27T10:08:07.399Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sugar Rush Ride - TOMORROW X TOGETHER | KBS 230127 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32674962</id>
+        <link href="https://tv.naver.com/v/32674962"/>
+        <updated>2023-01-27T10:08:07.441Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devil by the Window - TOMORROW X TOGETHER | KBS 230127 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32674706</id>
+        <link href="https://tv.naver.com/v/32674706"/>
+        <updated>2023-01-27T10:08:07.441Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In my life - 김종서 | KBS 230127 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32674582</id>
+        <link href="https://tv.naver.com/v/32674582"/>
+        <updated>2023-01-27T10:08:07.442Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Queen - 이지영 | KBS 230127 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32674404</id>
+        <link href="https://tv.naver.com/v/32674404"/>
+        <updated>2023-01-27T10:08:07.442Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NoNoNo (원곡:에이핑크(Apink)) - Weeekly (위클리) | KBS 230127 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32674402</id>
+        <link href="https://tv.naver.com/v/32674402"/>
+        <updated>2023-01-27T10:08:07.442Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿈의 거처 - 이승윤 | KBS 230127 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32674136</id>
+        <link href="https://tv.naver.com/v/32674136"/>
+        <updated>2023-01-27T10:08:07.445Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오로라(AURORA) - cignature(시그니처) | KBS 230127 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32674110</id>
+        <link href="https://tv.naver.com/v/32674110"/>
+        <updated>2023-01-27T10:08:07.445Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씰룩씰룩(Green Light) - 류지현 (RYU JIHYUN) | KBS 230127 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32674108</id>
+        <link href="https://tv.naver.com/v/32674108"/>
+        <updated>2023-01-27T10:08:07.445Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건물 사이에 피어난 장미 - H1-KEY (하이키) | KBS 230127 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/32673602</id>
@@ -142,76 +212,6 @@
         <id>https://tv.naver.com/v/32531572</id>
         <link href="https://tv.naver.com/v/32531572"/>
         <updated>2023-01-20T09:08:20.216Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRIMROSE - 프림로즈 (PRIMROSE) | KBS 230120 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32531411</id>
-        <link href="https://tv.naver.com/v/32531411"/>
-        <updated>2023-01-20T09:08:20.216Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful Liar - MONSTA X | KBS 230113 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32360770</id>
-        <link href="https://tv.naver.com/v/32360770"/>
-        <updated>2023-01-13T12:14:53.659Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deny - MONSTA X | KBS 230113 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32360768</id>
-        <link href="https://tv.naver.com/v/32360768"/>
-        <updated>2023-01-13T12:14:53.669Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puzzle - SF9 | KBS 230113 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32360743</id>
-        <link href="https://tv.naver.com/v/32360743"/>
-        <updated>2023-01-13T12:14:53.672Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HALAZIA - ATEEZ(에이티즈) | KBS 230113 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32360628</id>
-        <link href="https://tv.naver.com/v/32360628"/>
-        <updated>2023-01-13T12:14:53.673Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rollercoaster - woo!ah! (우아!) | KBS 230113 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32360504</id>
-        <link href="https://tv.naver.com/v/32360504"/>
-        <updated>2023-01-13T12:14:53.673Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑이 온거라면 좋겠다 - 이층버스 | KBS 230113 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32360380</id>
-        <link href="https://tv.naver.com/v/32360380"/>
-        <updated>2023-01-13T12:14:53.674Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Troublemaker - TO1 | KBS 230113 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32360225</id>
-        <link href="https://tv.naver.com/v/32360225"/>
-        <updated>2023-01-13T12:14:53.675Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건물 사이에 피어난 장미 - H1-KEY (하이키) | KBS 230113 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32360071</id>
-        <link href="https://tv.naver.com/v/32360071"/>
-        <updated>2023-01-13T12:14:53.675Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destiny or Challenge - HEEO (히오) | KBS 230113 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32359904</id>
-        <link href="https://tv.naver.com/v/32359904"/>
-        <updated>2023-01-13T12:14:53.676Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
