@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-02-03T08:10:04.615Z</updated>
+    <updated>2023-02-03T09:07:59.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TIC TAC - 8TURN(에잇턴) | KBS 230203 방송]]></title>
+        <id>https://tv.naver.com/v/32858088</id>
+        <link href="https://tv.naver.com/v/32858088"/>
+        <updated>2023-02-03T09:07:58.351Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Left On Read - 최수환 | KBS 230203 방송]]></title>
+        <id>https://tv.naver.com/v/32857775</id>
+        <link href="https://tv.naver.com/v/32857775"/>
+        <updated>2023-02-03T09:07:58.351Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fireworks - AIMERS | KBS 230203 방송]]></title>
+        <id>https://tv.naver.com/v/32857772</id>
+        <link href="https://tv.naver.com/v/32857772"/>
+        <updated>2023-02-03T09:07:58.362Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIVE - uni(유니) | KBS 230203 방송]]></title>
+        <id>https://tv.naver.com/v/32857458</id>
+        <link href="https://tv.naver.com/v/32857458"/>
+        <updated>2023-02-03T09:07:58.362Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRIMROSE - 프림로즈 (PRIMROSE) | KBS 230203 방송]]></title>
+        <id>https://tv.naver.com/v/32857226</id>
+        <link href="https://tv.naver.com/v/32857226"/>
+        <updated>2023-02-03T09:07:58.362Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OMG - 뉴진스(NewJeans) | KBS 230127 방송]]></title>
         <id>https://tv.naver.com/v/32675119</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/32532338"/>
         <updated>2023-01-20T10:08:28.316Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑이 온거라면 좋겠다 - 이층버스 | KBS 230120 방송]]></title>
-        <id>https://tv.naver.com/v/32532234</id>
-        <link href="https://tv.naver.com/v/32532234"/>
-        <updated>2023-01-20T10:08:28.319Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건물 사이에 피어난 장미 - H1-KEY (하이키) | KBS 230120 방송]]></title>
-        <id>https://tv.naver.com/v/32532104</id>
-        <link href="https://tv.naver.com/v/32532104"/>
-        <updated>2023-01-20T09:08:20.188Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endless - 에스페로 | KBS 230120 방송]]></title>
-        <id>https://tv.naver.com/v/32532007</id>
-        <link href="https://tv.naver.com/v/32532007"/>
-        <updated>2023-01-20T09:08:20.188Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별꽃동화 - 아일리원(ILY:1) | KBS 230120 방송]]></title>
-        <id>https://tv.naver.com/v/32532003</id>
-        <link href="https://tv.naver.com/v/32532003"/>
-        <updated>2023-01-20T09:08:20.190Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지나갈거야 - 박현서 | KBS 230120 방송]]></title>
-        <id>https://tv.naver.com/v/32531829</id>
-        <link href="https://tv.naver.com/v/32531829"/>
-        <updated>2023-01-20T09:08:20.216Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
