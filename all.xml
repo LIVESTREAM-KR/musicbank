@@ -2,8 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-03T09:07:59.037Z</updated>
+    <updated>2023-02-03T10:08:15.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Sugar Rush Ride - TOMORROW X TOGETHER | KBS 230203 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32859402</id>
+        <link href="https://tv.naver.com/v/32859402"/>
+        <updated>2023-02-03T10:08:15.010Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devil by the Window - TOMORROW X TOGETHER | KBS 230203 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32859187</id>
+        <link href="https://tv.naver.com/v/32859187"/>
+        <updated>2023-02-03T10:08:15.010Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PULL UP - VIVIZ(비비지) | KBS 230203 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32859012</id>
+        <link href="https://tv.naver.com/v/32859012"/>
+        <updated>2023-02-03T10:08:15.010Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ay-Yo - NCT 127 | KBS 230203 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32858743</id>
+        <link href="https://tv.naver.com/v/32858743"/>
+        <updated>2023-02-03T10:08:15.042Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿈의 거처 - 이승윤 | KBS 230203 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32858718</id>
+        <link href="https://tv.naver.com/v/32858718"/>
+        <updated>2023-02-03T10:08:15.042Z</updated>
+        <content type="html"><![CDATA[04:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJ - NCT 127 | KBS 230203 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32858614</id>
+        <link href="https://tv.naver.com/v/32858614"/>
+        <updated>2023-02-03T10:08:15.043Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오로라(AURORA) - cignature(시그니처) | KBS 230203 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32858610</id>
+        <link href="https://tv.naver.com/v/32858610"/>
+        <updated>2023-02-03T10:08:15.043Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건물 사이에 피어난 장미 - H1-KEY (하이키) | KBS 230203 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32858374</id>
+        <link href="https://tv.naver.com/v/32858374"/>
+        <updated>2023-02-03T10:08:15.043Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씰룩씰룩(Green Light) - 류지현 (RYU JIHYUN) | KBS 230203 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32858349</id>
+        <link href="https://tv.naver.com/v/32858349"/>
+        <updated>2023-02-03T10:08:15.046Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[별꽃동화 - 아일리원(ILY:1) | KBS 230203 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/32858226</id>
+        <link href="https://tv.naver.com/v/32858226"/>
+        <updated>2023-02-03T10:08:15.046Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TIC TAC - 8TURN(에잇턴) | KBS 230203 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/32858088</id>
@@ -143,75 +213,5 @@
         <link href="https://tv.naver.com/v/32673039"/>
         <updated>2023-01-27T09:07:55.792Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHOOTING STAR - XG | KBS 230127 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32672998</id>
-        <link href="https://tv.naver.com/v/32672998"/>
-        <updated>2023-01-27T09:07:55.792Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful Liar - MONSTA X | KBS 230120 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32532927</id>
-        <link href="https://tv.naver.com/v/32532927"/>
-        <updated>2023-01-20T10:08:28.287Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puzzle - SF9 | KBS 230120 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32532921</id>
-        <link href="https://tv.naver.com/v/32532921"/>
-        <updated>2023-01-20T10:08:28.289Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OMG - 뉴진스(NewJeans) | KBS 230120 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32532900</id>
-        <link href="https://tv.naver.com/v/32532900"/>
-        <updated>2023-01-20T10:08:28.304Z</updated>
-        <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ditto - 뉴진스(NewJeans) | KBS 230120 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32532896</id>
-        <link href="https://tv.naver.com/v/32532896"/>
-        <updated>2023-01-20T10:08:28.305Z</updated>
-        <content type="html"><![CDATA[04:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madness - 문빈&산하(ASTRO) | KBS 230120 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32532810</id>
-        <link href="https://tv.naver.com/v/32532810"/>
-        <updated>2023-01-20T10:08:28.312Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chup Chup - 문빈&산하(ASTRO) | KBS 230120 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32532609</id>
-        <link href="https://tv.naver.com/v/32532609"/>
-        <updated>2023-01-20T10:08:28.313Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rollercoaster - woo!ah! (우아!) | KBS 230120 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32532607</id>
-        <link href="https://tv.naver.com/v/32532607"/>
-        <updated>2023-01-20T10:08:28.316Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Queen - 이지영 | KBS 230120 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32532341</id>
-        <link href="https://tv.naver.com/v/32532341"/>
-        <updated>2023-01-20T10:08:28.316Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오로라(AURORA) - cignature(시그니처) | KBS 230120 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/32532338</id>
-        <link href="https://tv.naver.com/v/32532338"/>
-        <updated>2023-01-20T10:08:28.316Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
 </feed>
