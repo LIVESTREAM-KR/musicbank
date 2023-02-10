@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-02-10T09:08:12.414Z</updated>
+    <updated>2023-02-10T10:08:36.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ay-Yo - NCT 127 | KBS 230210 방송]]></title>
+        <id>https://tv.naver.com/v/33043913</id>
+        <link href="https://tv.naver.com/v/33043913"/>
+        <updated>2023-02-10T10:08:35.696Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sugar Rush Ride - TOMORROW X TOGETHER | KBS 230210 방송]]></title>
+        <id>https://tv.naver.com/v/33043689</id>
+        <link href="https://tv.naver.com/v/33043689"/>
+        <updated>2023-02-10T10:08:35.707Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJ - NCT 127 | KBS 230210 방송]]></title>
+        <id>https://tv.naver.com/v/33043686</id>
+        <link href="https://tv.naver.com/v/33043686"/>
+        <updated>2023-02-10T10:08:35.708Z</updated>
+        <content type="html"><![CDATA[02:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devil by the Window - TOMORROW X TOGETHER | KBS 230210 방송]]></title>
+        <id>https://tv.naver.com/v/33043671</id>
+        <link href="https://tv.naver.com/v/33043671"/>
+        <updated>2023-02-10T10:08:35.716Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파이팅 해야지 (Feat. 이영지) - 부석순 (SEVENTEEN) | KBS 230210 방송]]></title>
+        <id>https://tv.naver.com/v/33043663</id>
+        <link href="https://tv.naver.com/v/33043663"/>
+        <updated>2023-02-10T10:08:35.718Z</updated>
+        <content type="html"><![CDATA[04:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멍청이 - 임창정 | KBS 230210 방송]]></title>
+        <id>https://tv.naver.com/v/33043526</id>
+        <link href="https://tv.naver.com/v/33043526"/>
+        <updated>2023-02-10T10:08:35.719Z</updated>
+        <content type="html"><![CDATA[04:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오로라(AURORA) - cignature(시그니처) | KBS 230210 방송]]></title>
+        <id>https://tv.naver.com/v/33043194</id>
+        <link href="https://tv.naver.com/v/33043194"/>
+        <updated>2023-02-10T10:08:35.720Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PULL UP - VIVIZ(비비지) | KBS 230210 방송]]></title>
+        <id>https://tv.naver.com/v/33043084</id>
+        <link href="https://tv.naver.com/v/33043084"/>
+        <updated>2023-02-10T10:08:35.721Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fireworks - AIMERS | KBS 230210 방송]]></title>
         <id>https://tv.naver.com/v/33042852</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/32857226"/>
         <updated>2023-02-03T09:07:58.362Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OMG - 뉴진스(NewJeans) | KBS 230127 방송]]></title>
-        <id>https://tv.naver.com/v/32675119</id>
-        <link href="https://tv.naver.com/v/32675119"/>
-        <updated>2023-01-27T10:08:07.397Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ditto - 뉴진스(NewJeans) | KBS 230127 방송]]></title>
-        <id>https://tv.naver.com/v/32674996</id>
-        <link href="https://tv.naver.com/v/32674996"/>
-        <updated>2023-01-27T11:07:29.945Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small Things - 예성 (YESUNG) | KBS 230127 방송]]></title>
-        <id>https://tv.naver.com/v/32674963</id>
-        <link href="https://tv.naver.com/v/32674963"/>
-        <updated>2023-01-27T10:08:07.399Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sugar Rush Ride - TOMORROW X TOGETHER | KBS 230127 방송]]></title>
-        <id>https://tv.naver.com/v/32674962</id>
-        <link href="https://tv.naver.com/v/32674962"/>
-        <updated>2023-01-27T10:08:07.441Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devil by the Window - TOMORROW X TOGETHER | KBS 230127 방송]]></title>
-        <id>https://tv.naver.com/v/32674706</id>
-        <link href="https://tv.naver.com/v/32674706"/>
-        <updated>2023-01-27T10:08:07.441Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In my life - 김종서 | KBS 230127 방송]]></title>
-        <id>https://tv.naver.com/v/32674582</id>
-        <link href="https://tv.naver.com/v/32674582"/>
-        <updated>2023-01-27T10:08:07.442Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Queen - 이지영 | KBS 230127 방송]]></title>
-        <id>https://tv.naver.com/v/32674404</id>
-        <link href="https://tv.naver.com/v/32674404"/>
-        <updated>2023-01-27T10:08:07.442Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NoNoNo (원곡:에이핑크(Apink)) - Weeekly (위클리) | KBS 230127 방송]]></title>
-        <id>https://tv.naver.com/v/32674402</id>
-        <link href="https://tv.naver.com/v/32674402"/>
-        <updated>2023-01-27T10:08:07.442Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
