@@ -2,8 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-24T09:09:00.570Z</updated>
+    <updated>2023-02-24T10:09:20.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Teddy Bear - STAYC | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33442278</id>
+        <link href="https://tv.naver.com/v/33442278"/>
+        <updated>2023-02-24T10:09:19.560Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poppy (Korean Ver.) - STAYC | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33442023</id>
+        <link href="https://tv.naver.com/v/33442023"/>
+        <updated>2023-02-24T10:09:19.560Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awake - 더보이즈(THE BOYZ) | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33442013</id>
+        <link href="https://tv.naver.com/v/33442013"/>
+        <updated>2023-02-24T10:09:19.585Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WE ARE YOUNG - 트라이비(TRI.BE) | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441732</id>
+        <link href="https://tv.naver.com/v/33441732"/>
+        <updated>2023-02-24T10:09:19.604Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro : Save Me + Sweet Juice - 퍼플키스(PURPLE KISS) | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441693</id>
+        <link href="https://tv.naver.com/v/33441693"/>
+        <updated>2023-02-24T10:09:19.604Z</updated>
+        <content type="html"><![CDATA[04:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love or Die - TNX | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441304</id>
+        <link href="https://tv.naver.com/v/33441304"/>
+        <updated>2023-02-24T10:09:19.604Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Need U - TNX  | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441302</id>
+        <link href="https://tv.naver.com/v/33441302"/>
+        <updated>2023-02-24T10:09:19.604Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honestly - LIMELIGHT(라임라잇) | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441278</id>
+        <link href="https://tv.naver.com/v/33441278"/>
+        <updated>2023-02-24T10:09:19.604Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Are You - HAWW | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441277</id>
+        <link href="https://tv.naver.com/v/33441277"/>
+        <updated>2023-02-24T10:09:19.604Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cupid - FIFTY FIFTY(피프티 피프티) | KBS 230224 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/33441145</id>
@@ -150,68 +213,5 @@
         <link href="https://tv.naver.com/v/33043913"/>
         <updated>2023-02-10T10:08:35.696Z</updated>
         <content type="html"><![CDATA[04:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sugar Rush Ride - TOMORROW X TOGETHER | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33043689</id>
-        <link href="https://tv.naver.com/v/33043689"/>
-        <updated>2023-02-10T10:08:35.707Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DJ - NCT 127 | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33043686</id>
-        <link href="https://tv.naver.com/v/33043686"/>
-        <updated>2023-02-10T10:08:35.708Z</updated>
-        <content type="html"><![CDATA[02:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devil by the Window - TOMORROW X TOGETHER | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33043671</id>
-        <link href="https://tv.naver.com/v/33043671"/>
-        <updated>2023-02-10T10:08:35.716Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이팅 해야지 (Feat. 이영지) - 부석순 (SEVENTEEN) | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33043663</id>
-        <link href="https://tv.naver.com/v/33043663"/>
-        <updated>2023-02-10T10:08:35.718Z</updated>
-        <content type="html"><![CDATA[04:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멍청이 - 임창정 | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33043526</id>
-        <link href="https://tv.naver.com/v/33043526"/>
-        <updated>2023-02-10T10:08:35.719Z</updated>
-        <content type="html"><![CDATA[04:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오로라(AURORA) - cignature(시그니처) | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33043194</id>
-        <link href="https://tv.naver.com/v/33043194"/>
-        <updated>2023-02-10T10:08:35.720Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PULL UP - VIVIZ(비비지) | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33043084</id>
-        <link href="https://tv.naver.com/v/33043084"/>
-        <updated>2023-02-10T10:08:35.721Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fireworks - AIMERS | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33042852</id>
-        <link href="https://tv.naver.com/v/33042852"/>
-        <updated>2023-02-10T09:08:11.815Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분명한 건 널 사랑했단 거야 - 강버터(Kang Butter) | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33042850</id>
-        <link href="https://tv.naver.com/v/33042850"/>
-        <updated>2023-02-10T09:08:11.819Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
     </entry>
 </feed>
