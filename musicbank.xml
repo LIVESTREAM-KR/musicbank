@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-02-24T10:09:20.448Z</updated>
+    <updated>2023-02-24T11:07:28.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230224 방송]]></title>
+        <id>https://tv.naver.com/v/33442886</id>
+        <link href="https://tv.naver.com/v/33442886"/>
+        <updated>2023-02-24T11:07:27.697Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teddy Bear - STAYC | KBS 230224 방송]]></title>
         <id>https://tv.naver.com/v/33442278</id>
@@ -55,18 +62,18 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Honestly - LIMELIGHT(라임라잇) | KBS 230224 방송]]></title>
-        <id>https://tv.naver.com/v/33441278</id>
-        <link href="https://tv.naver.com/v/33441278"/>
-        <updated>2023-02-24T10:09:19.604Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Are You - HAWW | KBS 230224 방송]]></title>
         <id>https://tv.naver.com/v/33441277</id>
         <link href="https://tv.naver.com/v/33441277"/>
         <updated>2023-02-24T10:09:19.604Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honestly - LIMELIGHT(라임라잇) | KBS 230224 방송]]></title>
+        <id>https://tv.naver.com/v/33441278</id>
+        <link href="https://tv.naver.com/v/33441278"/>
+        <updated>2023-02-24T10:09:19.604Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cupid - FIFTY FIFTY(피프티 피프티) | KBS 230224 방송]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33231134"/>
         <updated>2023-02-17T09:08:32.313Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ay-Yo - NCT 127 | KBS 230210 방송]]></title>
-        <id>https://tv.naver.com/v/33043913</id>
-        <link href="https://tv.naver.com/v/33043913"/>
-        <updated>2023-02-15T13:19:09.828Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
     </entry>
 </feed>
