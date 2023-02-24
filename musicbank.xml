@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-02-24T08:10:33.311Z</updated>
+    <updated>2023-02-24T09:09:00.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cupid - FIFTY FIFTY(피프티 피프티) | KBS 230224 방송]]></title>
+        <id>https://tv.naver.com/v/33441145</id>
+        <link href="https://tv.naver.com/v/33441145"/>
+        <updated>2023-02-24T09:08:59.275Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rising - tripleS | KBS 230224 방송]]></title>
+        <id>https://tv.naver.com/v/33441142</id>
+        <link href="https://tv.naver.com/v/33441142"/>
+        <updated>2023-02-24T09:08:59.286Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIC TAC - 8TURN(에잇턴) | KBS 230224 방송]]></title>
+        <id>https://tv.naver.com/v/33441141</id>
+        <link href="https://tv.naver.com/v/33441141"/>
+        <updated>2023-02-24T09:08:59.286Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안녕 신촌 - 포스트맨 | KBS 230224 방송]]></title>
+        <id>https://tv.naver.com/v/33440555</id>
+        <link href="https://tv.naver.com/v/33440555"/>
+        <updated>2023-02-24T09:08:59.286Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상의 끝에서 - 임윤성 | KBS 230224 방송]]></title>
+        <id>https://tv.naver.com/v/33440250</id>
+        <link href="https://tv.naver.com/v/33440250"/>
+        <updated>2023-02-24T09:08:59.286Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Killer - 키 (KEY) | KBS 230217 방송]]></title>
         <id>https://tv.naver.com/v/33232876</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/33042850"/>
         <updated>2023-02-15T13:19:09.867Z</updated>
         <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아프로디테 - ARTBEAT(아트비트) | KBS 230210 방송]]></title>
-        <id>https://tv.naver.com/v/33042836</id>
-        <link href="https://tv.naver.com/v/33042836"/>
-        <updated>2023-02-15T13:19:09.868Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Left On Read - 최수환 | KBS 230210 방송]]></title>
-        <id>https://tv.naver.com/v/33042616</id>
-        <link href="https://tv.naver.com/v/33042616"/>
-        <updated>2023-02-15T13:19:09.888Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRIMROSE - 프림로즈 (PRIMROSE) | KBS 230210 방송]]></title>
-        <id>https://tv.naver.com/v/33042615</id>
-        <link href="https://tv.naver.com/v/33042615"/>
-        <updated>2023-02-15T13:19:09.888Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIVE - uni(유니) | KBS 230210 방송]]></title>
-        <id>https://tv.naver.com/v/33042481</id>
-        <link href="https://tv.naver.com/v/33042481"/>
-        <updated>2023-02-15T13:19:09.890Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연예인 (원곡 : PSY) - 이채민 X 홍은채  | KBS 230210 방송]]></title>
-        <id>https://tv.naver.com/v/33042107</id>
-        <link href="https://tv.naver.com/v/33042107"/>
-        <updated>2023-02-15T13:19:09.890Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
