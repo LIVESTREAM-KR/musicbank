@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-03T08:11:07.461Z</updated>
+    <updated>2023-03-03T09:10:57.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Cupid - FIFTY FIFTY(피프티 피프티) | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33634722</id>
+        <link href="https://tv.naver.com/v/33634722"/>
+        <updated>2023-03-03T09:10:56.890Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love or Die - TNX | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33634713</id>
+        <link href="https://tv.naver.com/v/33634713"/>
+        <updated>2023-03-03T09:10:56.890Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honestly - LIMELIGHT(라임라잇) | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33634710</id>
+        <link href="https://tv.naver.com/v/33634710"/>
+        <updated>2023-03-03T09:10:56.890Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WE - 8TURN(에잇턴) | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33634432</id>
+        <link href="https://tv.naver.com/v/33634432"/>
+        <updated>2023-03-03T09:10:56.890Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rising - tripleS | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33634293</id>
+        <link href="https://tv.naver.com/v/33634293"/>
+        <updated>2023-03-03T09:10:56.891Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Are You - HAWW | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33634094</id>
+        <link href="https://tv.naver.com/v/33634094"/>
+        <updated>2023-03-03T09:10:56.905Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안녕 신촌 - 포스트맨 | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33634085</id>
+        <link href="https://tv.naver.com/v/33634085"/>
+        <updated>2023-03-03T09:10:56.906Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drivers License - 남동현 (Nam Dong Hyun) | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33633534</id>
+        <link href="https://tv.naver.com/v/33633534"/>
+        <updated>2023-03-03T09:10:56.908Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230224 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/33442886</id>
@@ -157,61 +213,5 @@
         <link href="https://tv.naver.com/v/33232440"/>
         <updated>2023-02-17T10:09:24.175Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Need U - TNX  | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33231992</id>
-        <link href="https://tv.naver.com/v/33231992"/>
-        <updated>2023-02-17T10:09:24.177Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건물 사이에 피어난 장미 - H1-KEY (하이키) | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33231990</id>
-        <link href="https://tv.naver.com/v/33231990"/>
-        <updated>2023-02-17T10:09:24.177Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honestly - LIMELIGHT(라임라잇) | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33231819</id>
-        <link href="https://tv.naver.com/v/33231819"/>
-        <updated>2023-02-17T09:08:32.302Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분명한 건 널 사랑했단 거야 - 강버터(Kang Butter) | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33231816</id>
-        <link href="https://tv.naver.com/v/33231816"/>
-        <updated>2023-02-17T09:08:32.302Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drivers License - 남동현 (Nam Dong Hyun) | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33231789</id>
-        <link href="https://tv.naver.com/v/33231789"/>
-        <updated>2023-02-17T09:08:32.304Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rising - tripleS | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33231385</id>
-        <link href="https://tv.naver.com/v/33231385"/>
-        <updated>2023-02-17T09:08:32.309Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상의 끝에서 - 임윤성 | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33231139</id>
-        <link href="https://tv.naver.com/v/33231139"/>
-        <updated>2023-02-17T09:08:32.311Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아프로디테 - ARTBEAT(아트비트) | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33231134</id>
-        <link href="https://tv.naver.com/v/33231134"/>
-        <updated>2023-02-17T09:08:32.313Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
