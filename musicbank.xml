@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-03-17T09:08:10.352Z</updated>
+    <updated>2023-03-17T10:08:43.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SET ME FREE - TWICE(트와이스) | KBS 230317 방송]]></title>
+        <id>https://tv.naver.com/v/34078872</id>
+        <link href="https://tv.naver.com/v/34078872"/>
+        <updated>2023-03-17T10:08:42.663Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O (Circle) - 온유 (ONEW) | KBS 230317 방송]]></title>
+        <id>https://tv.naver.com/v/34078703</id>
+        <link href="https://tv.naver.com/v/34078703"/>
+        <updated>2023-03-17T10:08:42.668Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우중산책 (Rain On Me) - 온유 (ONEW) | KBS 230317 방송]]></title>
+        <id>https://tv.naver.com/v/34078702</id>
+        <link href="https://tv.naver.com/v/34078702"/>
+        <updated>2023-03-17T10:08:42.678Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rover - KAI | KBS 230317 방송]]></title>
+        <id>https://tv.naver.com/v/34078527</id>
+        <link href="https://tv.naver.com/v/34078527"/>
+        <updated>2023-03-17T10:08:42.678Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mysterious - 니콜 | KBS 230317 방송]]></title>
+        <id>https://tv.naver.com/v/34078403</id>
+        <link href="https://tv.naver.com/v/34078403"/>
+        <updated>2023-03-17T10:08:42.678Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Without U - 유주 | KBS 230317 방송]]></title>
+        <id>https://tv.naver.com/v/34078358</id>
+        <link href="https://tv.naver.com/v/34078358"/>
+        <updated>2023-03-17T10:08:42.678Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P.O.W! (Play On the World) - 체리블렛 (Cherry Bullet) | KBS 230317 방송]]></title>
+        <id>https://tv.naver.com/v/34078153</id>
+        <link href="https://tv.naver.com/v/34078153"/>
+        <updated>2023-03-17T10:08:42.678Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바람이라면 - Y (골든차일드) | KBS 230317 방송]]></title>
+        <id>https://tv.naver.com/v/34077853</id>
+        <link href="https://tv.naver.com/v/34077853"/>
+        <updated>2023-03-17T10:08:42.678Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groovy - CRAVITY | KBS 230317 방송]]></title>
+        <id>https://tv.naver.com/v/34077643</id>
+        <link href="https://tv.naver.com/v/34077643"/>
+        <updated>2023-03-17T10:08:42.678Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ON MY WAY - 울랄라세션(ULALA SESSION) | KBS 230317 방송]]></title>
+        <id>https://tv.naver.com/v/34077629</id>
+        <link href="https://tv.naver.com/v/34077629"/>
+        <updated>2023-03-17T10:08:42.678Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[seOul drift - OnlyOneOf (온리원오브) | KBS 230317 방송]]></title>
         <id>https://tv.naver.com/v/34077474</id>
@@ -27,13 +97,6 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너랑 친구도 하기 싫어 - 임사랑 | KBS 230317 방송]]></title>
-        <id>https://tv.naver.com/v/34076876</id>
-        <link href="https://tv.naver.com/v/34076876"/>
-        <updated>2023-03-17T09:08:09.734Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Are You - HAWW | KBS 230317 방송]]></title>
         <id>https://tv.naver.com/v/34076868</id>
         <link href="https://tv.naver.com/v/34076868"/>
@@ -46,6 +109,13 @@
         <link href="https://tv.naver.com/v/34076866"/>
         <updated>2023-03-17T09:08:09.736Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너랑 친구도 하기 싫어 - 임사랑 | KBS 230317 방송]]></title>
+        <id>https://tv.naver.com/v/34076876</id>
+        <link href="https://tv.naver.com/v/34076876"/>
+        <updated>2023-03-17T09:08:09.734Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230303 방송]]></title>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/33634293"/>
         <updated>2023-03-03T09:10:56.891Z</updated>
         <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Are You - HAWW | KBS 230303 방송]]></title>
-        <id>https://tv.naver.com/v/33634094</id>
-        <link href="https://tv.naver.com/v/33634094"/>
-        <updated>2023-03-03T09:10:56.905Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕 신촌 - 포스트맨 | KBS 230303 방송]]></title>
-        <id>https://tv.naver.com/v/33634085</id>
-        <link href="https://tv.naver.com/v/33634085"/>
-        <updated>2023-03-03T09:10:56.906Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drivers License - 남동현 (Nam Dong Hyun) | KBS 230303 방송]]></title>
-        <id>https://tv.naver.com/v/33633534</id>
-        <link href="https://tv.naver.com/v/33633534"/>
-        <updated>2023-03-03T09:10:56.908Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230224 방송]]></title>
-        <id>https://tv.naver.com/v/33442886</id>
-        <link href="https://tv.naver.com/v/33442886"/>
-        <updated>2023-02-24T11:07:27.697Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teddy Bear - STAYC | KBS 230224 방송]]></title>
-        <id>https://tv.naver.com/v/33442278</id>
-        <link href="https://tv.naver.com/v/33442278"/>
-        <updated>2023-02-24T10:09:19.560Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poppy (Korean Ver.) - STAYC | KBS 230224 방송]]></title>
-        <id>https://tv.naver.com/v/33442023</id>
-        <link href="https://tv.naver.com/v/33442023"/>
-        <updated>2023-02-24T10:09:19.560Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awake - 더보이즈(THE BOYZ) | KBS 230224 방송]]></title>
-        <id>https://tv.naver.com/v/33442013</id>
-        <link href="https://tv.naver.com/v/33442013"/>
-        <updated>2023-02-24T10:09:19.585Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WE ARE YOUNG - 트라이비(TRI.BE) | KBS 230224 방송]]></title>
-        <id>https://tv.naver.com/v/33441732</id>
-        <link href="https://tv.naver.com/v/33441732"/>
-        <updated>2023-02-24T10:09:19.604Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intro : Save Me + Sweet Juice - 퍼플키스(PURPLE KISS) | KBS 230224 방송]]></title>
-        <id>https://tv.naver.com/v/33441693</id>
-        <link href="https://tv.naver.com/v/33441693"/>
-        <updated>2023-02-24T10:09:19.604Z</updated>
-        <content type="html"><![CDATA[04:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love or Die - TNX | KBS 230224 방송]]></title>
-        <id>https://tv.naver.com/v/33441304</id>
-        <link href="https://tv.naver.com/v/33441304"/>
-        <updated>2023-02-24T10:09:19.604Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
