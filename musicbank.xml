@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-03-24T08:08:56.465Z</updated>
+    <updated>2023-03-24T09:08:03.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fix YOU - TAN | KBS 230324 방송]]></title>
+        <id>https://tv.naver.com/v/34303374</id>
+        <link href="https://tv.naver.com/v/34303374"/>
+        <updated>2023-03-24T09:08:02.538Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송]]></title>
+        <id>https://tv.naver.com/v/34303370</id>
+        <link href="https://tv.naver.com/v/34303370"/>
+        <updated>2023-03-24T09:08:02.538Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wanna Be Love - HAWW | KBS 230324 방송]]></title>
+        <id>https://tv.naver.com/v/34302822</id>
+        <link href="https://tv.naver.com/v/34302822"/>
+        <updated>2023-03-24T09:08:02.538Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ON MY WAY - 울랄라세션(ULALA SESSION) | KBS 230324 방송]]></title>
+        <id>https://tv.naver.com/v/34302812</id>
+        <link href="https://tv.naver.com/v/34302812"/>
+        <updated>2023-03-24T09:08:02.538Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SET ME FREE - TWICE(트와이스) | KBS 230317 방송]]></title>
         <id>https://tv.naver.com/v/34078872</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/33634722"/>
         <updated>2023-03-03T09:10:56.890Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love or Die - TNX | KBS 230303 방송]]></title>
-        <id>https://tv.naver.com/v/33634713</id>
-        <link href="https://tv.naver.com/v/33634713"/>
-        <updated>2023-03-03T09:10:56.890Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honestly - LIMELIGHT(라임라잇) | KBS 230303 방송]]></title>
-        <id>https://tv.naver.com/v/33634710</id>
-        <link href="https://tv.naver.com/v/33634710"/>
-        <updated>2023-03-03T09:10:56.890Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WE - 8TURN(에잇턴) | KBS 230303 방송]]></title>
-        <id>https://tv.naver.com/v/33634432</id>
-        <link href="https://tv.naver.com/v/33634432"/>
-        <updated>2023-03-03T09:10:56.890Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rising - tripleS | KBS 230303 방송]]></title>
-        <id>https://tv.naver.com/v/33634293</id>
-        <link href="https://tv.naver.com/v/33634293"/>
-        <updated>2023-03-03T09:10:56.891Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
     </entry>
 </feed>
