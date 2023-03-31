@@ -2,8 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-31T09:07:28.738Z</updated>
+    <updated>2023-03-31T10:08:29.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Like Crazy - 지민 | KBS 230331 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34520418</id>
+        <link href="https://tv.naver.com/v/34520418"/>
+        <updated>2023-03-31T10:08:28.666Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Me Free Pt.2 - 지민 | KBS 230331 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34520415</id>
+        <link href="https://tv.naver.com/v/34520415"/>
+        <updated>2023-03-31T10:08:28.678Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Me Like This - NMIXX(엔믹스) | KBS 230331 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34520183</id>
+        <link href="https://tv.naver.com/v/34520183"/>
+        <updated>2023-03-31T10:08:28.681Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sour & Sweet - 뱀뱀 (BamBam) | KBS 230331 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34519942</id>
+        <link href="https://tv.naver.com/v/34519942"/>
+        <updated>2023-03-31T10:08:28.684Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GGBB - 마마무+ | KBS 230331 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34519908</id>
+        <link href="https://tv.naver.com/v/34519908"/>
+        <updated>2023-03-31T10:08:28.685Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groovy - CRAVITY | KBS 230331 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34519735</id>
+        <link href="https://tv.naver.com/v/34519735"/>
+        <updated>2023-03-31T10:08:28.704Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄바람 - 김재환 | KBS 230331 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34519594</id>
+        <link href="https://tv.naver.com/v/34519594"/>
+        <updated>2023-03-31T10:08:28.704Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EUNOIA - Billlie | KBS 230331 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34519454</id>
+        <link href="https://tv.naver.com/v/34519454"/>
+        <updated>2023-03-31T10:08:28.704Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛을 따라서 (Shining Bright) - 첫사랑(CSR) | KBS 230331 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34519296</id>
+        <link href="https://tv.naver.com/v/34519296"/>
+        <updated>2023-03-31T10:08:28.709Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intro + 도깨비집 (TRICKY HOUSE) - xikers(싸이커스) | KBS 230331 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/34519102</id>
@@ -150,68 +213,5 @@
         <link href="https://tv.naver.com/v/34302822"/>
         <updated>2023-03-24T09:08:02.538Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ON MY WAY - 울랄라세션(ULALA SESSION) | KBS 230324 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34302812</id>
-        <link href="https://tv.naver.com/v/34302812"/>
-        <updated>2023-03-24T09:08:02.538Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SET ME FREE - TWICE(트와이스) | KBS 230317 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34078872</id>
-        <link href="https://tv.naver.com/v/34078872"/>
-        <updated>2023-03-17T10:08:42.663Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O (Circle) - 온유 (ONEW) | KBS 230317 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34078703</id>
-        <link href="https://tv.naver.com/v/34078703"/>
-        <updated>2023-03-17T10:08:42.668Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우중산책 (Rain On Me) - 온유 (ONEW) | KBS 230317 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34078702</id>
-        <link href="https://tv.naver.com/v/34078702"/>
-        <updated>2023-03-17T10:08:42.678Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rover - KAI | KBS 230317 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34078527</id>
-        <link href="https://tv.naver.com/v/34078527"/>
-        <updated>2023-03-17T10:08:42.678Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mysterious - 니콜 | KBS 230317 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34078403</id>
-        <link href="https://tv.naver.com/v/34078403"/>
-        <updated>2023-03-17T10:08:42.678Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Without U - 유주 | KBS 230317 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34078358</id>
-        <link href="https://tv.naver.com/v/34078358"/>
-        <updated>2023-03-17T10:08:42.678Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P.O.W! (Play On the World) - 체리블렛 (Cherry Bullet) | KBS 230317 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34078153</id>
-        <link href="https://tv.naver.com/v/34078153"/>
-        <updated>2023-03-17T10:08:42.678Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바람이라면 - Y (골든차일드) | KBS 230317 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34077853</id>
-        <link href="https://tv.naver.com/v/34077853"/>
-        <updated>2023-03-17T10:08:42.678Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
     </entry>
 </feed>
