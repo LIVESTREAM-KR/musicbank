@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-03-31T08:10:19.735Z</updated>
+    <updated>2023-03-31T09:07:28.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Intro + 도깨비집 (TRICKY HOUSE) - xikers(싸이커스) | KBS 230331 방송]]></title>
+        <id>https://tv.naver.com/v/34519102</id>
+        <link href="https://tv.naver.com/v/34519102"/>
+        <updated>2023-03-31T09:07:28.118Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW DAYZ - TRENDZ(트렌드지) | KBS 230331 방송]]></title>
+        <id>https://tv.naver.com/v/34519095</id>
+        <link href="https://tv.naver.com/v/34519095"/>
+        <updated>2023-03-31T09:07:28.118Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230331 방송]]></title>
+        <id>https://tv.naver.com/v/34518767</id>
+        <link href="https://tv.naver.com/v/34518767"/>
+        <updated>2023-03-31T09:07:28.118Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NUGUDOM - CRAXY (크랙시) | KBS 230331 방송]]></title>
+        <id>https://tv.naver.com/v/34518766</id>
+        <link href="https://tv.naver.com/v/34518766"/>
+        <updated>2023-03-31T09:07:28.118Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alarm - ICHILLIN’(아이칠린) | KBS 230331 방송]]></title>
+        <id>https://tv.naver.com/v/34518405</id>
+        <link href="https://tv.naver.com/v/34518405"/>
+        <updated>2023-03-31T09:07:28.129Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eyes On Me - 아리 | KBS 230331 방송]]></title>
+        <id>https://tv.naver.com/v/34518157</id>
+        <link href="https://tv.naver.com/v/34518157"/>
+        <updated>2023-03-31T09:07:28.129Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송]]></title>
         <id>https://tv.naver.com/v/34315348</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/34077853"/>
         <updated>2023-03-17T10:08:42.678Z</updated>
         <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groovy - CRAVITY | KBS 230317 방송]]></title>
-        <id>https://tv.naver.com/v/34077643</id>
-        <link href="https://tv.naver.com/v/34077643"/>
-        <updated>2023-03-17T10:08:42.678Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ON MY WAY - 울랄라세션(ULALA SESSION) | KBS 230317 방송]]></title>
-        <id>https://tv.naver.com/v/34077629</id>
-        <link href="https://tv.naver.com/v/34077629"/>
-        <updated>2023-03-17T10:08:42.678Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[seOul drift - OnlyOneOf (온리원오브) | KBS 230317 방송]]></title>
-        <id>https://tv.naver.com/v/34077474</id>
-        <link href="https://tv.naver.com/v/34077474"/>
-        <updated>2023-03-17T09:08:09.733Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix YOU - TAN | KBS 230317 방송]]></title>
-        <id>https://tv.naver.com/v/34077446</id>
-        <link href="https://tv.naver.com/v/34077446"/>
-        <updated>2023-03-17T09:08:09.734Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW DAYZ - TRENDZ(트렌드지) | KBS 230317 방송]]></title>
-        <id>https://tv.naver.com/v/34077265</id>
-        <link href="https://tv.naver.com/v/34077265"/>
-        <updated>2023-03-17T09:08:09.734Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Are You - HAWW | KBS 230317 방송]]></title>
-        <id>https://tv.naver.com/v/34076868</id>
-        <link href="https://tv.naver.com/v/34076868"/>
-        <updated>2023-03-17T09:08:09.736Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
