@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-04-04T08:10:29.747Z</updated>
+    <updated>2023-04-04T09:08:06.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -213,6 +213,6 @@
         <id>https://tv.naver.com/v/34303374</id>
         <link href="https://tv.naver.com/v/34303374"/>
         <updated>2023-03-24T09:08:02.538Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
+        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
