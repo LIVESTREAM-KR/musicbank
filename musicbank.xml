@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-04-14T09:07:51.799Z</updated>
+    <updated>2023-04-14T10:08:15.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kitsch - IVE | KBS 230414 방송]]></title>
+        <id>https://tv.naver.com/v/34961568</id>
+        <link href="https://tv.naver.com/v/34961568"/>
+        <updated>2023-04-14T10:08:15.166Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blank Effect (무표정) - 박지훈 | KBS 230414 방송]]></title>
+        <id>https://tv.naver.com/v/34961457</id>
+        <link href="https://tv.naver.com/v/34961457"/>
+        <updated>2023-04-14T10:08:15.174Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I AM - IVE | KBS 230414 방송]]></title>
+        <id>https://tv.naver.com/v/34961427</id>
+        <link href="https://tv.naver.com/v/34961427"/>
+        <updated>2023-04-14T10:08:15.177Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EUNOIA - Billlie | KBS 230414 방송]]></title>
+        <id>https://tv.naver.com/v/34961423</id>
+        <link href="https://tv.naver.com/v/34961423"/>
+        <updated>2023-04-14T10:08:15.177Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KNOCK - 이채연 | KBS 230414 방송]]></title>
+        <id>https://tv.naver.com/v/34961013</id>
+        <link href="https://tv.naver.com/v/34961013"/>
+        <updated>2023-04-14T10:08:15.177Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dawn - 김우석 | KBS 230414 방송]]></title>
+        <id>https://tv.naver.com/v/34960888</id>
+        <link href="https://tv.naver.com/v/34960888"/>
+        <updated>2023-04-14T10:08:15.177Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giddy - 케플러(Kep1er) | KBS 230414 방송]]></title>
+        <id>https://tv.naver.com/v/34960879</id>
+        <link href="https://tv.naver.com/v/34960879"/>
+        <updated>2023-04-14T10:08:15.177Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cherry Tok - 예은(YEEUN) | KBS 230414 방송]]></title>
+        <id>https://tv.naver.com/v/34960734</id>
+        <link href="https://tv.naver.com/v/34960734"/>
+        <updated>2023-04-14T10:08:15.178Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lemonade - 드림노트(DreamNote) | KBS 230414 방송]]></title>
+        <id>https://tv.naver.com/v/34960609</id>
+        <link href="https://tv.naver.com/v/34960609"/>
+        <updated>2023-04-14T10:08:15.178Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love Me Like This - NMIXX(엔믹스) | KBS 230414 방송]]></title>
         <id>https://tv.naver.com/v/34960447</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/34734694"/>
         <updated>2023-04-07T09:07:37.239Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alarm - ICHILLIN’(아이칠린) | KBS 230407 방송]]></title>
-        <id>https://tv.naver.com/v/34734669</id>
-        <link href="https://tv.naver.com/v/34734669"/>
-        <updated>2023-04-07T09:07:37.239Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Like Crazy - 지민(BTS Jimin) | KBS 230331 방송]]></title>
-        <id>https://tv.naver.com/v/34520418</id>
-        <link href="https://tv.naver.com/v/34520418"/>
-        <updated>2023-03-31T10:08:28.666Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set Me Free Pt.2 - 지민(BTS Jimin) | KBS 230331 방송]]></title>
-        <id>https://tv.naver.com/v/34520415</id>
-        <link href="https://tv.naver.com/v/34520415"/>
-        <updated>2023-03-31T10:08:28.678Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Me Like This - NMIXX(엔믹스) | KBS 230331 방송]]></title>
-        <id>https://tv.naver.com/v/34520183</id>
-        <link href="https://tv.naver.com/v/34520183"/>
-        <updated>2023-03-31T10:08:28.681Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sour & Sweet - 뱀뱀 (BamBam) | KBS 230331 방송]]></title>
-        <id>https://tv.naver.com/v/34519942</id>
-        <link href="https://tv.naver.com/v/34519942"/>
-        <updated>2023-03-31T10:08:28.684Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GGBB - 마마무+ | KBS 230331 방송]]></title>
-        <id>https://tv.naver.com/v/34519908</id>
-        <link href="https://tv.naver.com/v/34519908"/>
-        <updated>2023-03-31T10:08:28.685Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIPPY TOE - 뱀뱀 (BamBam) | KBS 230331 방송]]></title>
-        <id>https://tv.naver.com/v/34519736</id>
-        <link href="https://tv.naver.com/v/34519736"/>
-        <updated>2023-03-31T11:06:29.262Z</updated>
-        <content type="html"><![CDATA[01:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groovy - CRAVITY | KBS 230331 방송]]></title>
-        <id>https://tv.naver.com/v/34519735</id>
-        <link href="https://tv.naver.com/v/34519735"/>
-        <updated>2023-03-31T10:08:28.704Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄바람 - 김재환 | KBS 230331 방송]]></title>
-        <id>https://tv.naver.com/v/34519594</id>
-        <link href="https://tv.naver.com/v/34519594"/>
-        <updated>2023-03-31T10:08:28.704Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
 </feed>
