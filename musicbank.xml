@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-04-17T01:59:21.590Z</updated>
+    <updated>2023-04-17T02:30:23.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -55,7 +55,7 @@
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cherry Coke - 예은(YEEUN) | KBS 230414 방송]]></title>
+        <title type="html"><![CDATA[Cherry Tok - 예은(YEEUN) | KBS 230414 방송]]></title>
         <id>https://tv.naver.com/v/34960734</id>
         <link href="https://tv.naver.com/v/34960734"/>
         <updated>2023-04-14T10:08:15.178Z</updated>
