@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-04-21T09:07:39.171Z</updated>
+    <updated>2023-04-21T10:08:12.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I AM - IVE | KBS 230421 방송]]></title>
+        <id>https://tv.naver.com/v/35195987</id>
+        <link href="https://tv.naver.com/v/35195987"/>
+        <updated>2023-04-21T10:08:11.542Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predator - 이기광 | KBS 230421 방송]]></title>
+        <id>https://tv.naver.com/v/35195820</id>
+        <link href="https://tv.naver.com/v/35195820"/>
+        <updated>2023-04-21T10:08:11.542Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHOW DOWN - 앨리스(ALICE) | KBS 230421 방송]]></title>
+        <id>https://tv.naver.com/v/35195815</id>
+        <link href="https://tv.naver.com/v/35195815"/>
+        <updated>2023-04-21T10:08:11.542Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blank Effect (무표정) - 박지훈 | KBS 230421 방송]]></title>
+        <id>https://tv.naver.com/v/35195442</id>
+        <link href="https://tv.naver.com/v/35195442"/>
+        <updated>2023-04-21T10:08:11.542Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEVEN SINS - DRIPPIN (드리핀) | KBS 230421 방송]]></title>
+        <id>https://tv.naver.com/v/35195440</id>
+        <link href="https://tv.naver.com/v/35195440"/>
+        <updated>2023-04-21T10:08:11.542Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KNOCK - 이채연 | KBS 230421 방송]]></title>
+        <id>https://tv.naver.com/v/35195239</id>
+        <link href="https://tv.naver.com/v/35195239"/>
+        <updated>2023-04-21T10:08:11.546Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[난장(Dangerous) - TEMPEST(템페스트) | KBS 230421 방송]]></title>
+        <id>https://tv.naver.com/v/35195231</id>
+        <link href="https://tv.naver.com/v/35195231"/>
+        <updated>2023-04-21T10:08:11.550Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dawn - 김우석 | KBS 230421 방송]]></title>
         <id>https://tv.naver.com/v/35194992</id>
@@ -13,7 +62,7 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cherry Tok - 예은(YEEUN) | KBS 230421 방송]]></title>
+        <title type="html"><![CDATA[Cherry Coke - 예은(YEEUN) | KBS 230421 방송]]></title>
         <id>https://tv.naver.com/v/35194826</id>
         <link href="https://tv.naver.com/v/35194826"/>
         <updated>2023-04-21T09:07:38.410Z</updated>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/34959919"/>
         <updated>2023-04-14T09:07:51.160Z</updated>
         <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOT ME (Feat.DJ 세마) - 피스트범프(FISTBUMP) | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34959540</id>
-        <link href="https://tv.naver.com/v/34959540"/>
-        <updated>2023-04-14T09:07:51.161Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D N D - 에이핑크 | KBS 230407 방송]]></title>
-        <id>https://tv.naver.com/v/34736637</id>
-        <link href="https://tv.naver.com/v/34736637"/>
-        <updated>2023-04-07T10:07:51.861Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Me, Myself & I - 에이핑크 | KBS 230407 방송]]></title>
-        <id>https://tv.naver.com/v/34736633</id>
-        <link href="https://tv.naver.com/v/34736633"/>
-        <updated>2023-04-07T10:07:51.863Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sour & Sweet - 뱀뱀 (BamBam) | KBS 230407 방송]]></title>
-        <id>https://tv.naver.com/v/34736372</id>
-        <link href="https://tv.naver.com/v/34736372"/>
-        <updated>2023-04-07T10:07:51.865Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dawn - 김우석 | KBS 230407 방송]]></title>
-        <id>https://tv.naver.com/v/34736368</id>
-        <link href="https://tv.naver.com/v/34736368"/>
-        <updated>2023-04-07T10:07:51.869Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EUNOIA - Billlie | KBS 230407 방송]]></title>
-        <id>https://tv.naver.com/v/34736359</id>
-        <link href="https://tv.naver.com/v/34736359"/>
-        <updated>2023-04-07T10:07:51.871Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW DAYZ - TRENDZ(트렌드지) | KBS 230407 방송]]></title>
-        <id>https://tv.naver.com/v/34736091</id>
-        <link href="https://tv.naver.com/v/34736091"/>
-        <updated>2023-04-07T10:07:51.874Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
