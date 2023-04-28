@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-04-28T08:09:15.681Z</updated>
+    <updated>2023-04-28T09:08:05.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마카레나(Macarena) - 블리처스 | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35423506</id>
+        <link href="https://tv.naver.com/v/35423506"/>
+        <updated>2023-04-28T09:08:04.787Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freakin’ Bad - Xdinary Heroes | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35423328</id>
+        <link href="https://tv.naver.com/v/35423328"/>
+        <updated>2023-04-28T09:08:04.788Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여우가 시집가는 날 - EPEX(이펙스) | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35423147</id>
+        <link href="https://tv.naver.com/v/35423147"/>
+        <updated>2023-04-28T09:08:04.788Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[난장(Dangerous) - TEMPEST(템페스트) | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35422951</id>
+        <link href="https://tv.naver.com/v/35422951"/>
+        <updated>2023-04-28T09:08:04.788Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROCKSTAR - xikers(싸이커스) | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35422743</id>
+        <link href="https://tv.naver.com/v/35422743"/>
+        <updated>2023-04-28T09:08:04.789Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Breezy - 주은 | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35422740</id>
+        <link href="https://tv.naver.com/v/35422740"/>
+        <updated>2023-04-28T09:08:04.799Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THROW A DICE - XODIAC | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35422563</id>
+        <link href="https://tv.naver.com/v/35422563"/>
+        <updated>2023-04-28T09:08:04.799Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I AM - IVE | KBS 230421 방송]]></title>
         <id>https://tv.naver.com/v/35195987</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/34960734"/>
         <updated>2023-04-14T10:08:15.178Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lemonade - 드림노트(DreamNote) | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34960609</id>
-        <link href="https://tv.naver.com/v/34960609"/>
-        <updated>2023-04-14T10:08:15.178Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Me Like This - NMIXX(엔믹스) | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34960447</id>
-        <link href="https://tv.naver.com/v/34960447"/>
-        <updated>2023-04-14T09:07:51.157Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛을 따라서 (Shining Bright) - 첫사랑(CSR) | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34960446</id>
-        <link href="https://tv.naver.com/v/34960446"/>
-        <updated>2023-04-14T09:07:51.157Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도깨비집 (TRICKY HOUSE) - xikers(싸이커스) | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34960428</id>
-        <link href="https://tv.naver.com/v/34960428"/>
-        <updated>2023-04-14T09:07:51.159Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NUGUDOM - CRAXY (크랙시) | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34959934</id>
-        <link href="https://tv.naver.com/v/34959934"/>
-        <updated>2023-04-14T09:07:51.160Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alarm - ICHILLIN’(아이칠린) | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34959929</id>
-        <link href="https://tv.naver.com/v/34959929"/>
-        <updated>2023-04-14T09:07:51.160Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KEEPING THE FIRE - X:IN (엑신) | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34959919</id>
-        <link href="https://tv.naver.com/v/34959919"/>
-        <updated>2023-04-14T09:07:51.160Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
     </entry>
 </feed>
