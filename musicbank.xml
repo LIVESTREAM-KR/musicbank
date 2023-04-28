@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-04-28T09:08:05.657Z</updated>
+    <updated>2023-04-28T10:07:39.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Perfume - NCT DOJAEJUNG | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35424733</id>
+        <link href="https://tv.naver.com/v/35424733"/>
+        <updated>2023-04-28T10:07:38.969Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I AM - IVE | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35424606</id>
+        <link href="https://tv.naver.com/v/35424606"/>
+        <updated>2023-04-28T10:07:38.970Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kitsch - IVE | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35424605</id>
+        <link href="https://tv.naver.com/v/35424605"/>
+        <updated>2023-04-28T10:07:38.971Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손오공 - 세븐틴 (SEVENTEEN) | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35424456</id>
+        <link href="https://tv.naver.com/v/35424456"/>
+        <updated>2023-04-28T10:07:38.975Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predator - 이기광 | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35424451</id>
+        <link href="https://tv.naver.com/v/35424451"/>
+        <updated>2023-04-28T10:07:38.977Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KNOCK - 이채연 | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35424120</id>
+        <link href="https://tv.naver.com/v/35424120"/>
+        <updated>2023-04-28T10:07:38.978Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEVEN SINS - DRIPPIN (드리핀) | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35424111</id>
+        <link href="https://tv.naver.com/v/35424111"/>
+        <updated>2023-04-28T10:07:38.980Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHOW DOWN - 앨리스(ALICE) | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35423984</id>
+        <link href="https://tv.naver.com/v/35423984"/>
+        <updated>2023-04-28T10:07:38.981Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Journey - WOODZ | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35423841</id>
+        <link href="https://tv.naver.com/v/35423841"/>
+        <updated>2023-04-28T10:07:38.982Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giddy - 케플러(Kep1er) | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35423701</id>
+        <link href="https://tv.naver.com/v/35423701"/>
+        <updated>2023-04-28T10:07:38.984Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucid Dream - CRAXY (크랙시) | KBS 230428 방송]]></title>
+        <id>https://tv.naver.com/v/35423694</id>
+        <link href="https://tv.naver.com/v/35423694"/>
+        <updated>2023-04-28T10:07:38.985Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마카레나(Macarena) - 블리처스 | KBS 230428 방송]]></title>
         <id>https://tv.naver.com/v/35423506</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/35194782"/>
         <updated>2023-04-21T09:07:38.416Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lemonade - 드림노트(DreamNote) | KBS 230421 방송]]></title>
-        <id>https://tv.naver.com/v/35194779</id>
-        <link href="https://tv.naver.com/v/35194779"/>
-        <updated>2023-04-21T09:07:38.417Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 봄이 되어줘 - 박현서 | KBS 230421 방송]]></title>
-        <id>https://tv.naver.com/v/35194775</id>
-        <link href="https://tv.naver.com/v/35194775"/>
-        <updated>2023-04-21T09:07:38.417Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KEEPING THE FIRE - X:IN (엑신) | KBS 230421 방송]]></title>
-        <id>https://tv.naver.com/v/35193950</id>
-        <link href="https://tv.naver.com/v/35193950"/>
-        <updated>2023-04-21T09:07:38.419Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kitsch - IVE | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34961568</id>
-        <link href="https://tv.naver.com/v/34961568"/>
-        <updated>2023-04-14T10:08:15.166Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blank Effect (무표정) - 박지훈 | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34961457</id>
-        <link href="https://tv.naver.com/v/34961457"/>
-        <updated>2023-04-14T10:08:15.174Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I AM - IVE | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34961427</id>
-        <link href="https://tv.naver.com/v/34961427"/>
-        <updated>2023-04-14T10:08:15.177Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EUNOIA - Billlie | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34961423</id>
-        <link href="https://tv.naver.com/v/34961423"/>
-        <updated>2023-04-14T10:08:15.177Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KNOCK - 이채연 | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34961013</id>
-        <link href="https://tv.naver.com/v/34961013"/>
-        <updated>2023-04-14T10:08:15.177Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dawn - 김우석 | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34960888</id>
-        <link href="https://tv.naver.com/v/34960888"/>
-        <updated>2023-04-14T10:08:15.177Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giddy - 케플러(Kep1er) | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34960879</id>
-        <link href="https://tv.naver.com/v/34960879"/>
-        <updated>2023-04-14T10:08:15.177Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cherry Tok - 예은(YEEUN) | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34960734</id>
-        <link href="https://tv.naver.com/v/34960734"/>
-        <updated>2023-04-14T10:08:15.178Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
