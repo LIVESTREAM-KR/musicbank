@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-05-12T08:09:07.306Z</updated>
+    <updated>2023-05-12T09:07:22.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Freakin’ Bad - Xdinary Heroes | KBS 230512 방송]]></title>
+        <id>https://tv.naver.com/v/35868982</id>
+        <link href="https://tv.naver.com/v/35868982"/>
+        <updated>2023-05-12T09:07:22.287Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble - AIMERS | KBS 230512 방송]]></title>
+        <id>https://tv.naver.com/v/35868780</id>
+        <link href="https://tv.naver.com/v/35868780"/>
+        <updated>2023-05-12T09:07:22.287Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Per - ADYA  | KBS 230512 방송]]></title>
+        <id>https://tv.naver.com/v/35868775</id>
+        <link href="https://tv.naver.com/v/35868775"/>
+        <updated>2023-05-12T09:07:22.288Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄의 고백 - 예빈나다 | KBS 230512 방송]]></title>
+        <id>https://tv.naver.com/v/35868557</id>
+        <link href="https://tv.naver.com/v/35868557"/>
+        <updated>2023-05-12T09:07:22.289Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Life - 세븐틴 (SEVENTEEN) | KBS 230505 방송]]></title>
         <id>https://tv.naver.com/v/35635567</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/35423701"/>
         <updated>2023-04-28T10:07:38.984Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucid Dream - CRAXY (크랙시) | KBS 230428 방송]]></title>
-        <id>https://tv.naver.com/v/35423694</id>
-        <link href="https://tv.naver.com/v/35423694"/>
-        <updated>2023-04-28T10:07:38.985Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마카레나(Macarena) - 블리처스 | KBS 230428 방송]]></title>
-        <id>https://tv.naver.com/v/35423506</id>
-        <link href="https://tv.naver.com/v/35423506"/>
-        <updated>2023-04-28T09:08:04.787Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freakin’ Bad - Xdinary Heroes | KBS 230428 방송]]></title>
-        <id>https://tv.naver.com/v/35423328</id>
-        <link href="https://tv.naver.com/v/35423328"/>
-        <updated>2023-04-28T09:08:04.788Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여우가 시집가는 날 - EPEX(이펙스) | KBS 230428 방송]]></title>
-        <id>https://tv.naver.com/v/35423147</id>
-        <link href="https://tv.naver.com/v/35423147"/>
-        <updated>2023-04-28T09:08:04.788Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
