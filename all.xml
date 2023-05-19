@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-19T08:09:21.695Z</updated>
+    <updated>2023-05-19T09:07:29.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[GT (Prod. KENZIE) - BAE173 | KBS 230519 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/36105419</id>
+        <link href="https://tv.naver.com/v/36105419"/>
+        <updated>2023-05-19T09:07:28.818Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WATERFALL - YOUNITE | KBS 230519 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/36105236</id>
+        <link href="https://tv.naver.com/v/36105236"/>
+        <updated>2023-05-19T09:07:28.831Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next to me - ATBO | KBS 230519 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/36105235</id>
+        <link href="https://tv.naver.com/v/36105235"/>
+        <updated>2023-05-19T09:07:28.841Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siren - ICHILLIN’ (아이칠린) | KBS 230519 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/36105078</id>
+        <link href="https://tv.naver.com/v/36105078"/>
+        <updated>2023-05-19T09:07:28.841Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble - AIMERS | KBS 230519 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/36105074</id>
+        <link href="https://tv.naver.com/v/36105074"/>
+        <updated>2023-05-19T09:07:28.850Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Per - ADYA | KBS 230519 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/36104824</id>
+        <link href="https://tv.naver.com/v/36104824"/>
+        <updated>2023-05-19T09:07:28.850Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISLAND - 더윈드 (The Wind) | KBS 230519 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/36104816</id>
+        <link href="https://tv.naver.com/v/36104816"/>
+        <updated>2023-05-19T09:07:28.852Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM | KBS 230512 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/35872648</id>
@@ -164,54 +213,5 @@
         <link href="https://tv.naver.com/v/35635256"/>
         <updated>2023-05-05T10:08:16.226Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여우가 시집가는 날 - EPEX (이펙스) | KBS 230505 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/35635254</id>
-        <link href="https://tv.naver.com/v/35635254"/>
-        <updated>2023-05-05T10:08:16.228Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lemonade - 드림노트 (DreamNote) | KBS 230505 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/35635252</id>
-        <link href="https://tv.naver.com/v/35635252"/>
-        <updated>2023-05-05T10:08:16.229Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROYALTY - MUSTB (머스트비) | KBS 230505 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/35635251</id>
-        <link href="https://tv.naver.com/v/35635251"/>
-        <updated>2023-05-05T10:08:16.231Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freakin’ Bad - Xdinary Heroes | KBS 230505 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/35635141</id>
-        <link href="https://tv.naver.com/v/35635141"/>
-        <updated>2023-05-05T10:08:16.236Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난장(Dangerous) - TEMPEST(템페스트) | KBS 230505 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/35635060</id>
-        <link href="https://tv.naver.com/v/35635060"/>
-        <updated>2023-05-05T10:08:16.246Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROCKSTAR - xikers(싸이커스) | KBS 230505 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/35634170</id>
-        <link href="https://tv.naver.com/v/35634170"/>
-        <updated>2023-05-05T09:08:29.113Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막이란 걸 알면서도 - 이아영 | KBS 230505 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/35634166</id>
-        <link href="https://tv.naver.com/v/35634166"/>
-        <updated>2023-05-05T09:08:29.115Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
