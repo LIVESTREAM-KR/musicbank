@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-05-19T09:07:29.590Z</updated>
+    <updated>2023-05-19T10:07:57.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Spicy - aespa | KBS 230519 방송]]></title>
+        <id>https://tv.naver.com/v/36107145</id>
+        <link href="https://tv.naver.com/v/36107145"/>
+        <updated>2023-05-19T10:07:56.507Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM | KBS 230519 방송]]></title>
+        <id>https://tv.naver.com/v/36107144</id>
+        <link href="https://tv.naver.com/v/36107144"/>
+        <updated>2023-05-19T10:07:56.507Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230519 방송]]></title>
+        <id>https://tv.naver.com/v/36107140</id>
+        <link href="https://tv.naver.com/v/36107140"/>
+        <updated>2023-05-19T10:07:56.509Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crazy Like That - VERIVERY | KBS 230519 방송]]></title>
+        <id>https://tv.naver.com/v/36107138</id>
+        <link href="https://tv.naver.com/v/36107138"/>
+        <updated>2023-05-19T10:07:56.514Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부동의 첫사랑 - 10CM | KBS 230519 방송]]></title>
+        <id>https://tv.naver.com/v/36107137</id>
+        <link href="https://tv.naver.com/v/36107137"/>
+        <updated>2023-05-19T10:07:56.516Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movie Star - 미주 (MIJOO) | KBS 230519 방송]]></title>
+        <id>https://tv.naver.com/v/36106987</id>
+        <link href="https://tv.naver.com/v/36106987"/>
+        <updated>2023-05-19T10:07:56.518Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERASE ME - 원어스 (ONEUS) | KBS 230519 방송]]></title>
+        <id>https://tv.naver.com/v/36106055</id>
+        <link href="https://tv.naver.com/v/36106055"/>
+        <updated>2023-05-19T10:07:56.525Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KNOCK - 이채연 | KBS 230519 방송]]></title>
+        <id>https://tv.naver.com/v/36105662</id>
+        <link href="https://tv.naver.com/v/36105662"/>
+        <updated>2023-05-19T10:07:56.527Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GT (Prod. KENZIE) - BAE173 | KBS 230519 방송]]></title>
         <id>https://tv.naver.com/v/36105419</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/35868557"/>
         <updated>2023-05-12T09:07:22.289Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Life - 세븐틴 (SEVENTEEN) | KBS 230505 방송]]></title>
-        <id>https://tv.naver.com/v/35635567</id>
-        <link href="https://tv.naver.com/v/35635567"/>
-        <updated>2023-05-05T10:08:16.219Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 바람 (Wind And Wish) - 비투비 (BTOB) | KBS 230505 방송]]></title>
-        <id>https://tv.naver.com/v/35635563</id>
-        <link href="https://tv.naver.com/v/35635563"/>
-        <updated>2023-05-05T10:08:16.219Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfume - NCT DOJAEJUNG | KBS 230505 방송]]></title>
-        <id>https://tv.naver.com/v/35635453</id>
-        <link href="https://tv.naver.com/v/35635453"/>
-        <updated>2023-05-05T10:08:16.219Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No-Return (Into the unknown) - LE SSERAFIM | KBS 230505 방송]]></title>
-        <id>https://tv.naver.com/v/35635345</id>
-        <link href="https://tv.naver.com/v/35635345"/>
-        <updated>2023-05-05T10:08:16.220Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM | KBS 230505 방송]]></title>
-        <id>https://tv.naver.com/v/35635340</id>
-        <link href="https://tv.naver.com/v/35635340"/>
-        <updated>2023-05-05T10:08:16.222Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEVEN SINS - DRIPPIN (드리핀) | KBS 230505 방송]]></title>
-        <id>https://tv.naver.com/v/35635339</id>
-        <link href="https://tv.naver.com/v/35635339"/>
-        <updated>2023-05-05T10:08:16.224Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHOW DOWN - 앨리스 (ALICE) | KBS 230505 방송]]></title>
-        <id>https://tv.naver.com/v/35635257</id>
-        <link href="https://tv.naver.com/v/35635257"/>
-        <updated>2023-05-05T10:08:16.225Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마카레나(Macarena) - 블리처스 | KBS 230505 방송]]></title>
-        <id>https://tv.naver.com/v/35635256</id>
-        <link href="https://tv.naver.com/v/35635256"/>
-        <updated>2023-05-05T10:08:16.226Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
