@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-05-26T08:09:10.386Z</updated>
+    <updated>2023-05-26T09:07:35.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Next to Me - ATBO]]></title>
+        <id>https://tv.naver.com/v/36352492</id>
+        <link href="https://tv.naver.com/v/36352492"/>
+        <updated>2023-05-26T09:07:35.087Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫 키스에 내 심장은 120BPM - 경서]]></title>
+        <id>https://tv.naver.com/v/36352493</id>
+        <link href="https://tv.naver.com/v/36352493"/>
+        <updated>2023-05-26T09:07:35.088Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Per - ADYA]]></title>
+        <id>https://tv.naver.com/v/36351895</id>
+        <link href="https://tv.naver.com/v/36351895"/>
+        <updated>2023-05-26T09:07:35.096Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISLAND - 더윈드 (The Wind)]]></title>
+        <id>https://tv.naver.com/v/36351739</id>
+        <link href="https://tv.naver.com/v/36351739"/>
+        <updated>2023-05-26T09:07:35.096Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble - AIMERS]]></title>
+        <id>https://tv.naver.com/v/36351472</id>
+        <link href="https://tv.naver.com/v/36351472"/>
+        <updated>2023-05-26T09:07:35.097Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spicy - aespa | KBS 230519 방송]]></title>
         <id>https://tv.naver.com/v/36107145</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/35869655"/>
         <updated>2023-05-12T10:07:22.006Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siren - ICHILLIN’ (아이칠린) | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35869485</id>
-        <link href="https://tv.naver.com/v/35869485"/>
-        <updated>2023-05-12T10:07:22.007Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freakin’ Bad - Xdinary Heroes | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35868982</id>
-        <link href="https://tv.naver.com/v/35868982"/>
-        <updated>2023-05-12T09:07:22.287Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble - AIMERS | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35868780</id>
-        <link href="https://tv.naver.com/v/35868780"/>
-        <updated>2023-05-12T09:07:22.287Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Per - ADYA  | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35868775</id>
-        <link href="https://tv.naver.com/v/35868775"/>
-        <updated>2023-05-12T09:07:22.288Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄의 고백 - 예빈나다 | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35868557</id>
-        <link href="https://tv.naver.com/v/35868557"/>
-        <updated>2023-05-12T09:07:22.289Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
