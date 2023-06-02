@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-06-02T08:09:07.811Z</updated>
+    <updated>2023-06-02T09:07:04.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돌아버리겠다 - BOYNEXTDOOR | KBS 230602 방송]]></title>
+        <id>https://tv.naver.com/v/36587327</id>
+        <link href="https://tv.naver.com/v/36587327"/>
+        <updated>2023-06-02T09:07:03.525Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning Point (Prod. 주헌 (몬스타엑스)) - 다크비(DKB) | KBS 230602 방송]]></title>
+        <id>https://tv.naver.com/v/36587153</id>
+        <link href="https://tv.naver.com/v/36587153"/>
+        <updated>2023-06-02T09:07:03.533Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WATERFALL - YOUNITE | KBS 230602 방송]]></title>
+        <id>https://tv.naver.com/v/36587106</id>
+        <link href="https://tv.naver.com/v/36587106"/>
+        <updated>2023-06-02T09:07:03.534Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next to Me - ATBO | KBS 230602 방송]]></title>
+        <id>https://tv.naver.com/v/36586862</id>
+        <link href="https://tv.naver.com/v/36586862"/>
+        <updated>2023-06-02T09:07:03.535Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISLAND - 더윈드 (The Wind) | KBS 230602 방송]]></title>
+        <id>https://tv.naver.com/v/36586429</id>
+        <link href="https://tv.naver.com/v/36586429"/>
+        <updated>2023-06-02T09:07:03.535Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230526 방송]]></title>
         <id>https://tv.naver.com/v/36353876</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/36105419"/>
         <updated>2023-05-19T09:07:28.818Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WATERFALL - YOUNITE | KBS 230519 방송]]></title>
-        <id>https://tv.naver.com/v/36105236</id>
-        <link href="https://tv.naver.com/v/36105236"/>
-        <updated>2023-05-19T09:07:28.831Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next to me - ATBO | KBS 230519 방송]]></title>
-        <id>https://tv.naver.com/v/36105235</id>
-        <link href="https://tv.naver.com/v/36105235"/>
-        <updated>2023-05-19T09:07:28.841Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siren - ICHILLIN’ (아이칠린) | KBS 230519 방송]]></title>
-        <id>https://tv.naver.com/v/36105078</id>
-        <link href="https://tv.naver.com/v/36105078"/>
-        <updated>2023-05-19T09:07:28.841Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble - AIMERS | KBS 230519 방송]]></title>
-        <id>https://tv.naver.com/v/36105074</id>
-        <link href="https://tv.naver.com/v/36105074"/>
-        <updated>2023-05-19T09:07:28.850Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Per - ADYA | KBS 230519 방송]]></title>
-        <id>https://tv.naver.com/v/36104824</id>
-        <link href="https://tv.naver.com/v/36104824"/>
-        <updated>2023-05-19T09:07:28.850Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
