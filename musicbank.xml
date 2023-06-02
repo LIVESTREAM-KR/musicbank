@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-06-02T10:07:27.779Z</updated>
+    <updated>2023-06-02T11:04:47.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/36589181"/>
         <updated>2023-06-02T10:07:27.145Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[특 - Stray Kids (스트레이 키즈) | KBS 230602 방송]]></title>
+        <id>https://tv.naver.com/v/36589179</id>
+        <link href="https://tv.naver.com/v/36589179"/>
+        <updated>2023-06-02T11:04:47.025Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FREEDOM - 주헌 | KBS 230602 방송]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36351895"/>
         <updated>2023-05-26T09:07:35.096Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISLAND - 더윈드 (The Wind) | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36351739</id>
-        <link href="https://tv.naver.com/v/36351739"/>
-        <updated>2023-05-26T09:07:35.096Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
