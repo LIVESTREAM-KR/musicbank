@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-06-09T09:07:36.698Z</updated>
+    <updated>2023-06-09T10:07:44.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[특 - Stray Kids (스트레이 키즈) | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36826087</id>
+        <link href="https://tv.naver.com/v/36826087"/>
+        <updated>2023-06-09T10:07:43.412Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤랄라 (SHALALA) - 태용 (TAEYONG) | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36826082</id>
+        <link href="https://tv.naver.com/v/36826082"/>
+        <updated>2023-06-09T10:07:43.413Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[관둬 (GWANDO) - 태용 (TAEYONG) | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36825812</id>
+        <link href="https://tv.naver.com/v/36825812"/>
+        <updated>2023-06-09T10:07:43.415Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[menow - fromis_9 (프로미스나인) | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36825699</id>
+        <link href="https://tv.naver.com/v/36825699"/>
+        <updated>2023-06-09T10:07:43.417Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attitude - fromis_9 (프로미스나인) | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36825515</id>
+        <link href="https://tv.naver.com/v/36825515"/>
+        <updated>2023-06-09T10:07:43.437Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUMP - P1Harmony | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36825510</id>
+        <link href="https://tv.naver.com/v/36825510"/>
+        <updated>2023-06-09T10:07:43.441Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOSER - AB6IX (에이비식스) | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36825200</id>
+        <link href="https://tv.naver.com/v/36825200"/>
+        <updated>2023-06-09T10:07:43.441Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save me, Kill me - CIX(씨아이엑스) | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36825169</id>
+        <link href="https://tv.naver.com/v/36825169"/>
+        <updated>2023-06-09T10:07:43.441Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독사 (DOXA) - SECRET NUMBER (시크릿넘버) | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36825037</id>
+        <link href="https://tv.naver.com/v/36825037"/>
+        <updated>2023-06-09T10:07:43.446Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kick It 4 Now - THE NEW SIX (TNX) | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36824750</id>
+        <link href="https://tv.naver.com/v/36824750"/>
+        <updated>2023-06-09T10:07:43.447Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOUNCE - ATBO | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36824568</id>
+        <link href="https://tv.naver.com/v/36824568"/>
+        <updated>2023-06-09T10:07:43.449Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One and Only - BOYNEXTDOOR | KBS 230609 방송]]></title>
         <id>https://tv.naver.com/v/36824549</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/36587106"/>
         <updated>2023-06-02T09:07:03.534Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next to Me - ATBO | KBS 230602 방송]]></title>
-        <id>https://tv.naver.com/v/36586862</id>
-        <link href="https://tv.naver.com/v/36586862"/>
-        <updated>2023-06-02T09:07:03.535Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISLAND - 더윈드 (The Wind) | KBS 230602 방송]]></title>
-        <id>https://tv.naver.com/v/36586429</id>
-        <link href="https://tv.naver.com/v/36586429"/>
-        <updated>2023-06-02T09:07:03.535Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36353876</id>
-        <link href="https://tv.naver.com/v/36353876"/>
-        <updated>2023-05-26T10:08:16.105Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FREEDOM - 주헌 | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36353874</id>
-        <link href="https://tv.naver.com/v/36353874"/>
-        <updated>2023-05-26T10:08:16.117Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bite Me - ENHYPEN(엔하이픈) | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36353681</id>
-        <link href="https://tv.naver.com/v/36353681"/>
-        <updated>2023-05-26T10:08:16.118Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bills - ENHYPEN(엔하이픈) | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36353513</id>
-        <link href="https://tv.naver.com/v/36353513"/>
-        <updated>2023-05-26T10:08:16.118Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이브, 프시케 그리고 푸른 수염의 아내 - LE SSERAFIM | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36353370</id>
-        <link href="https://tv.naver.com/v/36353370"/>
-        <updated>2023-05-26T10:08:16.125Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BONVOYAGE - 드림캐쳐 | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36353367</id>
-        <link href="https://tv.naver.com/v/36353367"/>
-        <updated>2023-05-26T10:08:16.126Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crazy Like That - VERIVERY | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36353184</id>
-        <link href="https://tv.naver.com/v/36353184"/>
-        <updated>2023-05-26T10:08:16.126Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICKY - KARD | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36353010</id>
-        <link href="https://tv.naver.com/v/36353010"/>
-        <updated>2023-05-26T10:08:16.126Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독사 (DOXA) - SECRET NUMBER (시크릿넘버) | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36353008</id>
-        <link href="https://tv.naver.com/v/36353008"/>
-        <updated>2023-05-26T10:08:16.126Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
