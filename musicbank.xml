@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-06-09T08:09:52.133Z</updated>
+    <updated>2023-06-09T09:07:36.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[One and Only - BOYNEXTDOOR | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36824549</id>
+        <link href="https://tv.naver.com/v/36824549"/>
+        <updated>2023-06-09T09:07:35.983Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DDU DDU LOVE♡ - 키코 X 디핵 | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36824396</id>
+        <link href="https://tv.naver.com/v/36824396"/>
+        <updated>2023-06-09T09:07:35.994Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don‘t Call Me - NINE to SIX | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36824235</id>
+        <link href="https://tv.naver.com/v/36824235"/>
+        <updated>2023-06-09T09:07:35.996Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISLAND - 더윈드 (The Wind) | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36824193</id>
+        <link href="https://tv.naver.com/v/36824193"/>
+        <updated>2023-06-09T09:07:35.998Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luv Myself - 박로시 | KBS 230609 방송]]></title>
+        <id>https://tv.naver.com/v/36823947</id>
+        <link href="https://tv.naver.com/v/36823947"/>
+        <updated>2023-06-09T09:07:36.000Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230602 방송]]></title>
         <id>https://tv.naver.com/v/36589357</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/36353008"/>
         <updated>2023-05-26T10:08:16.126Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마카레나(Macarena) - 블리처스 | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36352689</id>
-        <link href="https://tv.naver.com/v/36352689"/>
-        <updated>2023-05-26T10:08:16.126Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WATERFALL - YOUNITE | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36352666</id>
-        <link href="https://tv.naver.com/v/36352666"/>
-        <updated>2023-05-26T10:08:16.126Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 키스에 내 심장은 120BPM - 경서 | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36352493</id>
-        <link href="https://tv.naver.com/v/36352493"/>
-        <updated>2023-05-26T09:07:35.088Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next to Me - ATBO | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36352492</id>
-        <link href="https://tv.naver.com/v/36352492"/>
-        <updated>2023-05-26T09:07:35.087Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Per - ADYA | KBS 230526 방송]]></title>
-        <id>https://tv.naver.com/v/36351895</id>
-        <link href="https://tv.naver.com/v/36351895"/>
-        <updated>2023-05-26T09:07:35.096Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
