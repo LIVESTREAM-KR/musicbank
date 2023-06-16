@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-06-16T11:05:21.815Z</updated>
+    <updated>2023-06-16T12:12:37.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BOUNCY - ATEEZ(에이티즈) | KBS 230616 방송]]></title>
+        <title type="html"><![CDATA[BOUNCY (K-HOT CHILLI PEPPERS) - ATEEZ(에이티즈) | KBS 230616 방송]]></title>
         <id>https://tv.naver.com/v/37071957</id>
         <link href="https://tv.naver.com/v/37071957"/>
         <updated>2023-06-16T10:12:23.578Z</updated>
