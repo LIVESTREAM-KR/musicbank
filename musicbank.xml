@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-06-16T08:09:23.652Z</updated>
+    <updated>2023-06-16T09:09:54.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Don‘t Call Me - NINE to SIX | KBS 230616 방송]]></title>
+        <id>https://tv.naver.com/v/37070181</id>
+        <link href="https://tv.naver.com/v/37070181"/>
+        <updated>2023-06-16T09:09:53.751Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karma - BLACKSWAN | KBS 230616 방송]]></title>
+        <id>https://tv.naver.com/v/37069653</id>
+        <link href="https://tv.naver.com/v/37069653"/>
+        <updated>2023-06-16T09:09:53.751Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luv Myself - 박로시 | KBS 230616 방송]]></title>
+        <id>https://tv.naver.com/v/37069415</id>
+        <link href="https://tv.naver.com/v/37069415"/>
+        <updated>2023-06-16T09:09:53.753Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[특 - Stray Kids (스트레이 키즈) | KBS 230609 방송]]></title>
         <id>https://tv.naver.com/v/36826087</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/36587564"/>
         <updated>2023-06-02T10:07:27.156Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아버리겠다 - BOYNEXTDOOR | KBS 230602 방송]]></title>
-        <id>https://tv.naver.com/v/36587327</id>
-        <link href="https://tv.naver.com/v/36587327"/>
-        <updated>2023-06-02T09:07:03.525Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning Point (Prod. 주헌 (몬스타엑스)) - 다크비(DKB) | KBS 230602 방송]]></title>
-        <id>https://tv.naver.com/v/36587153</id>
-        <link href="https://tv.naver.com/v/36587153"/>
-        <updated>2023-06-02T09:07:03.533Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WATERFALL - YOUNITE | KBS 230602 방송]]></title>
-        <id>https://tv.naver.com/v/36587106</id>
-        <link href="https://tv.naver.com/v/36587106"/>
-        <updated>2023-06-02T09:07:03.534Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
