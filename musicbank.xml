@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-06-23T08:18:50.733Z</updated>
+    <updated>2023-06-23T09:08:26.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Scent of you (Korean ver.) - &TEAM | KBS 230623 방송]]></title>
+        <id>https://tv.naver.com/v/37308803</id>
+        <link href="https://tv.naver.com/v/37308803"/>
+        <updated>2023-06-23T09:08:26.142Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIREWORK (Korean ver.) - &TEAM | KBS 230623 방송]]></title>
+        <id>https://tv.naver.com/v/37308639</id>
+        <link href="https://tv.naver.com/v/37308639"/>
+        <updated>2023-06-23T09:08:26.142Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who’s Next - Lapillus(라필루스) | KBS 230623 방송]]></title>
+        <id>https://tv.naver.com/v/37308472</id>
+        <link href="https://tv.naver.com/v/37308472"/>
+        <updated>2023-06-23T09:08:26.143Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touch - tripleS +(KR)ystalEyes | KBS 230623 방송]]></title>
+        <id>https://tv.naver.com/v/37308283</id>
+        <link href="https://tv.naver.com/v/37308283"/>
+        <updated>2023-06-23T09:08:26.146Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serenade - BOYNEXTDOOR | KBS 230623 방송]]></title>
+        <id>https://tv.naver.com/v/37308111</id>
+        <link href="https://tv.naver.com/v/37308111"/>
+        <updated>2023-06-23T09:08:26.148Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wild Heart - LUN8(루네이트) | KBS 230623 방송]]></title>
+        <id>https://tv.naver.com/v/37308110</id>
+        <link href="https://tv.naver.com/v/37308110"/>
+        <updated>2023-06-23T09:08:26.160Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤랄라 (SHALALA) - 태용 (TAEYONG) | KBS 230616 방송]]></title>
         <id>https://tv.naver.com/v/37072065</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/36825200"/>
         <updated>2023-06-09T10:07:43.441Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save me, Kill me - CIX(씨아이엑스) | KBS 230609 방송]]></title>
-        <id>https://tv.naver.com/v/36825169</id>
-        <link href="https://tv.naver.com/v/36825169"/>
-        <updated>2023-06-09T10:07:43.441Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독사 (DOXA) - SECRET NUMBER (시크릿넘버) | KBS 230609 방송]]></title>
-        <id>https://tv.naver.com/v/36825037</id>
-        <link href="https://tv.naver.com/v/36825037"/>
-        <updated>2023-06-09T10:07:43.446Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kick It 4 Now - THE NEW SIX (TNX) | KBS 230609 방송]]></title>
-        <id>https://tv.naver.com/v/36824750</id>
-        <link href="https://tv.naver.com/v/36824750"/>
-        <updated>2023-06-09T10:07:43.447Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOUNCE - ATBO | KBS 230609 방송]]></title>
-        <id>https://tv.naver.com/v/36824568</id>
-        <link href="https://tv.naver.com/v/36824568"/>
-        <updated>2023-06-09T10:07:43.449Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One and Only - BOYNEXTDOOR | KBS 230609 방송]]></title>
-        <id>https://tv.naver.com/v/36824549</id>
-        <link href="https://tv.naver.com/v/36824549"/>
-        <updated>2023-06-09T09:07:35.983Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DDU DDU LOVE♡ - 키코 X 디핵 | KBS 230609 방송]]></title>
-        <id>https://tv.naver.com/v/36824396</id>
-        <link href="https://tv.naver.com/v/36824396"/>
-        <updated>2023-06-09T09:07:35.994Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
     </entry>
 </feed>
