@@ -2,8 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-23T09:08:26.915Z</updated>
+    <updated>2023-06-23T10:08:55.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Broken Melodies - NCT DREAM | KBS 230623 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37310306</id>
+        <link href="https://tv.naver.com/v/37310306"/>
+        <updated>2023-06-23T10:08:55.169Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOUNCY (K-HOT CHILLI PEPPERS) - ATEEZ(에이티즈) | KBS 230623 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37310165</id>
+        <link href="https://tv.naver.com/v/37310165"/>
+        <updated>2023-06-23T10:08:55.170Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개이득 (Feat. BOBBY) - 김재환 | KBS 230623 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37309890</id>
+        <link href="https://tv.naver.com/v/37309890"/>
+        <updated>2023-06-23T10:08:55.170Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOS - 강다니엘 | KBS 230623 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37309848</id>
+        <link href="https://tv.naver.com/v/37309848"/>
+        <updated>2023-06-23T10:08:55.170Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Need Love - 다크비(DKB) | KBS 230623 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37309703</id>
+        <link href="https://tv.naver.com/v/37309703"/>
+        <updated>2023-06-23T10:08:55.170Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＃menow - fromis_9 (프로미스나인) | KBS 230623 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37309573</id>
+        <link href="https://tv.naver.com/v/37309573"/>
+        <updated>2023-06-23T10:08:55.170Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designer - VAV | KBS 230623 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37309477</id>
+        <link href="https://tv.naver.com/v/37309477"/>
+        <updated>2023-06-23T10:08:55.170Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잔인한 여자, 철없는 남자 - 웻보이 X 조현아 | KBS 230623 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37309440</id>
+        <link href="https://tv.naver.com/v/37309440"/>
+        <updated>2023-06-23T10:08:55.170Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kick It 4 Now - THE NEW SIX (TNX) | KBS 230623 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37309297</id>
+        <link href="https://tv.naver.com/v/37309297"/>
+        <updated>2023-06-23T10:08:55.171Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비행구름 - 백예빈 | KBS 230623 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37308820</id>
+        <link href="https://tv.naver.com/v/37308820"/>
+        <updated>2023-06-23T10:08:55.172Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scent of you (Korean ver.) - &TEAM | KBS 230623 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/37308803</id>
@@ -143,75 +213,5 @@
         <link href="https://tv.naver.com/v/37070577"/>
         <updated>2023-06-16T10:12:23.594Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don‘t Call Me - NINE to SIX | KBS 230616 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37070181</id>
-        <link href="https://tv.naver.com/v/37070181"/>
-        <updated>2023-06-16T09:09:53.751Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karma - BLACKSWAN | KBS 230616 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37069653</id>
-        <link href="https://tv.naver.com/v/37069653"/>
-        <updated>2023-06-16T09:09:53.751Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luv Myself - 박로시 | KBS 230616 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37069415</id>
-        <link href="https://tv.naver.com/v/37069415"/>
-        <updated>2023-06-16T09:09:53.753Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특 - Stray Kids (스트레이 키즈) | KBS 230609 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36826087</id>
-        <link href="https://tv.naver.com/v/36826087"/>
-        <updated>2023-06-09T10:07:43.412Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤랄라 (SHALALA) - 태용 (TAEYONG) | KBS 230609 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36826082</id>
-        <link href="https://tv.naver.com/v/36826082"/>
-        <updated>2023-06-09T10:07:43.413Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관둬 (GWANDO) - 태용 (TAEYONG) | KBS 230609 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36825812</id>
-        <link href="https://tv.naver.com/v/36825812"/>
-        <updated>2023-06-09T10:07:43.415Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＃menow - fromis_9 (프로미스나인) | KBS 230609 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36825699</id>
-        <link href="https://tv.naver.com/v/36825699"/>
-        <updated>2023-06-09T10:07:43.417Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attitude - fromis_9 (프로미스나인) | KBS 230609 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36825515</id>
-        <link href="https://tv.naver.com/v/36825515"/>
-        <updated>2023-06-09T10:07:43.437Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUMP - P1Harmony | KBS 230609 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36825510</id>
-        <link href="https://tv.naver.com/v/36825510"/>
-        <updated>2023-06-09T10:07:43.441Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOSER - AB6IX (에이비식스) | KBS 230609 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36825200</id>
-        <link href="https://tv.naver.com/v/36825200"/>
-        <updated>2023-06-09T10:07:43.441Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
