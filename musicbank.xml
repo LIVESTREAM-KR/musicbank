@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-07-07T08:10:42.706Z</updated>
+    <updated>2023-07-07T09:08:22.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EXCEL - 8TURN(에잇턴) | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37791019</id>
+        <link href="https://tv.naver.com/v/37791019"/>
+        <updated>2023-07-07T09:08:21.703Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touch - tripleS +(KR)ystalEyes | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37790839</id>
+        <link href="https://tv.naver.com/v/37790839"/>
+        <updated>2023-07-07T09:08:21.707Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wild Heart - LUN8(루네이트) | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37790689</id>
+        <link href="https://tv.naver.com/v/37790689"/>
+        <updated>2023-07-07T09:08:21.709Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쉿 (Shhh) - KISS OF LIFE | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37790442</id>
+        <link href="https://tv.naver.com/v/37790442"/>
+        <updated>2023-07-07T09:08:21.710Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해적이 되고 싶었던 소년 - 남동현 | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37790215</id>
+        <link href="https://tv.naver.com/v/37790215"/>
+        <updated>2023-07-07T09:08:21.711Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BOUNCY (K-HOT CHILLI PEPPERS) - ATEEZ(에이티즈) | KBS 230630 방송]]></title>
         <id>https://tv.naver.com/v/37546679</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/37309890"/>
         <updated>2023-06-23T10:08:55.170Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOS - 강다니엘 | KBS 230623 방송]]></title>
-        <id>https://tv.naver.com/v/37309848</id>
-        <link href="https://tv.naver.com/v/37309848"/>
-        <updated>2023-06-23T10:08:55.170Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Need Love - 다크비(DKB) | KBS 230623 방송]]></title>
-        <id>https://tv.naver.com/v/37309703</id>
-        <link href="https://tv.naver.com/v/37309703"/>
-        <updated>2023-06-23T10:08:55.170Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＃menow - fromis_9 (프로미스나인) | KBS 230623 방송]]></title>
-        <id>https://tv.naver.com/v/37309573</id>
-        <link href="https://tv.naver.com/v/37309573"/>
-        <updated>2023-06-23T10:08:55.170Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designer - VAV | KBS 230623 방송]]></title>
-        <id>https://tv.naver.com/v/37309477</id>
-        <link href="https://tv.naver.com/v/37309477"/>
-        <updated>2023-06-23T10:08:55.170Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔인한 여자, 철없는 남자 - 웻보이 X 조현아 | KBS 230623 방송]]></title>
-        <id>https://tv.naver.com/v/37309440</id>
-        <link href="https://tv.naver.com/v/37309440"/>
-        <updated>2023-06-23T10:08:55.170Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
