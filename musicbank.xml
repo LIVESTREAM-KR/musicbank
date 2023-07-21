@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-07-21T08:10:49.114Z</updated>
+    <updated>2023-07-21T09:07:40.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UN-NORMAL - Queenz Eye | KBS 230721 방송]]></title>
+        <id>https://tv.naver.com/v/38287427</id>
+        <link href="https://tv.naver.com/v/38287427"/>
+        <updated>2023-07-21T09:07:38.991Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXCEL - 8TURN(에잇턴) | KBS 230721 방송]]></title>
+        <id>https://tv.naver.com/v/38287275</id>
+        <link href="https://tv.naver.com/v/38287275"/>
+        <updated>2023-07-21T09:07:38.991Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voyager - LUN8(루네이트) | KBS 230721 방송]]></title>
+        <id>https://tv.naver.com/v/38287085</id>
+        <link href="https://tv.naver.com/v/38287085"/>
+        <updated>2023-07-21T09:07:38.993Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cream Soda - EXO | KBS 230714 방송]]></title>
         <id>https://tv.naver.com/v/38051701</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/37790839"/>
         <updated>2023-07-07T09:08:21.707Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wild Heart - LUN8(루네이트) | KBS 230707 방송]]></title>
-        <id>https://tv.naver.com/v/37790689</id>
-        <link href="https://tv.naver.com/v/37790689"/>
-        <updated>2023-07-07T09:08:21.709Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉿 (Shhh) - KISS OF LIFE | KBS 230707 방송]]></title>
-        <id>https://tv.naver.com/v/37790442</id>
-        <link href="https://tv.naver.com/v/37790442"/>
-        <updated>2023-07-07T09:08:21.710Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해적이 되고 싶었던 소년 - 남동현 | KBS 230707 방송]]></title>
-        <id>https://tv.naver.com/v/37790215</id>
-        <link href="https://tv.naver.com/v/37790215"/>
-        <updated>2023-07-07T09:08:21.711Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
