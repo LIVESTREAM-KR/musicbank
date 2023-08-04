@@ -2,9 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-08-04T09:07:28.350Z</updated>
+    <updated>2023-08-04T10:07:37.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New Emotions - 인피니트 | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38733007</id>
+        <link href="https://tv.naver.com/v/38733007"/>
+        <updated>2023-08-04T10:07:36.775Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALOHA (Feat. 보라) - 소유 | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38733000</id>
+        <link href="https://tv.naver.com/v/38733000"/>
+        <updated>2023-08-04T10:07:36.777Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[댕댕(dangdang) - 마마무+(MAMAMOO+) | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38732992</id>
+        <link href="https://tv.naver.com/v/38732992"/>
+        <updated>2023-08-04T10:07:36.777Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름이 들려(Summer Comes) - 오마이걸 | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38732674</id>
+        <link href="https://tv.naver.com/v/38732674"/>
+        <updated>2023-08-04T10:07:36.778Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Me A Little - 셔누X형원 | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38732464</id>
+        <link href="https://tv.naver.com/v/38732464"/>
+        <updated>2023-08-04T10:07:36.778Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Flash - 권은비 | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38732460</id>
+        <link href="https://tv.naver.com/v/38732460"/>
+        <updated>2023-08-04T10:07:36.779Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAKE - ITZY | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38732458</id>
+        <link href="https://tv.naver.com/v/38732458"/>
+        <updated>2023-08-04T10:07:36.781Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[None of My Business - ITZY | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38732455</id>
+        <link href="https://tv.naver.com/v/38732455"/>
+        <updated>2023-08-04T10:07:36.782Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUMP! - 미래소년(MIRAE) | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38732118</id>
+        <link href="https://tv.naver.com/v/38732118"/>
+        <updated>2023-08-04T10:07:36.784Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETA - 뉴진스(NewJeans) | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38731962</id>
+        <link href="https://tv.naver.com/v/38731962"/>
+        <updated>2023-08-04T10:07:36.786Z</updated>
+        <content type="html"><![CDATA[02:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DO or DIE - xikers | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38731660</id>
+        <link href="https://tv.naver.com/v/38731660"/>
+        <updated>2023-08-04T10:07:36.788Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HEARTBEAT - TAN | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38731658</id>
+        <link href="https://tv.naver.com/v/38731658"/>
+        <updated>2023-08-04T10:07:36.794Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKETCH - 8TURN(에잇턴) | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38731619</id>
+        <link href="https://tv.naver.com/v/38731619"/>
+        <updated>2023-08-04T10:07:36.794Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn it off - NINE.i(나인아이) | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38731448</id>
+        <link href="https://tv.naver.com/v/38731448"/>
+        <updated>2023-08-04T10:07:36.794Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WE GO - 더윈드(The Wind) | KBS 230804 방송]]></title>
+        <id>https://tv.naver.com/v/38731430</id>
+        <link href="https://tv.naver.com/v/38731430"/>
+        <updated>2023-08-04T10:07:36.804Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SIX7EEN - HORI70N(호라이즌) | KBS 230804 방송]]></title>
         <id>https://tv.naver.com/v/38730826</id>
@@ -109,110 +214,5 @@
         <link href="https://tv.naver.com/v/38510398"/>
         <updated>2023-07-28T09:06:59.424Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UN-NORMAL - Queenz Eye | KBS 230728 방송]]></title>
-        <id>https://tv.naver.com/v/38510231</id>
-        <link href="https://tv.naver.com/v/38510231"/>
-        <updated>2023-07-28T09:06:59.424Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MY COLOR - 아일리원(ILY:1)  | KBS 230728 방송]]></title>
-        <id>https://tv.naver.com/v/38510225</id>
-        <link href="https://tv.naver.com/v/38510225"/>
-        <updated>2023-07-28T09:06:59.424Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRL GVNG - XG  | KBS 230728 방송]]></title>
-        <id>https://tv.naver.com/v/38510222</id>
-        <link href="https://tv.naver.com/v/38510222"/>
-        <updated>2023-07-28T09:06:59.424Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Kidz on the Block - ZEROBASEONE | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38289333</id>
-        <link href="https://tv.naver.com/v/38289333"/>
-        <updated>2023-07-21T10:07:45.342Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Bloom - ZEROBASEONE | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38289302</id>
-        <link href="https://tv.naver.com/v/38289302"/>
-        <updated>2023-07-21T10:07:45.342Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISTJ - NCT DREAM(엔시티 드림) | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38289164</id>
-        <link href="https://tv.naver.com/v/38289164"/>
-        <updated>2023-07-21T10:07:45.342Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FESTIVAL - 산다라박 | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38289002</id>
-        <link href="https://tv.naver.com/v/38289002"/>
-        <updated>2023-07-21T10:07:45.345Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Party O’Clock - NMIXX(엔믹스) | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38288684</id>
-        <link href="https://tv.naver.com/v/38288684"/>
-        <updated>2023-07-21T10:07:45.345Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roller Coaster - NMIXX(엔믹스) | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38288494</id>
-        <link href="https://tv.naver.com/v/38288494"/>
-        <updated>2023-07-21T10:07:45.345Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cool With You - 뉴진스(NewJeans) | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38288355</id>
-        <link href="https://tv.naver.com/v/38288355"/>
-        <updated>2023-07-21T10:07:45.345Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETA - 뉴진스(NewJeans) | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38288181</id>
-        <link href="https://tv.naver.com/v/38288181"/>
-        <updated>2023-07-21T10:07:45.345Z</updated>
-        <content type="html"><![CDATA[02:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Shy - 뉴진스(NewJeans) | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38288180</id>
-        <link href="https://tv.naver.com/v/38288180"/>
-        <updated>2023-07-21T10:07:45.346Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUMP! - 미래소년 (MIRAE) | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38288178</id>
-        <link href="https://tv.naver.com/v/38288178"/>
-        <updated>2023-07-21T10:07:45.353Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Air Girls One - ODD EYE CIRCLE | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38287874</id>
-        <link href="https://tv.naver.com/v/38287874"/>
-        <updated>2023-07-21T10:07:45.353Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KICK-START - ICHILLIN’(아이칠린) | KBS 230721 방송]]></title>
-        <id>https://tv.naver.com/v/38287737</id>
-        <link href="https://tv.naver.com/v/38287737"/>
-        <updated>2023-07-21T10:07:45.353Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
