@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-08-25T08:09:02.220Z</updated>
+    <updated>2023-08-25T09:07:18.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웜홀 (Wormhole: New Track) - n.SSign(엔싸인) | KBS 230825 방송]]></title>
+        <id>https://tv.naver.com/v/39466387</id>
+        <link href="https://tv.naver.com/v/39466387"/>
+        <updated>2023-08-25T09:07:17.364Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 불러(What’s Up?) - ADYA(에이디야) | KBS 230825 방송]]></title>
+        <id>https://tv.naver.com/v/39466383</id>
+        <link href="https://tv.naver.com/v/39466383"/>
+        <updated>2023-08-25T09:07:17.367Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A.I.BAE - LE’V(레비)  | KBS 230825 방송]]></title>
+        <id>https://tv.naver.com/v/39466094</id>
+        <link href="https://tv.naver.com/v/39466094"/>
+        <updated>2023-08-25T09:07:17.387Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW DANCE - XG(엑스지) | KBS 230825 방송]]></title>
+        <id>https://tv.naver.com/v/39465871</id>
+        <link href="https://tv.naver.com/v/39465871"/>
+        <updated>2023-08-25T09:07:17.387Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LIP GLOSS - 더보이즈(THE BOYZ) | KBS 230818 방송]]></title>
         <id>https://tv.naver.com/v/39210461</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/38732455"/>
         <updated>2023-08-04T10:07:36.782Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUMP! - 미래소년(MIRAE) | KBS 230804 방송]]></title>
-        <id>https://tv.naver.com/v/38732118</id>
-        <link href="https://tv.naver.com/v/38732118"/>
-        <updated>2023-08-04T10:07:36.784Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETA - 뉴진스(NewJeans) | KBS 230804 방송]]></title>
-        <id>https://tv.naver.com/v/38731962</id>
-        <link href="https://tv.naver.com/v/38731962"/>
-        <updated>2023-08-04T10:07:36.786Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DO or DIE - xikers | KBS 230804 방송]]></title>
-        <id>https://tv.naver.com/v/38731660</id>
-        <link href="https://tv.naver.com/v/38731660"/>
-        <updated>2023-08-04T10:07:36.788Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEARTBEAT - TAN | KBS 230804 방송]]></title>
-        <id>https://tv.naver.com/v/38731658</id>
-        <link href="https://tv.naver.com/v/38731658"/>
-        <updated>2023-08-04T10:07:36.794Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
