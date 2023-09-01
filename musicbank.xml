@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-09-01T08:09:46.760Z</updated>
+    <updated>2023-09-01T09:07:43.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Higher - n.SSign(엔싸인) | KBS 230901 방송]]></title>
+        <id>https://tv.naver.com/v/39737118</id>
+        <link href="https://tv.naver.com/v/39737118"/>
+        <updated>2023-09-01T09:07:42.468Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Planet - BXB(비엑스비) | KBS 230901 방송]]></title>
+        <id>https://tv.naver.com/v/39736680</id>
+        <link href="https://tv.naver.com/v/39736680"/>
+        <updated>2023-09-01T09:07:42.470Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송]]></title>
         <id>https://tv.naver.com/v/39468866</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39209425"/>
         <updated>2023-08-18T10:07:48.566Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Girls’ Capitalism - tripleS LOVElution | KBS 230818 방송]]></title>
-        <id>https://tv.naver.com/v/39209277</id>
-        <link href="https://tv.naver.com/v/39209277"/>
-        <updated>2023-08-18T10:07:48.568Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웜홀 (Wormhole: New Track) - n.SSign(엔싸인) | KBS 230818 방송]]></title>
-        <id>https://tv.naver.com/v/39208672</id>
-        <link href="https://tv.naver.com/v/39208672"/>
-        <updated>2023-08-18T09:07:07.868Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
 </feed>
