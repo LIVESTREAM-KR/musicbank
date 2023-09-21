@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-21T16:08:31.845Z</updated>
+    <updated>2023-09-21T17:06:39.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Slow Dancing - V | KBS 230915 방송 (뮤직뱅크)]]></title>
@@ -110,13 +110,6 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Favorite - POW | KBS 230915 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40314850</id>
-        <link href="https://tv.naver.com/v/40314850"/>
-        <updated>2023-09-15T11:05:00.208Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뭣 같아 - BOYNEXTDOOR | KBS 230915 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/40314876</id>
         <link href="https://tv.naver.com/v/40314876"/>
@@ -129,6 +122,13 @@
         <link href="https://tv.naver.com/v/40314852"/>
         <updated>2023-09-15T11:05:00.212Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Favorite - POW | KBS 230915 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40314850</id>
+        <link href="https://tv.naver.com/v/40314850"/>
+        <updated>2023-09-15T11:05:00.208Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FLIRTING - mimiirose | KBS 230915 방송 (뮤직뱅크)]]></title>
