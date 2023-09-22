@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-09-22T08:09:42.734Z</updated>
+    <updated>2023-09-22T09:07:36.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MY WAY - TRENDZ(트렌드지) | KBS 230922 방송]]></title>
+        <id>https://tv.naver.com/v/40606871</id>
+        <link href="https://tv.naver.com/v/40606871"/>
+        <updated>2023-09-22T09:07:35.532Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLIRTING - mimiirose | KBS 230922 방송]]></title>
+        <id>https://tv.naver.com/v/40606380</id>
+        <link href="https://tv.naver.com/v/40606380"/>
+        <updated>2023-09-22T09:07:35.534Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Favorite - POW | KBS 230922 방송]]></title>
+        <id>https://tv.naver.com/v/40606182</id>
+        <link href="https://tv.naver.com/v/40606182"/>
+        <updated>2023-09-22T09:07:35.541Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slow Dancing - V | KBS 230915 방송]]></title>
         <id>https://tv.naver.com/v/40315592</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/40029366"/>
         <updated>2023-09-08T10:07:37.377Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭣 같아 - BOYNEXTDOOR | KBS 230908 방송]]></title>
-        <id>https://tv.naver.com/v/40029192</id>
-        <link href="https://tv.naver.com/v/40029192"/>
-        <updated>2023-09-08T10:07:37.379Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crying - BOYNEXTDOOR | KBS 230908 방송]]></title>
-        <id>https://tv.naver.com/v/40029014</id>
-        <link href="https://tv.naver.com/v/40029014"/>
-        <updated>2023-09-08T10:07:37.388Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7HEAVEN - 퍼플키스(PURPLE KISS) | KBS 230908 방송]]></title>
-        <id>https://tv.naver.com/v/40029005</id>
-        <link href="https://tv.naver.com/v/40029005"/>
-        <updated>2023-09-08T10:07:37.390Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
