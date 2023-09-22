@@ -2,8 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-22T09:07:36.374Z</updated>
+    <updated>2023-09-22T10:07:42.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40608829</id>
+        <link href="https://tv.naver.com/v/40608829"/>
+        <updated>2023-09-22T10:07:41.235Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ready or Not - CRAVITY | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40608661</id>
+        <link href="https://tv.naver.com/v/40608661"/>
+        <updated>2023-09-22T10:07:41.235Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LET’S DANCE - 이채연 | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40608537</id>
+        <link href="https://tv.naver.com/v/40608537"/>
+        <updated>2023-09-22T10:07:41.235Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOOM - 로켓펀치(Rocket Punch) | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40608348</id>
+        <link href="https://tv.naver.com/v/40608348"/>
+        <updated>2023-09-22T10:07:41.238Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7HEAVEN - 퍼플키스(PURPLE KISS) | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40608346</id>
+        <link href="https://tv.naver.com/v/40608346"/>
+        <updated>2023-09-22T10:07:41.238Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vroom Vroom - TEMPEST(템페스트) | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40608180</id>
+        <link href="https://tv.naver.com/v/40608180"/>
+        <updated>2023-09-22T10:07:41.238Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뭣 같아 - BOYNEXTDOOR | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40607898</id>
+        <link href="https://tv.naver.com/v/40607898"/>
+        <updated>2023-09-22T10:07:41.238Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TROUBLE - EVNNE(이븐) | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40607896</id>
+        <link href="https://tv.naver.com/v/40607896"/>
+        <updated>2023-09-22T10:07:41.238Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불빛을 꺼뜨리지 마 (Time to Shine) - H1-KEY(하이키) | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40607731</id>
+        <link href="https://tv.naver.com/v/40607731"/>
+        <updated>2023-09-22T10:07:41.245Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get A Guitar - RIIZE | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40607554</id>
+        <link href="https://tv.naver.com/v/40607554"/>
+        <updated>2023-09-22T10:07:41.250Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHEEKY - EL7Z UP (엘즈업) | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40607314</id>
+        <link href="https://tv.naver.com/v/40607314"/>
+        <updated>2023-09-22T10:07:41.252Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y.O.Universe - VCHA | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40607311</id>
+        <link href="https://tv.naver.com/v/40607311"/>
+        <updated>2023-09-22T10:07:41.254Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Tomorrow - FANTASY BOYS | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40607300</id>
+        <link href="https://tv.naver.com/v/40607300"/>
+        <updated>2023-09-22T10:07:41.256Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MY WAY - TRENDZ(트렌드지) | KBS 230922 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/40606871</id>
@@ -122,96 +213,5 @@
         <link href="https://tv.naver.com/v/40315049"/>
         <updated>2023-09-15T11:05:00.208Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MY WAY - TRENDZ(트렌드지) | KBS 230915 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40315045</id>
-        <link href="https://tv.naver.com/v/40315045"/>
-        <updated>2023-09-15T11:05:00.208Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭣 같아 - BOYNEXTDOOR | KBS 230915 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40314876</id>
-        <link href="https://tv.naver.com/v/40314876"/>
-        <updated>2023-09-15T11:05:00.210Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엉망진창 - 신현희(feat.반디) | KBS 230915 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40314852</id>
-        <link href="https://tv.naver.com/v/40314852"/>
-        <updated>2023-09-15T11:05:00.212Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Favorite - POW | KBS 230915 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40314850</id>
-        <link href="https://tv.naver.com/v/40314850"/>
-        <updated>2023-09-15T11:05:00.208Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FLIRTING - mimiirose | KBS 230915 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40314449</id>
-        <link href="https://tv.naver.com/v/40314449"/>
-        <updated>2023-09-15T10:07:40.490Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Love My Body - 화사 (HWASA) | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40030340</id>
-        <link href="https://tv.naver.com/v/40030340"/>
-        <updated>2023-09-08T10:07:37.366Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baggy Jeans - NCT U | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40030335</id>
-        <link href="https://tv.naver.com/v/40030335"/>
-        <updated>2023-09-08T10:07:37.366Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항해 - 김세정 | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40030324</id>
-        <link href="https://tv.naver.com/v/40030324"/>
-        <updated>2023-09-08T10:07:37.366Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top or Cliff - 김세정 | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40030135</id>
-        <link href="https://tv.naver.com/v/40030135"/>
-        <updated>2023-09-08T10:07:37.368Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이것밖에는 없다 - Young K(DAY6) | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40029974</id>
-        <link href="https://tv.naver.com/v/40029974"/>
-        <updated>2023-09-08T10:07:37.373Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LET’S DANCE - 이채연 | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40029943</id>
-        <link href="https://tv.naver.com/v/40029943"/>
-        <updated>2023-09-08T10:07:37.373Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOOM - 로켓펀치(Rocket Punch) | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40029532</id>
-        <link href="https://tv.naver.com/v/40029532"/>
-        <updated>2023-09-08T10:07:37.375Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLAY - EVERGLOW(에버글로우) | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40029366</id>
-        <link href="https://tv.naver.com/v/40029366"/>
-        <updated>2023-09-08T10:07:37.377Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>
