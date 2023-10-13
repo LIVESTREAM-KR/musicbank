@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-10-13T08:10:21.112Z</updated>
+    <updated>2023-10-13T09:07:35.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Galileo - Kep1er | KBS 231013 방송]]></title>
+        <id>https://tv.naver.com/v/41344649</id>
+        <link href="https://tv.naver.com/v/41344649"/>
+        <updated>2023-10-13T09:07:34.968Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIVE - TEMPEST(템페스트) | KBS 231013 방송]]></title>
+        <id>https://tv.naver.com/v/41344415</id>
+        <link href="https://tv.naver.com/v/41344415"/>
+        <updated>2023-10-13T09:07:34.974Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honey or Spice - LIGHTSUM | KBS 231013 방송]]></title>
+        <id>https://tv.naver.com/v/41344409</id>
+        <link href="https://tv.naver.com/v/41344409"/>
+        <updated>2023-10-13T09:07:34.974Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invincible - tripleS EVOLution | KBS 231013 방송]]></title>
+        <id>https://tv.naver.com/v/41344407</id>
+        <link href="https://tv.naver.com/v/41344407"/>
+        <updated>2023-10-13T09:07:34.974Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Tomorrow - FANTASY BOYS | KBS 231013 방송]]></title>
+        <id>https://tv.naver.com/v/41344403</id>
+        <link href="https://tv.naver.com/v/41344403"/>
+        <updated>2023-10-13T09:07:34.974Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPICE - n.SSign (엔싸인) | KBS 231013 방송]]></title>
+        <id>https://tv.naver.com/v/41344142</id>
+        <link href="https://tv.naver.com/v/41344142"/>
+        <updated>2023-10-13T09:07:34.974Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TROUBLE - EVNNE(이븐) | KBS 231013 방송]]></title>
+        <id>https://tv.naver.com/v/41343892</id>
+        <link href="https://tv.naver.com/v/41343892"/>
+        <updated>2023-10-13T09:07:34.974Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PUPPET SHOW - XG | KBS 231013 방송]]></title>
+        <id>https://tv.naver.com/v/41343354</id>
+        <link href="https://tv.naver.com/v/41343354"/>
+        <updated>2023-10-13T09:07:34.974Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송]]></title>
         <id>https://tv.naver.com/v/40608829</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/40315410"/>
         <updated>2023-09-15T11:05:00.196Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230915 방송]]></title>
-        <id>https://tv.naver.com/v/40315223</id>
-        <link href="https://tv.naver.com/v/40315223"/>
-        <updated>2023-09-15T11:05:00.197Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top or Cliff - 김세정 | KBS 230915 방송]]></title>
-        <id>https://tv.naver.com/v/40315222</id>
-        <link href="https://tv.naver.com/v/40315222"/>
-        <updated>2023-09-15T11:05:00.198Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LET’S DANCE - 이채연 | KBS 230915 방송]]></title>
-        <id>https://tv.naver.com/v/40315221</id>
-        <link href="https://tv.naver.com/v/40315221"/>
-        <updated>2023-09-15T11:05:00.198Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ready or Not - CRAVITY | KBS 230915 방송]]></title>
-        <id>https://tv.naver.com/v/40315217</id>
-        <link href="https://tv.naver.com/v/40315217"/>
-        <updated>2023-09-15T11:05:00.198Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7HEAVEN - 퍼플키스(PURPLE KISS) | KBS 230915 방송]]></title>
-        <id>https://tv.naver.com/v/40315216</id>
-        <link href="https://tv.naver.com/v/40315216"/>
-        <updated>2023-09-15T11:05:00.206Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Love My Body - 화사 (HWASA) | KBS 230915 방송]]></title>
-        <id>https://tv.naver.com/v/40315087</id>
-        <link href="https://tv.naver.com/v/40315087"/>
-        <updated>2023-09-15T11:05:00.206Z</updated>
-        <content type="html"><![CDATA[02:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불빛을 꺼뜨리지 마 (Time to Shine) - H1-KEY(하이키) | KBS 230915 방송]]></title>
-        <id>https://tv.naver.com/v/40315086</id>
-        <link href="https://tv.naver.com/v/40315086"/>
-        <updated>2023-09-15T11:05:00.208Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOOM - 로켓펀치(Rocket Punch) | KBS 230915 방송]]></title>
-        <id>https://tv.naver.com/v/40315049</id>
-        <link href="https://tv.naver.com/v/40315049"/>
-        <updated>2023-09-15T11:05:00.208Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
