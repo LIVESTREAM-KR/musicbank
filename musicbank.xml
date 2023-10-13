@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-10-13T10:08:19.379Z</updated>
+    <updated>2023-10-13T11:05:49.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Fact Check (불가사의 不可思議) - NCT 127 | KBS 231013 방송]]></title>
-        <id>https://tv.naver.com/v/41347013</id>
-        <link href="https://tv.naver.com/v/41347013"/>
-        <updated>2023-10-13T10:08:18.632Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[3D - 정국 | KBS 231013 방송]]></title>
         <id>https://tv.naver.com/v/41347018</id>
         <link href="https://tv.naver.com/v/41347018"/>
         <updated>2023-10-13T10:08:18.632Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fact Check (불가사의 不可思議) - NCT 127 | KBS 231013 방송]]></title>
+        <id>https://tv.naver.com/v/41347013</id>
+        <link href="https://tv.naver.com/v/41347013"/>
+        <updated>2023-10-13T10:08:18.632Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Parade (행진) - NCT 127 | KBS 231013 방송]]></title>
