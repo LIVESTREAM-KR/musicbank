@@ -2,8 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-27T09:09:07.814Z</updated>
+    <updated>2023-10-27T10:08:17.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Chasing That Feeling - 투모로우바이투게더 | KBS 231027 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/41981406</id>
+        <link href="https://tv.naver.com/v/41981406"/>
+        <updated>2023-10-27T10:08:16.362Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음악의 신 - SEVENTEEN | KBS 231027 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/41981242</id>
+        <link href="https://tv.naver.com/v/41981242"/>
+        <updated>2023-10-27T10:08:16.362Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baddie - IVE | KBS 231027 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/41981087</id>
+        <link href="https://tv.naver.com/v/41981087"/>
+        <updated>2023-10-27T10:08:16.372Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PLUTO - Xdinary Heroes | KBS 231027 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/41981041</id>
+        <link href="https://tv.naver.com/v/41981041"/>
+        <updated>2023-10-27T10:08:16.373Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STRANGER - 선미 | KBS 231027 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/41980841</id>
+        <link href="https://tv.naver.com/v/41980841"/>
+        <updated>2023-10-27T10:08:16.387Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talk Saxy - RIIZE | KBS 231027 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/41980837</id>
+        <link href="https://tv.naver.com/v/41980837"/>
+        <updated>2023-10-27T10:08:16.387Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바람이 분다 (Love Effect) - 온앤오프 (ONF) | KBS 231027 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/41980829</id>
+        <link href="https://tv.naver.com/v/41980829"/>
+        <updated>2023-10-27T10:08:16.387Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfect Night - LE SSERAFIM | KBS 231027 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/41980827</id>
+        <link href="https://tv.naver.com/v/41980827"/>
+        <updated>2023-10-27T10:08:16.387Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RUCKUS - GHOST9 | KBS 231027 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/41979942</id>
+        <link href="https://tv.naver.com/v/41979942"/>
+        <updated>2023-10-27T10:08:16.388Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DANG! (hocus pocus) - Billlie | KBS 231027 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/41979938</id>
+        <link href="https://tv.naver.com/v/41979938"/>
+        <updated>2023-10-27T10:08:16.388Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정했어 (Love it) - YOUNITE | KBS 231027 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/41979155</id>
@@ -143,75 +213,5 @@
         <link href="https://tv.naver.com/v/41344649"/>
         <updated>2023-10-13T09:07:34.968Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIVE - TEMPEST(템페스트) | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41344415</id>
-        <link href="https://tv.naver.com/v/41344415"/>
-        <updated>2023-10-13T09:07:34.974Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honey or Spice - LIGHTSUM | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41344409</id>
-        <link href="https://tv.naver.com/v/41344409"/>
-        <updated>2023-10-13T09:07:34.974Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invincible - tripleS EVOLution | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41344407</id>
-        <link href="https://tv.naver.com/v/41344407"/>
-        <updated>2023-10-13T09:07:34.974Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Tomorrow - FANTASY BOYS | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41344403</id>
-        <link href="https://tv.naver.com/v/41344403"/>
-        <updated>2023-10-13T09:07:34.974Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPICE - n.SSign (엔싸인) | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41344142</id>
-        <link href="https://tv.naver.com/v/41344142"/>
-        <updated>2023-10-13T09:07:34.974Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TROUBLE - EVNNE(이븐) | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41343892</id>
-        <link href="https://tv.naver.com/v/41343892"/>
-        <updated>2023-10-13T09:07:34.974Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PUPPET SHOW - XG | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41343354</id>
-        <link href="https://tv.naver.com/v/41343354"/>
-        <updated>2023-10-13T09:07:34.974Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40608829</id>
-        <link href="https://tv.naver.com/v/40608829"/>
-        <updated>2023-09-22T10:07:41.235Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ready or Not - CRAVITY | KBS 230922 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40608661</id>
-        <link href="https://tv.naver.com/v/40608661"/>
-        <updated>2023-09-22T10:07:41.235Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LET’S DANCE - 이채연 | KBS 230922 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40608537</id>
-        <link href="https://tv.naver.com/v/40608537"/>
-        <updated>2023-09-22T10:07:41.235Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
