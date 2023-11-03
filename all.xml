@@ -2,8 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-03T09:07:34.789Z</updated>
+    <updated>2023-11-03T10:08:24.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[음악의 신 - SEVENTEEN | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42302463</id>
+        <link href="https://tv.naver.com/v/42302463"/>
+        <updated>2023-11-03T10:08:23.508Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guilty - 태민 (TAEMIN) | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42302239</id>
+        <link href="https://tv.naver.com/v/42302239"/>
+        <updated>2023-11-03T10:08:23.510Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MANIAC - VIVIZ (비비지) | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42302236</id>
+        <link href="https://tv.naver.com/v/42302236"/>
+        <updated>2023-11-03T10:08:23.513Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feel me - 골든차일드 | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42302234</id>
+        <link href="https://tv.naver.com/v/42302234"/>
+        <updated>2023-11-03T10:08:23.515Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rizzness - 태민 (TAEMIN) | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42302036</id>
+        <link href="https://tv.naver.com/v/42302036"/>
+        <updated>2023-11-03T10:08:23.518Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I feel Hope - 장우혁 | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42301837</id>
+        <link href="https://tv.naver.com/v/42301837"/>
+        <updated>2023-11-03T10:08:23.520Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEGAPHONE - CRAVITY | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42301376</id>
+        <link href="https://tv.naver.com/v/42301376"/>
+        <updated>2023-11-03T10:08:23.523Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X.O.X - 문종업 | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42301160</id>
+        <link href="https://tv.naver.com/v/42301160"/>
+        <updated>2023-11-03T10:08:23.526Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VROOM VROOM - Weeekly (위클리) | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42300949</id>
+        <link href="https://tv.naver.com/v/42300949"/>
+        <updated>2023-11-03T10:08:23.529Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RUCKUS - GHOST9 | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42300464</id>
+        <link href="https://tv.naver.com/v/42300464"/>
+        <updated>2023-11-03T10:08:23.532Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정했어 (Love it) - YOUNITE | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42300416</id>
+        <link href="https://tv.naver.com/v/42300416"/>
+        <updated>2023-11-03T10:08:23.538Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿠데타 (Coup d‘Etat) - KINGDOM (킹덤) | KBS 231103 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42300405</id>
+        <link href="https://tv.naver.com/v/42300405"/>
+        <updated>2023-11-03T10:08:23.540Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HEARTRIS - NiziU | KBS 231103 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/42299617</id>
@@ -129,89 +213,5 @@
         <link href="https://tv.naver.com/v/41979154"/>
         <updated>2023-10-27T09:09:06.979Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THIS IS LOVE - Queenz Eye | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41978635</id>
-        <link href="https://tv.naver.com/v/41978635"/>
-        <updated>2023-10-27T09:09:06.991Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dazzling - POW | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41978623</id>
-        <link href="https://tv.naver.com/v/41978623"/>
-        <updated>2023-10-27T09:09:06.991Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너의 메아리 - 이층버스 | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41978619</id>
-        <link href="https://tv.naver.com/v/41978619"/>
-        <updated>2023-10-27T09:09:06.991Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIRST CLASS - 82MAJOR | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41978354</id>
-        <link href="https://tv.naver.com/v/41978354"/>
-        <updated>2023-10-27T09:09:06.991Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D - 정국 | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41347018</id>
-        <link href="https://tv.naver.com/v/41347018"/>
-        <updated>2023-10-13T10:08:18.632Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fact Check (불가사의 不可思議) - NCT 127 | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41347013</id>
-        <link href="https://tv.naver.com/v/41347013"/>
-        <updated>2023-10-13T10:08:18.632Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parade (행진) - NCT 127 | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41346617</id>
-        <link href="https://tv.naver.com/v/41346617"/>
-        <updated>2023-10-13T10:08:18.632Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back for More (TXT Ver.) - 투모로우바이투게더 | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41346614</id>
-        <link href="https://tv.naver.com/v/41346614"/>
-        <updated>2023-10-13T10:08:18.634Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chasing That Feeling - 투모로우바이투게더 | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41346606</id>
-        <link href="https://tv.naver.com/v/41346606"/>
-        <updated>2023-10-13T10:08:18.634Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baddie - IVE | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41346564</id>
-        <link href="https://tv.naver.com/v/41346564"/>
-        <updated>2023-10-13T10:08:18.634Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Off The Record - IVE | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41346376</id>
-        <link href="https://tv.naver.com/v/41346376"/>
-        <updated>2023-10-13T10:08:18.635Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In The Mood - 휘인 | KBS 231013 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41346365</id>
-        <link href="https://tv.naver.com/v/41346365"/>
-        <updated>2023-10-13T10:08:18.637Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
