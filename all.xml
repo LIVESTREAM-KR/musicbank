@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-10T08:09:52.107Z</updated>
+    <updated>2023-11-10T09:07:25.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Honey or Spice - LIGHTSUM | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42650203</id>
+        <link href="https://tv.naver.com/v/42650203"/>
+        <updated>2023-11-10T09:07:24.604Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VROOM VROOM - Weeekly (위클리) | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42649989</id>
+        <link href="https://tv.naver.com/v/42649989"/>
+        <updated>2023-11-10T09:07:24.604Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithm - 희진 (ARTMS) | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42649653</id>
+        <link href="https://tv.naver.com/v/42649653"/>
+        <updated>2023-11-10T09:07:24.605Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DANG! (hocus pocus) - Billlie | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42649650</id>
+        <link href="https://tv.naver.com/v/42649650"/>
+        <updated>2023-11-10T09:07:24.605Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BANG! - WHIB | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42649642</id>
+        <link href="https://tv.naver.com/v/42649642"/>
+        <updated>2023-11-10T09:07:24.606Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIAR - 로아(Roa) | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42648980</id>
+        <link href="https://tv.naver.com/v/42648980"/>
+        <updated>2023-11-10T09:07:24.607Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOUTH!!! - 캐치더영(Catch The Young) | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42648033</id>
+        <link href="https://tv.naver.com/v/42648033"/>
+        <updated>2023-11-10T09:07:24.608Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음악의 신 - SEVENTEEN | KBS 231103 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/42302463</id>
@@ -164,54 +213,5 @@
         <link href="https://tv.naver.com/v/41980841"/>
         <updated>2023-10-27T10:08:16.387Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talk Saxy - RIIZE | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41980837</id>
-        <link href="https://tv.naver.com/v/41980837"/>
-        <updated>2023-10-27T10:08:16.387Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바람이 분다 (Love Effect) - 온앤오프 (ONF) | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41980829</id>
-        <link href="https://tv.naver.com/v/41980829"/>
-        <updated>2023-10-27T10:08:16.387Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfect Night - LE SSERAFIM | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41980827</id>
-        <link href="https://tv.naver.com/v/41980827"/>
-        <updated>2023-10-27T10:08:16.387Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUCKUS - GHOST9 | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41979942</id>
-        <link href="https://tv.naver.com/v/41979942"/>
-        <updated>2023-10-27T10:08:16.388Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DANG! (hocus pocus) - Billlie | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41979938</id>
-        <link href="https://tv.naver.com/v/41979938"/>
-        <updated>2023-10-27T10:08:16.388Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정했어 (Love it) - YOUNITE | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41979155</id>
-        <link href="https://tv.naver.com/v/41979155"/>
-        <updated>2023-10-27T09:09:06.961Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠데타 (Coup d‘Etat) - KINGDOM (킹덤) | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41979154</id>
-        <link href="https://tv.naver.com/v/41979154"/>
-        <updated>2023-10-27T09:09:06.979Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
