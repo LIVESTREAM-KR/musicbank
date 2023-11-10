@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-11-10T09:07:25.283Z</updated>
+    <updated>2023-11-10T10:07:49.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231110 방송]]></title>
+        <id>https://tv.naver.com/v/42652957</id>
+        <link href="https://tv.naver.com/v/42652957"/>
+        <updated>2023-11-10T10:07:48.441Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drama - aespa | KBS 231110 방송]]></title>
+        <id>https://tv.naver.com/v/42651910</id>
+        <link href="https://tv.naver.com/v/42651910"/>
+        <updated>2023-11-10T10:07:48.443Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guilty - 태민 (TAEMIN) | KBS 231110 방송]]></title>
+        <id>https://tv.naver.com/v/42651907</id>
+        <link href="https://tv.naver.com/v/42651907"/>
+        <updated>2023-11-10T10:07:48.443Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MANIAC - VIVIZ (비비지) | KBS 231110 방송]]></title>
+        <id>https://tv.naver.com/v/42651523</id>
+        <link href="https://tv.naver.com/v/42651523"/>
+        <updated>2023-11-10T10:07:48.443Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feel me - 골든차일드 | KBS 231110 방송]]></title>
+        <id>https://tv.naver.com/v/42651514</id>
+        <link href="https://tv.naver.com/v/42651514"/>
+        <updated>2023-11-10T10:07:48.443Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEGAPHONE - CRAVITY | KBS 231110 방송]]></title>
+        <id>https://tv.naver.com/v/42650812</id>
+        <link href="https://tv.naver.com/v/42650812"/>
+        <updated>2023-11-10T10:07:48.445Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRUSH (가시) - ZEROBASEONE | KBS 231110 방송]]></title>
+        <id>https://tv.naver.com/v/42650557</id>
+        <link href="https://tv.naver.com/v/42650557"/>
+        <updated>2023-11-10T10:07:48.446Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Honey or Spice - LIGHTSUM | KBS 231110 방송]]></title>
         <id>https://tv.naver.com/v/42650203</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/42299233"/>
         <updated>2023-11-03T09:07:34.018Z</updated>
         <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUTH!!! - 캐치더영(Catch The Young) | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42299225</id>
-        <link href="https://tv.naver.com/v/42299225"/>
-        <updated>2023-11-03T09:07:34.018Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INDEPENDENT WOMAN - eite(에이트) | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42298894</id>
-        <link href="https://tv.naver.com/v/42298894"/>
-        <updated>2023-11-03T09:07:34.019Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chasing That Feeling - 투모로우바이투게더 | KBS 231027 방송]]></title>
-        <id>https://tv.naver.com/v/41981406</id>
-        <link href="https://tv.naver.com/v/41981406"/>
-        <updated>2023-10-27T10:08:16.362Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악의 신 - SEVENTEEN | KBS 231027 방송]]></title>
-        <id>https://tv.naver.com/v/41981242</id>
-        <link href="https://tv.naver.com/v/41981242"/>
-        <updated>2023-10-27T10:08:16.362Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baddie - IVE | KBS 231027 방송]]></title>
-        <id>https://tv.naver.com/v/41981087</id>
-        <link href="https://tv.naver.com/v/41981087"/>
-        <updated>2023-10-27T10:08:16.372Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PLUTO - Xdinary Heroes | KBS 231027 방송]]></title>
-        <id>https://tv.naver.com/v/41981041</id>
-        <link href="https://tv.naver.com/v/41981041"/>
-        <updated>2023-10-27T10:08:16.373Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STRANGER - 선미 | KBS 231027 방송]]></title>
-        <id>https://tv.naver.com/v/41980841</id>
-        <link href="https://tv.naver.com/v/41980841"/>
-        <updated>2023-10-27T10:08:16.387Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
     </entry>
 </feed>
