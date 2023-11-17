@@ -2,8 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-17T08:09:32.674Z</updated>
+    <updated>2023-11-17T09:07:32.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[On And On - 앰퍼샌드원 (AMPERS&ONE) | KBS 231117 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/43001620</id>
+        <link href="https://tv.naver.com/v/43001620"/>
+        <updated>2023-11-17T09:07:32.074Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithm - 희진 (ARTMS) | KBS 231117 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/43001380</id>
+        <link href="https://tv.naver.com/v/43001380"/>
+        <updated>2023-11-17T09:07:32.074Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potential - FANTASY BOYS | KBS 231117 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/43001375</id>
+        <link href="https://tv.naver.com/v/43001375"/>
+        <updated>2023-11-17T09:07:32.074Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beam me up(2Dx3D) - SUPERKIND (슈퍼카인드) | KBS 231117 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/43001141</id>
+        <link href="https://tv.naver.com/v/43001141"/>
+        <updated>2023-11-17T09:07:32.075Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BANG! - WHIB | KBS 231117 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/43000826</id>
+        <link href="https://tv.naver.com/v/43000826"/>
+        <updated>2023-11-17T09:07:32.075Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INDEPENDENT WOMAN - eite (에이트) | KBS 231117 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/43000823</id>
+        <link href="https://tv.naver.com/v/43000823"/>
+        <updated>2023-11-17T09:07:32.075Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231110 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/42652957</id>
@@ -171,47 +213,5 @@
         <link href="https://tv.naver.com/v/42300464"/>
         <updated>2023-11-03T10:08:23.532Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정했어 (Love it) - YOUNITE | KBS 231103 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/42300416</id>
-        <link href="https://tv.naver.com/v/42300416"/>
-        <updated>2023-11-03T10:08:23.538Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠데타 (Coup d‘Etat) - KINGDOM (킹덤) | KBS 231103 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/42300405</id>
-        <link href="https://tv.naver.com/v/42300405"/>
-        <updated>2023-11-03T10:08:23.540Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEARTRIS - NiziU | KBS 231103 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/42299617</id>
-        <link href="https://tv.naver.com/v/42299617"/>
-        <updated>2023-11-03T09:07:34.006Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talk Saxy - RIIZE | KBS 231103 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/42299613</id>
-        <link href="https://tv.naver.com/v/42299613"/>
-        <updated>2023-11-03T09:07:34.011Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEVERLAND - NINE.i(나인아이) | KBS 231103 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/42299235</id>
-        <link href="https://tv.naver.com/v/42299235"/>
-        <updated>2023-11-03T09:07:34.018Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MACARONI CHEESE - 영파씨(YOUNG POSSE) | KBS 231103 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/42299233</id>
-        <link href="https://tv.naver.com/v/42299233"/>
-        <updated>2023-11-03T09:07:34.018Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
     </entry>
 </feed>
