@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-11-17T09:07:32.665Z</updated>
+    <updated>2023-11-17T10:08:01.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43003730</id>
+        <link href="https://tv.naver.com/v/43003730"/>
+        <updated>2023-11-17T10:08:00.913Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRUSH (가시) - ZEROBASEONE | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43003538</id>
+        <link href="https://tv.naver.com/v/43003538"/>
+        <updated>2023-11-17T10:08:00.918Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill Kill - 레드벨벳 | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43003535</id>
+        <link href="https://tv.naver.com/v/43003535"/>
+        <updated>2023-11-17T10:08:00.918Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흠칫 (Hmm-cheat) - Crush (크러쉬) | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43003128</id>
+        <link href="https://tv.naver.com/v/43003128"/>
+        <updated>2023-11-17T10:08:00.919Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Still Monster - ENHYPEN (엔하이픈) | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43002894</id>
+        <link href="https://tv.naver.com/v/43002894"/>
+        <updated>2023-11-17T10:08:00.919Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweet Venom - ENHYPEN (엔하이픈) | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43002662</id>
+        <link href="https://tv.naver.com/v/43002662"/>
+        <updated>2023-11-17T10:08:00.919Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drama - aespa | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43002479</id>
+        <link href="https://tv.naver.com/v/43002479"/>
+        <updated>2023-11-17T10:08:00.921Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 영혼에 낸 Scratch - 기욱 (ONEWE) | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43002435</id>
+        <link href="https://tv.naver.com/v/43002435"/>
+        <updated>2023-11-17T10:08:00.922Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIME (I’m So) - 백아연 | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43002224</id>
+        <link href="https://tv.naver.com/v/43002224"/>
+        <updated>2023-11-17T10:08:00.924Z</updated>
+        <content type="html"><![CDATA[02:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEDUSA - JUST B | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43002024</id>
+        <link href="https://tv.naver.com/v/43002024"/>
+        <updated>2023-11-17T10:08:00.929Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬플 땐 힘이 돼주고 아플 땐 곁에 있어줄게요 - DOKO (도코) | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43001859</id>
+        <link href="https://tv.naver.com/v/43001859"/>
+        <updated>2023-11-17T10:08:00.929Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honey or Spice - LIGHTSUM | KBS 231117 방송]]></title>
+        <id>https://tv.naver.com/v/43001808</id>
+        <link href="https://tv.naver.com/v/43001808"/>
+        <updated>2023-11-17T10:08:00.931Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On And On - 앰퍼샌드원 (AMPERS&ONE) | KBS 231117 방송]]></title>
         <id>https://tv.naver.com/v/43001620</id>
@@ -130,89 +214,5 @@
         <link href="https://tv.naver.com/v/42649642"/>
         <updated>2023-11-10T09:07:24.606Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIAR - 로아(Roa) | KBS 231110 방송]]></title>
-        <id>https://tv.naver.com/v/42648980</id>
-        <link href="https://tv.naver.com/v/42648980"/>
-        <updated>2023-11-10T09:07:24.607Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUTH!!! - 캐치더영(Catch The Young) | KBS 231110 방송]]></title>
-        <id>https://tv.naver.com/v/42648033</id>
-        <link href="https://tv.naver.com/v/42648033"/>
-        <updated>2023-11-10T09:07:24.608Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악의 신 - SEVENTEEN | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42302463</id>
-        <link href="https://tv.naver.com/v/42302463"/>
-        <updated>2023-11-03T10:08:23.508Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guilty - 태민 (TAEMIN) | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42302239</id>
-        <link href="https://tv.naver.com/v/42302239"/>
-        <updated>2023-11-03T10:08:23.510Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MANIAC - VIVIZ (비비지) | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42302236</id>
-        <link href="https://tv.naver.com/v/42302236"/>
-        <updated>2023-11-03T10:08:23.513Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feel me - 골든차일드 | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42302234</id>
-        <link href="https://tv.naver.com/v/42302234"/>
-        <updated>2023-11-03T10:08:23.515Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rizzness - 태민 (TAEMIN) | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42302036</id>
-        <link href="https://tv.naver.com/v/42302036"/>
-        <updated>2023-11-03T10:08:23.518Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I feel Hope - 장우혁 | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42301837</id>
-        <link href="https://tv.naver.com/v/42301837"/>
-        <updated>2023-11-03T10:08:23.520Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEGAPHONE - CRAVITY | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42301376</id>
-        <link href="https://tv.naver.com/v/42301376"/>
-        <updated>2023-11-03T10:08:23.523Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X.O.X - 문종업 | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42301160</id>
-        <link href="https://tv.naver.com/v/42301160"/>
-        <updated>2023-11-03T10:08:23.526Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VROOM VROOM - Weeekly (위클리) | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42300949</id>
-        <link href="https://tv.naver.com/v/42300949"/>
-        <updated>2023-11-03T10:08:23.529Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUCKUS - GHOST9 | KBS 231103 방송]]></title>
-        <id>https://tv.naver.com/v/42300464</id>
-        <link href="https://tv.naver.com/v/42300464"/>
-        <updated>2023-11-03T10:08:23.532Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
