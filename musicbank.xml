@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-12-04T06:10:28.392Z</updated>
+    <updated>2023-12-04T07:07:36.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＃shorts 에이티비오 컴백 인터뷰🎤(ATBO Comeback Interview) | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/43806278</id>
+        <link href="https://tv.naver.com/v/43806278"/>
+        <updated>2023-12-04T07:07:36.086Z</updated>
+        <content type="html"><![CDATA[00:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Last Time - 골든걸스 | KBS 231201 방송]]></title>
         <id>https://tv.naver.com/v/43704746</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43703302"/>
         <updated>2023-12-01T10:08:06.779Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adventure Player - YAO CHEN | KBS 231201 방송]]></title>
-        <id>https://tv.naver.com/v/43703299</id>
-        <link href="https://tv.naver.com/v/43703299"/>
-        <updated>2023-12-01T10:08:06.780Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
