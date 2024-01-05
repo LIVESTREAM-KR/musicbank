@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-01-05T08:10:10.693Z</updated>
+    <updated>2024-01-05T09:07:35.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멋진 거 - ONE PACT (원팩트) | KBS 240105 방송]]></title>
+        <id>https://tv.naver.com/v/45318034</id>
+        <link href="https://tv.naver.com/v/45318034"/>
+        <updated>2024-01-05T09:07:35.411Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay with me - 예빈나다 | KBS 240105 방송]]></title>
+        <id>https://tv.naver.com/v/45317729</id>
+        <link href="https://tv.naver.com/v/45317729"/>
+        <updated>2024-01-05T09:07:35.416Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voyage - Geenius | KBS 240105 방송]]></title>
+        <id>https://tv.naver.com/v/45317492</id>
+        <link href="https://tv.naver.com/v/45317492"/>
+        <updated>2024-01-05T09:07:35.416Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너를 볼 때면 - 2Z | KBS 240105 방송]]></title>
+        <id>https://tv.naver.com/v/45317482</id>
+        <link href="https://tv.naver.com/v/45317482"/>
+        <updated>2024-01-05T09:07:35.416Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Last Time - 골든걸스 | KBS 231201 방송]]></title>
         <id>https://tv.naver.com/v/43704746</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/43704069"/>
         <updated>2023-12-01T10:08:06.775Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하나만 해 - 방예담 | KBS 231201 방송]]></title>
-        <id>https://tv.naver.com/v/43703795</id>
-        <link href="https://tv.naver.com/v/43703795"/>
-        <updated>2023-12-01T10:08:06.776Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해바라기(2023) - 라스 (LAS) | KBS 231201 방송]]></title>
-        <id>https://tv.naver.com/v/43703794</id>
-        <link href="https://tv.naver.com/v/43703794"/>
-        <updated>2023-12-01T10:08:06.778Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Must Have Love - ATBO | KBS 231201 방송]]></title>
-        <id>https://tv.naver.com/v/43703302</id>
-        <link href="https://tv.naver.com/v/43703302"/>
-        <updated>2023-12-01T10:08:06.779Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adventure Player - YAO CHEN | KBS 231201 방송]]></title>
-        <id>https://tv.naver.com/v/43703299</id>
-        <link href="https://tv.naver.com/v/43703299"/>
-        <updated>2023-12-28T00:31:53.304Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
