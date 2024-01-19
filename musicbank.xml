@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-01-19T08:10:18.528Z</updated>
+    <updated>2024-01-19T09:07:31.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Stay with me - 예빈나다 | KBS 240119 방송]]></title>
+        <id>https://tv.naver.com/v/45974780</id>
+        <link href="https://tv.naver.com/v/45974780"/>
+        <updated>2024-01-19T09:07:30.845Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[으랏차차(GOTCHA) - ALL(H)OURS (올아워즈) | KBS 240119 방송]]></title>
+        <id>https://tv.naver.com/v/45974444</id>
+        <link href="https://tv.naver.com/v/45974444"/>
+        <updated>2024-01-19T09:07:30.845Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burn Up - DXMON(다이몬) | KBS 240119 방송]]></title>
+        <id>https://tv.naver.com/v/45974440</id>
+        <link href="https://tv.naver.com/v/45974440"/>
+        <updated>2024-01-19T09:07:30.851Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Really Like You - 규빈 | KBS 240119 방송]]></title>
+        <id>https://tv.naver.com/v/45974200</id>
+        <link href="https://tv.naver.com/v/45974200"/>
+        <updated>2024-01-19T09:07:30.853Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voyage - Geenius | KBS 240119 방송]]></title>
+        <id>https://tv.naver.com/v/45974196</id>
+        <link href="https://tv.naver.com/v/45974196"/>
+        <updated>2024-01-19T09:07:30.854Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REWIND - B1A4 | KBS 240112 방송]]></title>
         <id>https://tv.naver.com/v/45651624</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/45650904"/>
         <updated>2024-01-12T10:07:59.129Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNTOUCHABLE - ITZY | KBS 240112 방송]]></title>
-        <id>https://tv.naver.com/v/45650898</id>
-        <link href="https://tv.naver.com/v/45650898"/>
-        <updated>2024-01-12T10:07:59.129Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BORN TO BE - ITZY | KBS 240112 방송]]></title>
-        <id>https://tv.naver.com/v/45650889</id>
-        <link href="https://tv.naver.com/v/45650889"/>
-        <updated>2024-01-12T10:07:59.131Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quiz - 정세운 | KBS 240112 방송]]></title>
-        <id>https://tv.naver.com/v/45650448</id>
-        <link href="https://tv.naver.com/v/45650448"/>
-        <updated>2024-01-12T10:07:59.133Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[who Am I - JD1 | KBS 240112 방송]]></title>
-        <id>https://tv.naver.com/v/45650401</id>
-        <link href="https://tv.naver.com/v/45650401"/>
-        <updated>2024-01-12T10:07:59.134Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter Bloom - CLASS:y(클라씨) | KBS 240112 방송]]></title>
-        <id>https://tv.naver.com/v/45650124</id>
-        <link href="https://tv.naver.com/v/45650124"/>
-        <updated>2024-01-12T10:07:59.135Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
