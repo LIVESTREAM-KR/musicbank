@@ -2,8 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-01T08:09:25.301Z</updated>
+    <updated>2024-03-01T09:08:14.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[NO DOUBT - XIN | KBS 240301 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47748090</id>
+        <link href="https://tv.naver.com/v/47748090"/>
+        <updated>2024-03-01T09:08:13.487Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H! TEEN - 더윈드 (The Wind) | KBS 240301 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47748085</id>
+        <link href="https://tv.naver.com/v/47748085"/>
+        <updated>2024-03-01T09:08:13.488Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No pressure - NOMAD | KBS 240301 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47748044</id>
+        <link href="https://tv.naver.com/v/47748044"/>
+        <updated>2024-03-01T09:08:13.494Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy & - n.SSign(엔싸인) | KBS 240301 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47747885</id>
+        <link href="https://tv.naver.com/v/47747885"/>
+        <updated>2024-03-01T09:08:13.497Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airplane - BXB(비엑스비) | KBS 240301 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47747563</id>
+        <link href="https://tv.naver.com/v/47747563"/>
+        <updated>2024-03-01T09:08:13.497Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니나노 - 윤수현 | KBS 240301 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47747533</id>
+        <link href="https://tv.naver.com/v/47747533"/>
+        <updated>2024-03-01T09:08:13.498Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nightwalker - TEN | KBS 240223 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/47487540</id>
@@ -31,47 +73,5 @@
         <link href="https://tv.naver.com/v/47487323"/>
         <updated>2024-02-23T10:08:19.055Z</updated>
         <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOUCHIN&MOVIN - 문별 (Moon Byul) | KBS 240223 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47487320</id>
-        <link href="https://tv.naver.com/v/47487320"/>
-        <updated>2024-02-23T10:08:19.057Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1분만 - 유겸 (YUGYEOM)  | KBS 240223 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47487126</id>
-        <link href="https://tv.naver.com/v/47487126"/>
-        <updated>2024-02-23T10:08:19.063Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think About - 문별 (Moon Byul) | KBS 240223 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47486441</id>
-        <link href="https://tv.naver.com/v/47486441"/>
-        <updated>2024-02-23T10:08:19.064Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swan Song - LE SSERAFIM | KBS 240223 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47486157</id>
-        <link href="https://tv.naver.com/v/47486157"/>
-        <updated>2024-02-23T10:08:19.066Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EASY - LE SSERAFIM | KBS 240223 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47486155</id>
-        <link href="https://tv.naver.com/v/47486155"/>
-        <updated>2024-02-23T10:08:19.067Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[때깔 (Killin’ It) - P1Harmony | KBS 240223 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47485881</id>
-        <link href="https://tv.naver.com/v/47485881"/>
-        <updated>2024-02-23T10:08:19.068Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
