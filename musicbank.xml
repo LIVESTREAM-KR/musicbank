@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-03-01T09:08:14.081Z</updated>
+    <updated>2024-03-01T10:07:52.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TAP - 태용(TAEYONG) | KBS 240301 방송]]></title>
+        <id>https://tv.naver.com/v/47749786</id>
+        <link href="https://tv.naver.com/v/47749786"/>
+        <updated>2024-03-01T10:07:52.247Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moon Tour - 태용(TAEYONG) | KBS 240301 방송]]></title>
+        <id>https://tv.naver.com/v/47749561</id>
+        <link href="https://tv.naver.com/v/47749561"/>
+        <updated>2024-03-01T10:07:52.249Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOUCHIN&MOVIN - 문별 (Moon Byul) | KBS 240301 방송]]></title>
+        <id>https://tv.naver.com/v/47749555</id>
+        <link href="https://tv.naver.com/v/47749555"/>
+        <updated>2024-03-01T10:07:52.249Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240301 방송]]></title>
+        <id>https://tv.naver.com/v/47749379</id>
+        <link href="https://tv.naver.com/v/47749379"/>
+        <updated>2024-03-01T10:07:52.249Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기도 - 에스페로(Espero) | KBS 240301 방송]]></title>
+        <id>https://tv.naver.com/v/47749066</id>
+        <link href="https://tv.naver.com/v/47749066"/>
+        <updated>2024-03-01T10:07:52.249Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diamond - 트라이비(TRI.BE) | KBS 240301 방송]]></title>
+        <id>https://tv.naver.com/v/47749025</id>
+        <link href="https://tv.naver.com/v/47749025"/>
+        <updated>2024-03-01T10:07:52.252Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Girl - 에이스 (A.C.E) | KBS 240301 방송]]></title>
+        <id>https://tv.naver.com/v/47748588</id>
+        <link href="https://tv.naver.com/v/47748588"/>
+        <updated>2024-03-01T10:07:52.254Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somebody - AIMERS | KBS 240301 방송]]></title>
+        <id>https://tv.naver.com/v/47748552</id>
+        <link href="https://tv.naver.com/v/47748552"/>
+        <updated>2024-03-01T10:07:52.256Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NO DOUBT - XIN | KBS 240301 방송]]></title>
         <id>https://tv.naver.com/v/47748090</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/47748085"/>
         <updated>2024-03-01T09:08:13.488Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No pressure - NOMAD | KBS 240301 방송]]></title>
-        <id>https://tv.naver.com/v/47748044</id>
-        <link href="https://tv.naver.com/v/47748044"/>
-        <updated>2024-03-01T09:08:13.494Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy & - n.SSign(엔싸인) | KBS 240301 방송]]></title>
-        <id>https://tv.naver.com/v/47747885</id>
-        <link href="https://tv.naver.com/v/47747885"/>
-        <updated>2024-03-01T09:08:13.497Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airplane - BXB(비엑스비) | KBS 240301 방송]]></title>
-        <id>https://tv.naver.com/v/47747563</id>
-        <link href="https://tv.naver.com/v/47747563"/>
-        <updated>2024-03-01T09:08:13.497Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[니나노 - 윤수현 | KBS 240301 방송]]></title>
-        <id>https://tv.naver.com/v/47747533</id>
-        <link href="https://tv.naver.com/v/47747533"/>
-        <updated>2024-03-01T09:08:13.498Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nightwalker - TEN | KBS 240223 방송]]></title>
-        <id>https://tv.naver.com/v/47487540</id>
-        <link href="https://tv.naver.com/v/47487540"/>
-        <updated>2024-02-23T10:08:19.051Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Water - TEN | KBS 240223 방송]]></title>
-        <id>https://tv.naver.com/v/47487538</id>
-        <link href="https://tv.naver.com/v/47487538"/>
-        <updated>2024-02-23T10:08:19.052Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BFF - TWS | KBS 240223 방송]]></title>
-        <id>https://tv.naver.com/v/47487325</id>
-        <link href="https://tv.naver.com/v/47487325"/>
-        <updated>2024-02-23T10:08:19.054Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 만남은 계획대로 되지 않아 - TWS | KBS 240223 방송]]></title>
-        <id>https://tv.naver.com/v/47487323</id>
-        <link href="https://tv.naver.com/v/47487323"/>
-        <updated>2024-02-23T10:08:19.055Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
     </entry>
 </feed>
