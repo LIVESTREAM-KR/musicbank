@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-03-22T08:10:15.781Z</updated>
+    <updated>2024-03-22T09:09:13.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[We Don’t Stop - xikers(싸이커스) | KBS 240322 방송]]></title>
+        <id>https://tv.naver.com/v/48715081</id>
+        <link href="https://tv.naver.com/v/48715081"/>
+        <updated>2024-03-22T09:09:12.748Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WISH (Korean ver.) - NCT WISH | KBS 240322 방송]]></title>
+        <id>https://tv.naver.com/v/48715078</id>
+        <link href="https://tv.naver.com/v/48715078"/>
+        <updated>2024-03-22T09:09:12.749Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUNK JAM - n.SSign(엔싸인) | KBS 240322 방송]]></title>
+        <id>https://tv.naver.com/v/48714756</id>
+        <link href="https://tv.naver.com/v/48714756"/>
+        <updated>2024-03-22T09:09:12.755Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want you back - 세븐어스 | KBS 240322 방송]]></title>
+        <id>https://tv.naver.com/v/48714409</id>
+        <link href="https://tv.naver.com/v/48714409"/>
+        <updated>2024-03-22T09:09:12.755Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄마의 손편지 - 정혜린 | KBS 240322 방송]]></title>
+        <id>https://tv.naver.com/v/48714078</id>
+        <link href="https://tv.naver.com/v/48714078"/>
+        <updated>2024-03-22T09:09:12.756Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Matter What I Do - 이스트샤인(EASTSHINE) | KBS 240322 방송]]></title>
+        <id>https://tv.naver.com/v/48714071</id>
+        <link href="https://tv.naver.com/v/48714071"/>
+        <updated>2024-03-22T09:09:12.756Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BODY - 하이라이트 | KBS 240315 방송]]></title>
         <id>https://tv.naver.com/v/48374690</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/48374415"/>
         <updated>2024-03-15T10:07:37.833Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rooftop - 유아 (YooA) | KBS 240315 방송]]></title>
-        <id>https://tv.naver.com/v/48374207</id>
-        <link href="https://tv.naver.com/v/48374207"/>
-        <updated>2024-03-15T10:07:37.833Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpha (Korean Ver.) - BOY STORY | KBS 240315 방송]]></title>
-        <id>https://tv.naver.com/v/48373546</id>
-        <link href="https://tv.naver.com/v/48373546"/>
-        <updated>2024-03-15T10:07:37.834Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EENIE MEENIE (Feat. 홍중(ATEEZ)) - 청하 | KBS 240315 방송]]></title>
-        <id>https://tv.naver.com/v/48373324</id>
-        <link href="https://tv.naver.com/v/48373324"/>
-        <updated>2024-03-15T10:07:37.836Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240315 방송]]></title>
-        <id>https://tv.naver.com/v/48373270</id>
-        <link href="https://tv.naver.com/v/48373270"/>
-        <updated>2024-03-15T10:07:37.838Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fifty-Fiifty - BAE173 | KBS 240315 방송]]></title>
-        <id>https://tv.naver.com/v/48372950</id>
-        <link href="https://tv.naver.com/v/48372950"/>
-        <updated>2024-03-15T10:07:37.839Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There - TEMPEST(템페스트) | KBS 240315 방송]]></title>
-        <id>https://tv.naver.com/v/48372665</id>
-        <link href="https://tv.naver.com/v/48372665"/>
-        <updated>2024-03-15T10:07:37.840Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
