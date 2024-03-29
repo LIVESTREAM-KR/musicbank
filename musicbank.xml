@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-03-29T08:09:41.825Z</updated>
+    <updated>2024-03-29T09:08:00.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DEAD LOVE - 민서 | KBS 240329 방송]]></title>
+        <id>https://tv.naver.com/v/49085215</id>
+        <link href="https://tv.naver.com/v/49085215"/>
+        <updated>2024-03-29T09:07:59.470Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUPER POWER - LUN8(루네이트) | KBS 240329 방송]]></title>
+        <id>https://tv.naver.com/v/49085205</id>
+        <link href="https://tv.naver.com/v/49085205"/>
+        <updated>2024-03-29T09:07:59.470Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Girl - Candy Shop | KBS 240329 방송]]></title>
+        <id>https://tv.naver.com/v/49084925</id>
+        <link href="https://tv.naver.com/v/49084925"/>
+        <updated>2024-03-29T09:07:59.470Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UhUh - RESCENE (리센느) | KBS 240329 방송]]></title>
+        <id>https://tv.naver.com/v/49084623</id>
+        <link href="https://tv.naver.com/v/49084623"/>
+        <updated>2024-03-29T09:07:59.472Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄마의 손편지 - 정혜린 | KBS 240329 방송]]></title>
+        <id>https://tv.naver.com/v/49084014</id>
+        <link href="https://tv.naver.com/v/49084014"/>
+        <updated>2024-03-29T09:07:59.475Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조사하면 다 나온다 - 윤태화 | KBS 240329 방송]]></title>
+        <id>https://tv.naver.com/v/49083625</id>
+        <link href="https://tv.naver.com/v/49083625"/>
+        <updated>2024-03-29T09:07:59.476Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BODY - 하이라이트 | KBS 240322 방송]]></title>
         <id>https://tv.naver.com/v/48718596</id>
@@ -31,48 +73,6 @@
         <id>https://tv.naver.com/v/48718049</id>
         <link href="https://tv.naver.com/v/48718049"/>
         <updated>2024-03-22T10:07:31.571Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rooftop - 유아 (YooA) | KBS 240322 방송]]></title>
-        <id>https://tv.naver.com/v/48717560</id>
-        <link href="https://tv.naver.com/v/48717560"/>
-        <updated>2024-03-22T10:07:31.573Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nectar - 더보이즈(THE BOYZ) | KBS 240322 방송]]></title>
-        <id>https://tv.naver.com/v/48717558</id>
-        <link href="https://tv.naver.com/v/48717558"/>
-        <updated>2024-03-22T10:07:31.576Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑한다는 그 이유만으로 - 정동하 | KBS 240322 방송]]></title>
-        <id>https://tv.naver.com/v/48717005</id>
-        <link href="https://tv.naver.com/v/48717005"/>
-        <updated>2024-03-22T10:07:31.578Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 아픈 건 딱 질색이니까 - (여자)아이들 | KBS 240322 방송]]></title>
-        <id>https://tv.naver.com/v/48717002</id>
-        <link href="https://tv.naver.com/v/48717002"/>
-        <updated>2024-03-22T10:07:31.579Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EENIE MEENIE (Feat. 홍중(ATEEZ)) - 청하 | KBS 240322 방송]]></title>
-        <id>https://tv.naver.com/v/48716672</id>
-        <link href="https://tv.naver.com/v/48716672"/>
-        <updated>2024-03-22T10:07:31.581Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240322 방송]]></title>
-        <id>https://tv.naver.com/v/48716667</id>
-        <link href="https://tv.naver.com/v/48716667"/>
-        <updated>2024-03-22T10:07:31.582Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>
