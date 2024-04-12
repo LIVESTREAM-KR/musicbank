@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-04-12T10:07:46.996Z</updated>
+    <updated>2024-04-12T11:08:17.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -48,7 +48,7 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fifty-Fifty - BAE173 | KBS 240412 방송]]></title>
+        <title type="html"><![CDATA[Fifty-Fifty- BAE173 | KBS 240412 방송]]></title>
         <id>https://tv.naver.com/v/49750939</id>
         <link href="https://tv.naver.com/v/49750939"/>
         <updated>2024-04-12T10:07:46.366Z</updated>
