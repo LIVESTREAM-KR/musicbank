@@ -2,8 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-26T08:10:14.111Z</updated>
+    <updated>2024-04-26T09:08:42.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[신기루정원 - 김초월 | KBS 240426 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/50478544</id>
+        <link href="https://tv.naver.com/v/50478544"/>
+        <updated>2024-04-26T09:08:42.195Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bomb - ViV | KBS 240426 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/50478534</id>
+        <link href="https://tv.naver.com/v/50478534"/>
+        <updated>2024-04-26T09:08:42.198Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love, Love, Love Love Love! - n.SSign(엔싸인) | KBS 240426 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/50478523</id>
+        <link href="https://tv.naver.com/v/50478523"/>
+        <updated>2024-04-26T09:08:42.198Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROCK THANG - TIOT(티아이오티) | KBS 240426 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/50477993</id>
+        <link href="https://tv.naver.com/v/50477993"/>
+        <updated>2024-04-26T09:08:42.200Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SING ! - BEWAVE | KBS 240426 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/50477627</id>
+        <link href="https://tv.naver.com/v/50477627"/>
+        <updated>2024-04-26T09:08:42.200Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린왕자 - 피커스 | KBS 240426 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/50477065</id>
+        <link href="https://tv.naver.com/v/50477065"/>
+        <updated>2024-04-26T09:08:42.201Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deja Vu - 투모로우바이투게더 | KBS 240412 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/49752535</id>
@@ -31,47 +73,5 @@
         <link href="https://tv.naver.com/v/49751640"/>
         <updated>2024-04-12T10:07:46.361Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLUSH - WOOAH (우아) | KBS 240412 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49751633</id>
-        <link href="https://tv.naver.com/v/49751633"/>
-        <updated>2024-04-12T10:07:46.363Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful MAZE - DRIPPIN | KBS 240412 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49751321</id>
-        <link href="https://tv.naver.com/v/49751321"/>
-        <updated>2024-04-12T10:07:46.364Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fifty-Fifty- BAE173 | KBS 240412 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49750939</id>
-        <link href="https://tv.naver.com/v/49750939"/>
-        <updated>2024-04-12T10:07:46.366Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잃어버린 것들 (Lost things) - LeniM | KBS 240412 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49750587</id>
-        <link href="https://tv.naver.com/v/49750587"/>
-        <updated>2024-04-12T10:07:46.368Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청춘에게(Youth2Youth) - EPEX(이펙스) | KBS 240412 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49750581</id>
-        <link href="https://tv.naver.com/v/49750581"/>
-        <updated>2024-04-12T10:07:46.369Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Sun - xikers(싸이커스) | KBS 240412 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49750045</id>
-        <link href="https://tv.naver.com/v/49750045"/>
-        <updated>2024-04-12T10:07:46.370Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
