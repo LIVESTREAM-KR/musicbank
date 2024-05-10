@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-05-10T09:08:54.613Z</updated>
+    <updated>2024-05-10T10:08:55.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Voyager - 캐치더영(Catch The Young) | KBS 240510 방송]]></title>
-        <id>https://tv.naver.com/v/51160567</id>
-        <link href="https://tv.naver.com/v/51160567"/>
-        <updated>2024-05-10T09:08:54.000Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
+        <title type="html"><![CDATA[MAESTRO - 세븐틴 (SEVENTEEN) | KBS 240510 방송]]></title>
+        <id>https://tv.naver.com/v/51163018</id>
+        <link href="https://tv.naver.com/v/51163018"/>
+        <updated>2024-05-10T10:08:54.729Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NU SHOES - 티오지(TOZ) | KBS 240510 방송]]></title>
-        <id>https://tv.naver.com/v/51159913</id>
-        <link href="https://tv.naver.com/v/51159913"/>
-        <updated>2024-05-10T09:08:54.001Z</updated>
+        <title type="html"><![CDATA[해야 (HEYA) - IVE | KBS 240510 방송]]></title>
+        <id>https://tv.naver.com/v/51162554</id>
+        <link href="https://tv.naver.com/v/51162554"/>
+        <updated>2024-05-10T10:08:54.730Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한 페이지가 될 수 있게(Time of Our Life) - MA1 | KBS 240510 방송]]></title>
+        <id>https://tv.naver.com/v/51162499</id>
+        <link href="https://tv.naver.com/v/51162499"/>
+        <updated>2024-05-10T10:08:54.730Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BE SOMEBODY - 육성재 | KBS 240510 방송]]></title>
+        <id>https://tv.naver.com/v/51162496</id>
+        <link href="https://tv.naver.com/v/51162496"/>
+        <updated>2024-05-10T10:08:54.732Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Come Closer - 리오(LEO) | KBS 240510 방송]]></title>
-        <id>https://tv.naver.com/v/51159639</id>
-        <link href="https://tv.naver.com/v/51159639"/>
-        <updated>2024-05-10T09:08:54.004Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
+        <title type="html"><![CDATA[But I - 솔라 (Solar) | KBS 240510 방송]]></title>
+        <id>https://tv.naver.com/v/51162209</id>
+        <link href="https://tv.naver.com/v/51162209"/>
+        <updated>2024-05-10T10:08:54.734Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SING ! - BEWAVE | KBS 240510 방송]]></title>
-        <id>https://tv.naver.com/v/51159066</id>
-        <link href="https://tv.naver.com/v/51159066"/>
-        <updated>2024-05-10T09:08:54.006Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
+        <title type="html"><![CDATA[나만큼(Amaid) (Prod. Dynamicduo,Padi) - 김재환 | KBS 240510 방송]]></title>
+        <id>https://tv.naver.com/v/51162204</id>
+        <link href="https://tv.naver.com/v/51162204"/>
+        <updated>2024-05-10T10:08:54.737Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LOVE ME DO - 어센트(ASC2NT) | KBS 240510 방송]]></title>
-        <id>https://tv.naver.com/v/51159060</id>
-        <link href="https://tv.naver.com/v/51159060"/>
-        <updated>2024-05-10T09:08:54.008Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
+        <title type="html"><![CDATA[Flip that Coin - The KingDom (더킹덤) | KBS 240510 방송]]></title>
+        <id>https://tv.naver.com/v/51161918</id>
+        <link href="https://tv.naver.com/v/51161918"/>
+        <updated>2024-05-10T10:08:54.739Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bomb - ViV | KBS 240510 방송]]></title>
-        <id>https://tv.naver.com/v/51158718</id>
-        <link href="https://tv.naver.com/v/51158718"/>
-        <updated>2024-05-10T09:08:54.011Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
+        <title type="html"><![CDATA[어리고 부끄럽고 바보 같은 - Xdinary Heroes | KBS 240510 방송]]></title>
+        <id>https://tv.naver.com/v/51161643</id>
+        <link href="https://tv.naver.com/v/51161643"/>
+        <updated>2024-05-10T10:08:54.740Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하늘 여행 - 이찬원 | KBS 240503 방송]]></title>
-        <id>https://tv.naver.com/v/50821966</id>
-        <link href="https://tv.naver.com/v/50821966"/>
-        <updated>2024-05-03T10:08:35.898Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
+        <title type="html"><![CDATA[분명 그녀가 나를 보고 웃잖아 - FANTASY BOYS | KBS 240510 방송]]></title>
+        <id>https://tv.naver.com/v/51161361</id>
+        <link href="https://tv.naver.com/v/51161361"/>
+        <updated>2024-05-10T10:08:54.741Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MAESTRO - 세븐틴 (SEVENTEEN) | KBS 240503 방송]]></title>
-        <id>https://tv.naver.com/v/50821762</id>
-        <link href="https://tv.naver.com/v/50821762"/>
-        <updated>2024-05-03T10:08:35.900Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반딧불 - 도영 | KBS 240503 방송]]></title>
-        <id>https://tv.naver.com/v/50821493</id>
-        <link href="https://tv.naver.com/v/50821493"/>
-        <updated>2024-05-03T10:08:35.903Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[But I - 솔라 (Solar) | KBS 240503 방송]]></title>
-        <id>https://tv.naver.com/v/50821237</id>
-        <link href="https://tv.naver.com/v/50821237"/>
-        <updated>2024-05-03T10:08:35.905Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
+        <title type="html"><![CDATA[I Like The Way - 김우진 | KBS 240510 방송]]></title>
+        <id>https://tv.naver.com/v/51161102</id>
+        <link href="https://tv.naver.com/v/51161102"/>
+        <updated>2024-05-10T10:08:54.743Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
     </entry>
 </feed>
