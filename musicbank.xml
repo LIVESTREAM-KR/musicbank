@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-05-24T08:10:27.191Z</updated>
+    <updated>2024-05-24T09:08:48.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소년...소녀를 만나다 (Girls, Love boys, Love girls) - DXMON(다이몬) | KBS 240524 방송]]></title>
+        <id>https://tv.naver.com/v/51843577</id>
+        <link href="https://tv.naver.com/v/51843577"/>
+        <updated>2024-05-24T09:08:47.622Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TICKET - NOWADAYS | KBS 240524 방송]]></title>
+        <id>https://tv.naver.com/v/51843291</id>
+        <link href="https://tv.naver.com/v/51843291"/>
+        <updated>2024-05-24T09:08:47.626Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heartthrob - 이스트샤인(EASTSHINE) | KBS 240524 방송]]></title>
+        <id>https://tv.naver.com/v/51843018</id>
+        <link href="https://tv.naver.com/v/51843018"/>
+        <updated>2024-05-24T09:08:47.628Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백점만점 - 트로이카(TROIKA) | KBS 240524 방송]]></title>
+        <id>https://tv.naver.com/v/51843013</id>
+        <link href="https://tv.naver.com/v/51843013"/>
+        <updated>2024-05-24T09:08:47.631Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOVE ME DO - 어센트(ASC2NT) | KBS 240524 방송]]></title>
+        <id>https://tv.naver.com/v/51843021</id>
+        <link href="https://tv.naver.com/v/51843021"/>
+        <updated>2024-05-24T09:08:47.633Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baby Step - We；Na  | KBS 240524 방송]]></title>
+        <id>https://tv.naver.com/v/51843020</id>
+        <link href="https://tv.naver.com/v/51843020"/>
+        <updated>2024-05-24T09:08:47.634Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supernova - aespa | KBS 240517 방송]]></title>
         <id>https://tv.naver.com/v/51503809</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/51503342"/>
         <updated>2024-05-17T10:08:14.850Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GEEKIN - YOUNITE | KBS 240517 방송]]></title>
-        <id>https://tv.naver.com/v/51503339</id>
-        <link href="https://tv.naver.com/v/51503339"/>
-        <updated>2024-05-17T10:08:14.851Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feel the POP - ZEROBASEONE | KBS 240517 방송]]></title>
-        <id>https://tv.naver.com/v/51502916</id>
-        <link href="https://tv.naver.com/v/51502916"/>
-        <updated>2024-05-17T10:08:14.852Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Girls Never Die - tripleS | KBS 240517 방송]]></title>
-        <id>https://tv.naver.com/v/51502872</id>
-        <link href="https://tv.naver.com/v/51502872"/>
-        <updated>2024-05-17T10:08:14.853Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flip that Coin - The KingDom (더킹덤) | KBS 240517 방송]]></title>
-        <id>https://tv.naver.com/v/51502651</id>
-        <link href="https://tv.naver.com/v/51502651"/>
-        <updated>2024-05-17T10:08:14.855Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분명 그녀가 나를 보고 웃잖아 - FANTASY BOYS | KBS 240517 방송]]></title>
-        <id>https://tv.naver.com/v/51502255</id>
-        <link href="https://tv.naver.com/v/51502255"/>
-        <updated>2024-05-17T10:08:14.856Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[촉(Choke) - 82MAJOR | KBS 240517 방송]]></title>
-        <id>https://tv.naver.com/v/51502254</id>
-        <link href="https://tv.naver.com/v/51502254"/>
-        <updated>2024-05-17T10:08:14.857Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
