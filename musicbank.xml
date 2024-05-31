@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-05-31T08:10:53.611Z</updated>
+    <updated>2024-05-31T09:09:47.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[keep it low - 유다연 | KBS 240531 방송]]></title>
+        <id>https://tv.naver.com/v/52186379</id>
+        <link href="https://tv.naver.com/v/52186379"/>
+        <updated>2024-05-31T09:09:46.941Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOKE UP - XG | KBS 240531 방송]]></title>
+        <id>https://tv.naver.com/v/52186307</id>
+        <link href="https://tv.naver.com/v/52186307"/>
+        <updated>2024-05-31T09:09:46.942Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual Angel - ARTMS | KBS 240531 방송]]></title>
+        <id>https://tv.naver.com/v/52186002</id>
+        <link href="https://tv.naver.com/v/52186002"/>
+        <updated>2024-05-31T09:09:46.944Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소년...소녀를 만나다 (Girls, Love boys, Love girls) - DXMON(다이몬) | KBS 240531 방송]]></title>
+        <id>https://tv.naver.com/v/52185980</id>
+        <link href="https://tv.naver.com/v/52185980"/>
+        <updated>2024-05-31T09:09:46.945Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOOP (feat.Lil Cherry) - 이브 | KBS 240531 방송]]></title>
+        <id>https://tv.naver.com/v/52185671</id>
+        <link href="https://tv.naver.com/v/52185671"/>
+        <updated>2024-05-31T09:09:46.945Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ride the Vibe - NEXZ | KBS 240531 방송]]></title>
+        <id>https://tv.naver.com/v/52185034</id>
+        <link href="https://tv.naver.com/v/52185034"/>
+        <updated>2024-05-31T09:09:46.946Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[_WORLD (원곡 : 세븐틴 (SEVENTEEN)) - 문상민 X 홍은채 | KBS 240531 방송]]></title>
+        <id>https://tv.naver.com/v/52185032</id>
+        <link href="https://tv.naver.com/v/52185032"/>
+        <updated>2024-05-31T09:09:46.948Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supernova - aespa | KBS 240524 방송]]></title>
         <id>https://tv.naver.com/v/51845883</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/51845576"/>
         <updated>2024-05-24T10:08:36.328Z</updated>
         <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feel the POP - ZEROBASEONE | KBS 240524 방송]]></title>
-        <id>https://tv.naver.com/v/51845573</id>
-        <link href="https://tv.naver.com/v/51845573"/>
-        <updated>2024-05-24T10:08:36.328Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble Gum - 뉴진스(NewJeans) | KBS 240524 방송]]></title>
-        <id>https://tv.naver.com/v/51845570</id>
-        <link href="https://tv.naver.com/v/51845570"/>
-        <updated>2024-05-24T10:08:36.330Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERROR 405 - JD1 | KBS 240524 방송]]></title>
-        <id>https://tv.naver.com/v/51844926</id>
-        <link href="https://tv.naver.com/v/51844926"/>
-        <updated>2024-05-24T10:08:36.332Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X10 - MCND | KBS 240524 방송]]></title>
-        <id>https://tv.naver.com/v/51844643</id>
-        <link href="https://tv.naver.com/v/51844643"/>
-        <updated>2024-05-24T10:08:36.334Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Girls Never Die - tripleS | KBS 240524 방송]]></title>
-        <id>https://tv.naver.com/v/51844634</id>
-        <link href="https://tv.naver.com/v/51844634"/>
-        <updated>2024-05-24T10:08:36.335Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pretty Revenge - 키코 (Kik5o) | KBS 240524 방송]]></title>
-        <id>https://tv.naver.com/v/51844141</id>
-        <link href="https://tv.naver.com/v/51844141"/>
-        <updated>2024-05-24T10:08:36.337Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love seeker - JO1 | KBS 240524 방송]]></title>
-        <id>https://tv.naver.com/v/51844130</id>
-        <link href="https://tv.naver.com/v/51844130"/>
-        <updated>2024-05-24T10:08:36.338Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
