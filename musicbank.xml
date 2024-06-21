@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-06-21T08:11:11.093Z</updated>
+    <updated>2024-06-21T09:08:19.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[풍덩 - cignature(시그니처) | KBS 240621 방송]]></title>
+        <id>https://tv.naver.com/v/56291790</id>
+        <link href="https://tv.naver.com/v/56291790"/>
+        <updated>2024-06-21T09:08:19.298Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLOW - TRENDZ(트렌드지) | KBS 240621 방송]]></title>
+        <id>https://tv.naver.com/v/56291785</id>
+        <link href="https://tv.naver.com/v/56291785"/>
+        <updated>2024-06-21T09:08:19.299Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꺼져 - ONE PACT (원팩트) | KBS 240621 방송]]></title>
+        <id>https://tv.naver.com/v/56291544</id>
+        <link href="https://tv.naver.com/v/56291544"/>
+        <updated>2024-06-21T09:08:19.301Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BADVILLAIN - BADVILLAIN(배드빌런) | KBS 240621 방송]]></title>
+        <id>https://tv.naver.com/v/56291535</id>
+        <link href="https://tv.naver.com/v/56291535"/>
+        <updated>2024-06-21T09:08:19.302Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUPERPOWER - 블리처스 (BLITZERS) | KBS 240621 방송]]></title>
+        <id>https://tv.naver.com/v/56291210</id>
+        <link href="https://tv.naver.com/v/56291210"/>
+        <updated>2024-06-21T09:08:19.304Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Cry - Candy Shop | KBS 240621 방송]]></title>
+        <id>https://tv.naver.com/v/56291187</id>
+        <link href="https://tv.naver.com/v/56291187"/>
+        <updated>2024-06-21T09:08:19.306Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deeeep - SPIA(수피아) | KBS 240621 방송]]></title>
+        <id>https://tv.naver.com/v/56290567</id>
+        <link href="https://tv.naver.com/v/56290567"/>
+        <updated>2024-06-21T09:08:19.308Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freyja - 프림로즈(PRIMROSE) | KBS 240621 방송]]></title>
+        <id>https://tv.naver.com/v/56289951</id>
+        <link href="https://tv.naver.com/v/56289951"/>
+        <updated>2024-06-21T09:08:19.310Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현재진행형 - 한이서 | KBS 240621 방송]]></title>
+        <id>https://tv.naver.com/v/56289946</id>
+        <link href="https://tv.naver.com/v/56289946"/>
+        <updated>2024-06-21T09:08:19.312Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Give Me That (Korean Ver.) - WayV | KBS 240614 방송]]></title>
         <id>https://tv.naver.com/v/54563079</id>
         <link href="https://tv.naver.com/v/54563079"/>
         <updated>2024-06-14T10:08:30.395Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balloon in Love - 선미 | KBS 240614 방송]]></title>
-        <id>https://tv.naver.com/v/54563074</id>
-        <link href="https://tv.naver.com/v/54563074"/>
-        <updated>2024-06-14T10:08:30.395Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABCD - 나연(TWICE) | KBS 240614 방송]]></title>
-        <id>https://tv.naver.com/v/54561357</id>
-        <link href="https://tv.naver.com/v/54561357"/>
-        <updated>2024-06-14T10:08:30.397Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble Gum - 뉴진스(NewJeans) | KBS 240614 방송]]></title>
-        <id>https://tv.naver.com/v/54560476</id>
-        <link href="https://tv.naver.com/v/54560476"/>
-        <updated>2024-06-14T10:08:30.398Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5!6!7!8! - 니콜(Nicole) | KBS 240614 방송]]></title>
-        <id>https://tv.naver.com/v/54559793</id>
-        <link href="https://tv.naver.com/v/54559793"/>
-        <updated>2024-06-14T10:08:30.400Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZOMBIE - EVERGLOW | KBS 240614 방송]]></title>
-        <id>https://tv.naver.com/v/54559629</id>
-        <link href="https://tv.naver.com/v/54559629"/>
-        <updated>2024-06-14T10:08:30.402Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[풍덩 - cignature(시그니처) | KBS 240614 방송]]></title>
-        <id>https://tv.naver.com/v/54558711</id>
-        <link href="https://tv.naver.com/v/54558711"/>
-        <updated>2024-06-14T10:08:30.403Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual Angel - ARTMS | KBS 240614 방송]]></title>
-        <id>https://tv.naver.com/v/54558706</id>
-        <link href="https://tv.naver.com/v/54558706"/>
-        <updated>2024-06-14T10:08:30.405Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shooting Star - 케플러(Kep1er) | KBS 240614 방송]]></title>
-        <id>https://tv.naver.com/v/54557762</id>
-        <link href="https://tv.naver.com/v/54557762"/>
-        <updated>2024-06-14T10:08:30.407Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 찬란한 빛으로 쏟아지는 - HYNN(박혜원) | KBS 240614 방송]]></title>
-        <id>https://tv.naver.com/v/54556739</id>
-        <link href="https://tv.naver.com/v/54556739"/>
-        <updated>2024-06-14T10:08:30.408Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
