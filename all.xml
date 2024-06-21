@@ -2,76 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-21T09:08:19.859Z</updated>
+    <updated>2024-06-21T10:08:24.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[풍덩 - cignature(시그니처) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291790</id>
-        <link href="https://tv.naver.com/v/56291790"/>
-        <updated>2024-06-21T09:08:19.298Z</updated>
+        <title type="html"><![CDATA[ABCD - 나연(TWICE) | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56294088</id>
+        <link href="https://tv.naver.com/v/56294088"/>
+        <updated>2024-06-21T10:08:24.318Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She A Wolf - WayV | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56293874</id>
+        <link href="https://tv.naver.com/v/56293874"/>
+        <updated>2024-06-21T10:08:24.319Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SABOTAGE - 권은비 | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56293564</id>
+        <link href="https://tv.naver.com/v/56293564"/>
+        <updated>2024-06-21T10:08:24.320Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZOMBIE - EVERGLOW | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56293355</id>
+        <link href="https://tv.naver.com/v/56293355"/>
+        <updated>2024-06-21T10:08:24.322Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POM POM POM - WOOAH (우아) | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56293352</id>
+        <link href="https://tv.naver.com/v/56293352"/>
+        <updated>2024-06-21T10:08:24.323Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHAT - BAE173 | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56293099</id>
+        <link href="https://tv.naver.com/v/56293099"/>
+        <updated>2024-06-21T10:08:24.327Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Badder Love - EVNNE(이븐) | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56292589</id>
+        <link href="https://tv.naver.com/v/56292589"/>
+        <updated>2024-06-21T10:08:24.328Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boom Boom Bass - RIIZE | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56292587</id>
+        <link href="https://tv.naver.com/v/56292587"/>
+        <updated>2024-06-21T10:08:24.331Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shooting Star - 케플러(Kep1er) | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56292375</id>
+        <link href="https://tv.naver.com/v/56292375"/>
+        <updated>2024-06-21T10:08:24.331Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뜨거워지자 (Let It Burn) - H1-KEY (하이키) | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56292321</id>
+        <link href="https://tv.naver.com/v/56292321"/>
+        <updated>2024-06-21T10:08:24.332Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLOW - TRENDZ(트렌드지) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291785</id>
-        <link href="https://tv.naver.com/v/56291785"/>
-        <updated>2024-06-21T09:08:19.299Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꺼져 - ONE PACT (원팩트) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291544</id>
-        <link href="https://tv.naver.com/v/56291544"/>
-        <updated>2024-06-21T09:08:19.301Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BADVILLAIN - BADVILLAIN(배드빌런) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291535</id>
-        <link href="https://tv.naver.com/v/56291535"/>
-        <updated>2024-06-21T09:08:19.302Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUPERPOWER - 블리처스 (BLITZERS) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291210</id>
-        <link href="https://tv.naver.com/v/56291210"/>
-        <updated>2024-06-21T09:08:19.304Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Cry - Candy Shop | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291187</id>
-        <link href="https://tv.naver.com/v/56291187"/>
-        <updated>2024-06-21T09:08:19.306Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deeeep - SPIA(수피아) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56290567</id>
-        <link href="https://tv.naver.com/v/56290567"/>
-        <updated>2024-06-21T09:08:19.308Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freyja - 프림로즈(PRIMROSE) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56289951</id>
-        <link href="https://tv.naver.com/v/56289951"/>
-        <updated>2024-06-21T09:08:19.310Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현재진행형 - 한이서 | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56289946</id>
-        <link href="https://tv.naver.com/v/56289946"/>
-        <updated>2024-06-21T09:08:19.312Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Give Me That (Korean Ver.) - WayV | KBS 240614 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/54563079</id>
-        <link href="https://tv.naver.com/v/54563079"/>
-        <updated>2024-06-14T10:08:30.395Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
