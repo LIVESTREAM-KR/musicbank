@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-07-12T10:09:08.634Z</updated>
+    <updated>2024-07-12T11:07:23.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -69,7 +69,7 @@
         <content type="html"><![CDATA[02:50]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LIGHT’S ON - Weeekly(위클리) | KBS 240712 방송]]></title>
+        <title type="html"><![CDATA[LIGHTS ON - Weeekly(위클리) | KBS 240712 방송]]></title>
         <id>https://tv.naver.com/v/57424175</id>
         <link href="https://tv.naver.com/v/57424175"/>
         <updated>2024-07-12T10:09:08.034Z</updated>
