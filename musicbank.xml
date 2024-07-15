@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-07-15T06:13:14.088Z</updated>
+    <updated>2024-07-15T07:08:39.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[LIGHTS ON - Weeekly(위클리) | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57537661</id>
-        <link href="https://tv.naver.com/v/57537661"/>
-        <updated>2024-07-15T06:13:13.449Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUSTICE - 드림캐쳐 | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57537119</id>
-        <link href="https://tv.naver.com/v/57537119"/>
-        <updated>2024-07-15T06:13:13.450Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[1 Thing - STAYC(스테이씨) | KBS 240712 방송]]></title>
         <id>https://tv.naver.com/v/57425423</id>
@@ -74,5 +60,19 @@
         <link href="https://tv.naver.com/v/57424183"/>
         <updated>2024-07-12T10:09:08.032Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Right Now - 뉴진스(NewJeans) | KBS 240712 방송]]></title>
+        <id>https://tv.naver.com/v/57424182</id>
+        <link href="https://tv.naver.com/v/57424182"/>
+        <updated>2024-07-15T07:08:39.090Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIGHTS ON - Weeekly(위클리) | KBS 240712 방송]]></title>
+        <id>https://tv.naver.com/v/57424175</id>
+        <link href="https://tv.naver.com/v/57424175"/>
+        <updated>2024-07-15T07:08:39.092Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
