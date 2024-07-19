@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-07-19T09:09:10.828Z</updated>
+    <updated>2024-07-19T10:09:01.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[1 Thing - STAYC(스테이씨) | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57425423</id>
-        <link href="https://tv.naver.com/v/57425423"/>
-        <updated>2024-07-12T10:09:08.020Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
+        <title type="html"><![CDATA[클락션(Klaxon) - (여자)아이들 | KBS 240719 방송]]></title>
+        <id>https://tv.naver.com/v/57786643</id>
+        <link href="https://tv.naver.com/v/57786643"/>
+        <updated>2024-07-19T10:09:00.563Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Songbird (Korean Ver.) - NCT WISH | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57425419</id>
-        <link href="https://tv.naver.com/v/57425419"/>
-        <updated>2024-07-12T10:09:08.020Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheeky Icy Thang - STAYC(스테이씨) | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57425413</id>
-        <link href="https://tv.naver.com/v/57425413"/>
-        <updated>2024-07-12T10:09:08.021Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클락션(Klaxon) - (여자)아이들 | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57424739</id>
-        <link href="https://tv.naver.com/v/57424739"/>
-        <updated>2024-07-12T10:09:08.023Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XO(Only If You Say Yes) - ENHYPEN(엔하이픈) | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57424531</id>
-        <link href="https://tv.naver.com/v/57424531"/>
-        <updated>2024-07-12T10:09:08.025Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supernatural - 뉴진스(NewJeans) | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57424353</id>
-        <link href="https://tv.naver.com/v/57424353"/>
-        <updated>2024-07-12T10:09:08.028Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hundred Broken Hearts - ENHYPEN(엔하이픈) | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57424351</id>
-        <link href="https://tv.naver.com/v/57424351"/>
-        <updated>2024-07-12T10:09:08.030Z</updated>
+        <title type="html"><![CDATA[XO(Only If You Say Yes) - ENHYPEN(엔하이픈) | KBS 240719 방송]]></title>
+        <id>https://tv.naver.com/v/57786642</id>
+        <link href="https://tv.naver.com/v/57786642"/>
+        <updated>2024-07-19T10:09:00.563Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JUSTICE - 드림캐쳐 | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57424183</id>
-        <link href="https://tv.naver.com/v/57424183"/>
-        <updated>2024-07-12T10:09:08.032Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
+        <title type="html"><![CDATA[삐그덕(Walk) - NCT 127 | KBS 240719 방송]]></title>
+        <id>https://tv.naver.com/v/57786637</id>
+        <link href="https://tv.naver.com/v/57786637"/>
+        <updated>2024-07-19T10:09:00.564Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Right Now - 뉴진스(NewJeans) | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57424182</id>
-        <link href="https://tv.naver.com/v/57424182"/>
-        <updated>2024-07-15T07:08:39.090Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
+        <title type="html"><![CDATA[사랑한다는 말의 뜻을 알아가자 - NCT 127 | KBS 240719 방송]]></title>
+        <id>https://tv.naver.com/v/57786386</id>
+        <link href="https://tv.naver.com/v/57786386"/>
+        <updated>2024-07-19T10:09:00.564Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LIGHTS ON - Weeekly(위클리) | KBS 240712 방송]]></title>
-        <id>https://tv.naver.com/v/57424175</id>
-        <link href="https://tv.naver.com/v/57424175"/>
-        <updated>2024-07-15T07:08:39.092Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
+        <title type="html"><![CDATA[Chk Chk Boom - Stray Kids | KBS 240719 방송]]></title>
+        <id>https://tv.naver.com/v/57786161</id>
+        <link href="https://tv.naver.com/v/57786161"/>
+        <updated>2024-07-19T10:09:00.564Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blessed - 하성운 | KBS 240719 방송]]></title>
+        <id>https://tv.naver.com/v/57786148</id>
+        <link href="https://tv.naver.com/v/57786148"/>
+        <updated>2024-07-19T10:09:00.566Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUSTICE - 드림캐쳐 | KBS 240719 방송]]></title>
+        <id>https://tv.naver.com/v/57785955</id>
+        <link href="https://tv.naver.com/v/57785955"/>
+        <updated>2024-07-19T10:09:00.568Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheeky Icy Thang - STAYC(스테이씨) | KBS 240719 방송]]></title>
+        <id>https://tv.naver.com/v/57785947</id>
+        <link href="https://tv.naver.com/v/57785947"/>
+        <updated>2024-07-19T10:09:00.573Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도깨비(SHOCK) - ALL(H)OURS (올아워즈) | KBS 240719 방송]]></title>
+        <id>https://tv.naver.com/v/57785491</id>
+        <link href="https://tv.naver.com/v/57785491"/>
+        <updated>2024-07-19T10:09:00.573Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanilla Choco Shake - WAKER | KBS 240719 방송]]></title>
+        <id>https://tv.naver.com/v/57785487</id>
+        <link href="https://tv.naver.com/v/57785487"/>
+        <updated>2024-07-19T10:09:00.574Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
