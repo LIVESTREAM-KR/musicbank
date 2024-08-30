@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-08-30T10:09:26.339Z</updated>
+    <updated>2024-08-30T11:09:34.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Start Up - 오마이걸 | KBS 240830 방송]]></title>
+        <id>https://tv.naver.com/v/60164816</id>
+        <link href="https://tv.naver.com/v/60164816"/>
+        <updated>2024-08-30T11:09:33.994Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[별별별(See that?) - NMIXX(엔믹스) | KBS 240830 방송]]></title>
         <id>https://tv.naver.com/v/60162641</id>
@@ -46,13 +53,6 @@
         <link href="https://tv.naver.com/v/60162233"/>
         <updated>2024-08-30T10:09:25.750Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start Up - 오마이걸 | KBS 240830 방송]]></title>
-        <id>https://tv.naver.com/v/60162227</id>
-        <link href="https://tv.naver.com/v/60162227"/>
-        <updated>2024-08-30T10:09:25.750Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CRAZY - LE SSERAFIM | KBS 240830 방송]]></title>
