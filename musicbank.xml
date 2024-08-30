@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-08-30T08:12:21.311Z</updated>
+    <updated>2024-08-30T09:10:14.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Weekend - DRIPPIN | KBS 240830 방송]]></title>
+        <id>https://tv.naver.com/v/60160767</id>
+        <link href="https://tv.naver.com/v/60160767"/>
+        <updated>2024-08-30T09:10:13.803Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O-HE - 방예담 | KBS 240830 방송]]></title>
+        <id>https://tv.naver.com/v/60160753</id>
+        <link href="https://tv.naver.com/v/60160753"/>
+        <updated>2024-08-30T09:10:13.804Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHIP - LUN8(루네이트) | KBS 240830 방송]]></title>
+        <id>https://tv.naver.com/v/60160528</id>
+        <link href="https://tv.naver.com/v/60160528"/>
+        <updated>2024-08-30T09:10:13.805Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATE THAT - YONG POSSE(영파씨) | KBS 240830 방송]]></title>
+        <id>https://tv.naver.com/v/60160523</id>
+        <link href="https://tv.naver.com/v/60160523"/>
+        <updated>2024-08-30T09:10:13.807Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너만 몰라 - 유니스(UNIS) | KBS 240830 방송]]></title>
+        <id>https://tv.naver.com/v/60160521</id>
+        <link href="https://tv.naver.com/v/60160521"/>
+        <updated>2024-08-30T09:10:13.809Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Not? - NOWADAYS | KBS 240830 방송]]></title>
+        <id>https://tv.naver.com/v/60160514</id>
+        <link href="https://tv.naver.com/v/60160514"/>
+        <updated>2024-08-30T09:10:13.811Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[illang (Firework) - 아일리원(ILY:1) | KBS 240830 방송]]></title>
+        <id>https://tv.naver.com/v/60160311</id>
+        <link href="https://tv.naver.com/v/60160311"/>
+        <updated>2024-08-30T09:10:13.812Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream it - 캐치더영 | KBS 240830 방송]]></title>
+        <id>https://tv.naver.com/v/60158796</id>
+        <link href="https://tv.naver.com/v/60158796"/>
+        <updated>2024-08-30T09:10:13.814Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S&S(sour and sweet) - ARrC(아크) | KBS 240830 방송]]></title>
+        <id>https://tv.naver.com/v/60158557</id>
+        <link href="https://tv.naver.com/v/60158557"/>
+        <updated>2024-08-30T09:10:13.816Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supersonic - fromis_9 | KBS 240823 방송]]></title>
         <id>https://tv.naver.com/v/59782060</id>
         <link href="https://tv.naver.com/v/59782060"/>
         <updated>2024-08-23T10:09:24.676Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Horizon - 태민 | KBS 240823 방송]]></title>
-        <id>https://tv.naver.com/v/59782059</id>
-        <link href="https://tv.naver.com/v/59782059"/>
-        <updated>2024-08-23T10:09:24.677Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wait - 효린 | KBS 240823 방송]]></title>
-        <id>https://tv.naver.com/v/59781765</id>
-        <link href="https://tv.naver.com/v/59781765"/>
-        <updated>2024-08-23T10:09:24.678Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 친구의 친구 얘기인데 - 문별 | KBS 240823 방송]]></title>
-        <id>https://tv.naver.com/v/59781761</id>
-        <link href="https://tv.naver.com/v/59781761"/>
-        <updated>2024-08-23T10:09:24.680Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Worry, Be Happy - SF9 | KBS 240823 방송]]></title>
-        <id>https://tv.naver.com/v/59781288</id>
-        <link href="https://tv.naver.com/v/59781288"/>
-        <updated>2024-08-23T10:09:24.682Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요.요.요.(YO. YO. YO.) - 성민 | KBS 240823 방송]]></title>
-        <id>https://tv.naver.com/v/59781284</id>
-        <link href="https://tv.naver.com/v/59781284"/>
-        <updated>2024-08-23T10:09:24.683Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend - DRIPPIN | KBS 240823 방송]]></title>
-        <id>https://tv.naver.com/v/59781235</id>
-        <link href="https://tv.naver.com/v/59781235"/>
-        <updated>2024-08-23T10:09:24.685Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아뜨뜨뜨 - MCND | KBS 240823 방송]]></title>
-        <id>https://tv.naver.com/v/59780722</id>
-        <link href="https://tv.naver.com/v/59780722"/>
-        <updated>2024-08-23T10:09:24.686Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별별별(See that?) - NMIXX(엔믹스) | KBS 240823 방송]]></title>
-        <id>https://tv.naver.com/v/59780720</id>
-        <link href="https://tv.naver.com/v/59780720"/>
-        <updated>2024-08-23T10:09:24.688Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Is Lonely - NMIXX(엔믹스) | KBS 240823 방송]]></title>
-        <id>https://tv.naver.com/v/59780523</id>
-        <link href="https://tv.naver.com/v/59780523"/>
-        <updated>2024-08-23T10:09:24.689Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
