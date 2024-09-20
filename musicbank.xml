@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-09-20T08:12:39.683Z</updated>
+    <updated>2024-09-20T09:12:07.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[COCOCO - GENBLUE  | KBS 240920 방송]]></title>
+        <id>https://tv.naver.com/v/61209393</id>
+        <link href="https://tv.naver.com/v/61209393"/>
+        <updated>2024-09-20T09:12:07.305Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You′re mine - 클레오  | KBS 240920 방송]]></title>
+        <id>https://tv.naver.com/v/61208896</id>
+        <link href="https://tv.naver.com/v/61208896"/>
+        <updated>2024-09-20T09:12:07.305Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제나저제나 - 김보민 | KBS 240920 방송]]></title>
+        <id>https://tv.naver.com/v/61208884</id>
+        <link href="https://tv.naver.com/v/61208884"/>
+        <updated>2024-09-20T09:12:07.306Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토요일밤에 - 허찬미 | KBS 240920 방송]]></title>
+        <id>https://tv.naver.com/v/61208878</id>
+        <link href="https://tv.naver.com/v/61208878"/>
+        <updated>2024-09-20T09:12:07.306Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일루와(COME TO ME) - BEAUTYBOX | KBS 240920 방송]]></title>
+        <id>https://tv.naver.com/v/61208350</id>
+        <link href="https://tv.naver.com/v/61208350"/>
+        <updated>2024-09-20T09:12:07.307Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건사 하트 뿅 - 고정우 | KBS 240920 방송]]></title>
+        <id>https://tv.naver.com/v/61208349</id>
+        <link href="https://tv.naver.com/v/61208349"/>
+        <updated>2024-09-20T09:12:07.309Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run Away - 쯔위 | KBS 240913 방송]]></title>
         <id>https://tv.naver.com/v/60927877</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/60927476"/>
         <updated>2024-09-13T10:10:12.395Z</updated>
         <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위치(WITCH) - xikers  | KBS 240913 방송]]></title>
-        <id>https://tv.naver.com/v/60927470</id>
-        <link href="https://tv.naver.com/v/60927470"/>
-        <updated>2024-09-13T10:10:12.396Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nice Guy - BOYNEXTDOOR | KBS 240913 방송]]></title>
-        <id>https://tv.naver.com/v/60927247</id>
-        <link href="https://tv.naver.com/v/60927247"/>
-        <updated>2024-09-13T10:10:12.398Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부모님 관람불가 - BOYNEXTDOOR | KBS 240913 방송]]></title>
-        <id>https://tv.naver.com/v/60927242</id>
-        <link href="https://tv.naver.com/v/60927242"/>
-        <updated>2024-09-13T10:10:12.399Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wavy - 예린 | KBS 240913 방송]]></title>
-        <id>https://tv.naver.com/v/60926936</id>
-        <link href="https://tv.naver.com/v/60926936"/>
-        <updated>2024-09-13T10:10:12.401Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dunk Shot - NCT WISH | KBS 240913 방송]]></title>
-        <id>https://tv.naver.com/v/60926404</id>
-        <link href="https://tv.naver.com/v/60926404"/>
-        <updated>2024-09-13T10:10:12.402Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼슈퍼(SuperSuper) - 영탁 | KBS 240913 방송]]></title>
-        <id>https://tv.naver.com/v/60926180</id>
-        <link href="https://tv.naver.com/v/60926180"/>
-        <updated>2024-09-13T10:10:12.403Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
     </entry>
 </feed>
