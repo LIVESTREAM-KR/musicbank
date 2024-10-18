@@ -2,76 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-18T09:11:04.688Z</updated>
+    <updated>2024-10-18T10:11:26.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Night before the end - Xdinary Heroes | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62804942</id>
+        <link href="https://tv.naver.com/v/62804942"/>
+        <updated>2024-10-18T10:11:25.856Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책임져 - JD1 | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62804940</id>
+        <link href="https://tv.naver.com/v/62804940"/>
+        <updated>2024-10-18T10:11:25.857Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반가워, 나의 첫사랑 - 더윈드 | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62804939</id>
+        <link href="https://tv.naver.com/v/62804939"/>
+        <updated>2024-10-18T10:11:25.858Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그리운건 그대일까 그때일까 - CNBLUE | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62804937</id>
+        <link href="https://tv.naver.com/v/62804937"/>
+        <updated>2024-10-18T10:11:25.860Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOVE, MONEY, FAME - 세븐틴 | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62804933</id>
+        <link href="https://tv.naver.com/v/62804933"/>
+        <updated>2024-10-18T10:11:25.862Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITZY - GOLD | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62804930</id>
+        <link href="https://tv.naver.com/v/62804930"/>
+        <updated>2024-10-18T10:11:25.864Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVKED - AB6IX | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62804928</id>
+        <link href="https://tv.naver.com/v/62804928"/>
+        <updated>2024-10-18T10:11:25.865Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네모네모 - YENA(최예나) | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62804921</id>
+        <link href="https://tv.naver.com/v/62804921"/>
+        <updated>2024-10-18T10:11:25.866Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Loud - KISS OF LIFE | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62804919</id>
+        <link href="https://tv.naver.com/v/62804919"/>
+        <updated>2024-10-18T10:11:25.868Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automatic - VANNER | KBS 241018 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/62801997</id>
         <link href="https://tv.naver.com/v/62801997"/>
         <updated>2024-10-18T09:11:03.960Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Girl - EPEX (이펙스) | KBS 241018 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/62801980</id>
-        <link href="https://tv.naver.com/v/62801980"/>
-        <updated>2024-10-18T09:11:03.960Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기억사탕 - Billlie | KBS 241018 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/62801978</id>
-        <link href="https://tv.naver.com/v/62801978"/>
-        <updated>2024-10-18T09:11:03.961Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혀끝(Stuck) - 82MAJOR | KBS 241018 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/62800709</id>
-        <link href="https://tv.naver.com/v/62800709"/>
-        <updated>2024-10-18T09:11:03.962Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배로 (Rush of Joy) - WHIB | KBS 241018 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/62800705</id>
-        <link href="https://tv.naver.com/v/62800705"/>
-        <updated>2024-10-18T09:11:03.970Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WaveWay - SAY MY NAME | KBS 241018 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/62800688</id>
-        <link href="https://tv.naver.com/v/62800688"/>
-        <updated>2024-10-18T09:11:03.970Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[똑똑(Feat. 문수진) - Yang Kyle | KBS 241018 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/62800685</id>
-        <link href="https://tv.naver.com/v/62800685"/>
-        <updated>2024-10-18T09:11:03.974Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call Me Back - 노매드 | KBS 241018 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/62799867</id>
-        <link href="https://tv.naver.com/v/62799867"/>
-        <updated>2024-10-18T09:11:03.975Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DESERVED - ONE PACT | KBS 241018 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/62799841</id>
-        <link href="https://tv.naver.com/v/62799841"/>
-        <updated>2024-10-18T09:11:03.975Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러브스토리(feat. 김지현) - 신유 | KBS 241018 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/62799835</id>
-        <link href="https://tv.naver.com/v/62799835"/>
-        <updated>2024-10-18T09:11:03.976Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
