@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-11-15T08:13:19.526Z</updated>
+    <updated>2024-11-15T09:10:06.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나이테 - 범진 | KBS 241115 방송]]></title>
+        <id>https://tv.naver.com/v/64491704</id>
+        <link href="https://tv.naver.com/v/64491704"/>
+        <updated>2024-11-15T09:10:05.514Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take It Slow - TIOT | KBS 241115 방송]]></title>
+        <id>https://tv.naver.com/v/64491373</id>
+        <link href="https://tv.naver.com/v/64491373"/>
+        <updated>2024-11-15T09:10:05.514Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clap - 버비(Burvey) | KBS 241115 방송]]></title>
+        <id>https://tv.naver.com/v/64491354</id>
+        <link href="https://tv.naver.com/v/64491354"/>
+        <updated>2024-11-15T09:10:05.515Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stunning - 데이차일드 | KBS 241115 방송]]></title>
+        <id>https://tv.naver.com/v/64490994</id>
+        <link href="https://tv.naver.com/v/64490994"/>
+        <updated>2024-11-15T09:10:05.515Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여전히 난 너를 찾고 있어 - 권인서 | KBS 241115 방송]]></title>
+        <id>https://tv.naver.com/v/64490520</id>
+        <link href="https://tv.naver.com/v/64490520"/>
+        <updated>2024-11-15T09:10:05.516Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허니허니(드림Ver.) - 한가빈 | KBS 241115 방송]]></title>
+        <id>https://tv.naver.com/v/64489692</id>
+        <link href="https://tv.naver.com/v/64489692"/>
+        <updated>2024-11-15T09:10:05.517Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THATS ME - ODD YOUTH | KBS 241115 방송]]></title>
+        <id>https://tv.naver.com/v/64489400</id>
+        <link href="https://tv.naver.com/v/64489400"/>
+        <updated>2024-11-15T09:10:05.518Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRIGGER (導火線) - 더보이즈 (THE BOYZ) | KBS 241108 방송]]></title>
         <id>https://tv.naver.com/v/64055104</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/64054833"/>
         <updated>2024-11-08T10:09:58.349Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Came And Left Me - 민호 | KBS 241108 방송]]></title>
-        <id>https://tv.naver.com/v/64054572</id>
-        <link href="https://tv.naver.com/v/64054572"/>
-        <updated>2024-11-08T10:09:58.349Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over The Moon - 투모로우바이투게더 | KBS 241108 방송]]></title>
-        <id>https://tv.naver.com/v/64054055</id>
-        <link href="https://tv.naver.com/v/64054055"/>
-        <updated>2024-11-08T10:09:58.351Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forty One Winks - 투모로우바이투게더 | KBS 241108 방송]]></title>
-        <id>https://tv.naver.com/v/64054047</id>
-        <link href="https://tv.naver.com/v/64054047"/>
-        <updated>2024-11-08T10:09:58.353Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shhh! - VIVIZ (비비지) | KBS 241108 방송]]></title>
-        <id>https://tv.naver.com/v/64053987</id>
-        <link href="https://tv.naver.com/v/64053987"/>
-        <updated>2024-11-08T10:09:58.354Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imaginary Friend - ITZY | KBS 241108 방송]]></title>
-        <id>https://tv.naver.com/v/64053699</id>
-        <link href="https://tv.naver.com/v/64053699"/>
-        <updated>2024-11-08T10:09:58.356Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT - STAYC (스테이씨) | KBS 241108 방송]]></title>
-        <id>https://tv.naver.com/v/64053669</id>
-        <link href="https://tv.naver.com/v/64053669"/>
-        <updated>2024-11-08T10:09:58.357Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNIVERSE - EPEX (이펙스) | KBS 241108 방송]]></title>
-        <id>https://tv.naver.com/v/64053167</id>
-        <link href="https://tv.naver.com/v/64053167"/>
-        <updated>2024-11-08T10:09:58.359Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
