@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-11-22T10:11:05.496Z</updated>
+    <updated>2024-11-22T11:09:03.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -69,7 +69,7 @@
         <content type="html"><![CDATA[02:20]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[렛츠기릿(Let‘s get it) - NOWDAYS | KBS 241122 방송]]></title>
+        <title type="html"><![CDATA[렛츠기릿(Let‘s get it) - NOWADAYS | KBS 241122 방송]]></title>
         <id>https://tv.naver.com/v/64947412</id>
         <link href="https://tv.naver.com/v/64947412"/>
         <updated>2024-11-22T10:11:04.790Z</updated>
