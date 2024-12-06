@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-12-06T08:14:04.474Z</updated>
+    <updated>2024-12-06T09:10:41.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[숨(ZOOM) - BADVILLAIN (배드빌런) | KBS 241206 방송]]></title>
+        <id>https://tv.naver.com/v/65849269</id>
+        <link href="https://tv.naver.com/v/65849269"/>
+        <updated>2024-12-06T09:10:40.719Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NALLINA - NEXZ (넥스지) | KBS 241206 방송]]></title>
+        <id>https://tv.naver.com/v/65849261</id>
+        <link href="https://tv.naver.com/v/65849261"/>
+        <updated>2024-12-06T09:10:40.720Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLOW - 빅오션 (Big Oceaon) | KBS 241206 방송]]></title>
+        <id>https://tv.naver.com/v/65849178</id>
+        <link href="https://tv.naver.com/v/65849178"/>
+        <updated>2024-12-06T09:10:40.721Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여전히 난 너를 찾고 있어 - 권인서 (Kwon In Seo) | KBS 241206 방송]]></title>
+        <id>https://tv.naver.com/v/65848863</id>
+        <link href="https://tv.naver.com/v/65848863"/>
+        <updated>2024-12-06T09:10:40.724Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stunning - 데이차일드 (DayChild) | KBS 241206 방송]]></title>
+        <id>https://tv.naver.com/v/65848496</id>
+        <link href="https://tv.naver.com/v/65848496"/>
+        <updated>2024-12-06T09:10:40.725Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steal Heart - 프림로즈 (PRIMROSE) | KBS 241206 방송]]></title>
+        <id>https://tv.naver.com/v/65848216</id>
+        <link href="https://tv.naver.com/v/65848216"/>
+        <updated>2024-12-06T09:10:40.726Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOMINO - 13파운드 (13Found) | KBS 241206 방송]]></title>
+        <id>https://tv.naver.com/v/65847788</id>
+        <link href="https://tv.naver.com/v/65847788"/>
+        <updated>2024-12-06T09:10:40.728Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아찔하게 - 이예은 (Lee Ye Eun) | KBS 241206 방송]]></title>
+        <id>https://tv.naver.com/v/65847121</id>
+        <link href="https://tv.naver.com/v/65847121"/>
+        <updated>2024-12-06T09:10:40.732Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루마다 끝도 없이 - 규현 | KBS 241129 방송]]></title>
         <id>https://tv.naver.com/v/65400304</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/65400301"/>
         <updated>2024-11-29T10:11:22.057Z</updated>
         <content type="html"><![CDATA[02:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Like A Flower - 아이린 | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65400297</id>
-        <link href="https://tv.naver.com/v/65400297"/>
-        <updated>2024-11-29T10:11:22.058Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65400294</id>
-        <link href="https://tv.naver.com/v/65400294"/>
-        <updated>2024-11-29T10:11:22.058Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crash - JAY B | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65400292</id>
-        <link href="https://tv.naver.com/v/65400292"/>
-        <updated>2024-11-29T10:11:22.059Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better With You (Korean Ver.) - YAOCHEN | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65399183</id>
-        <link href="https://tv.naver.com/v/65399183"/>
-        <updated>2024-11-29T10:11:22.061Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막 축제 - TWS(투어스) | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65399180</id>
-        <link href="https://tv.naver.com/v/65399180"/>
-        <updated>2024-11-29T10:11:22.062Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이테 - 범진 | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65398755</id>
-        <link href="https://tv.naver.com/v/65398755"/>
-        <updated>2024-11-29T10:11:22.068Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IZNA - izna(이즈나) | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65398752</id>
-        <link href="https://tv.naver.com/v/65398752"/>
-        <updated>2024-11-29T10:11:22.069Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIMEBOMB - izna(이즈나) | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65398749</id>
-        <link href="https://tv.naver.com/v/65398749"/>
-        <updated>2024-11-29T10:11:22.069Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
