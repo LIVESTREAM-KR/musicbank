@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-24T08:12:49.084Z</updated>
+    <updated>2025-01-24T09:10:27.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Mama Said (뭐가 되려고?) - KickFlip (킥플립) | KBS 250124 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/68830719</id>
+        <link href="https://tv.naver.com/v/68830719"/>
+        <updated>2025-01-24T09:10:26.743Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[응 그래 - KickFlip (킥플립) | KBS 250124 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/68830470</id>
+        <link href="https://tv.naver.com/v/68830470"/>
+        <updated>2025-01-24T09:10:26.744Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불러줘요 - 노지훈 (Ji Hoon Noh) | KBS 250124 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/68830462</id>
+        <link href="https://tv.naver.com/v/68830462"/>
+        <updated>2025-01-24T09:10:26.744Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바다사나이 - 박지현 (Park Ji Hyeon) | KBS 250124 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/68830459</id>
+        <link href="https://tv.naver.com/v/68830459"/>
+        <updated>2025-01-24T09:10:26.746Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고맙소 - 찬울 (Chan ul) | KBS 250124 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/68829906</id>
+        <link href="https://tv.naver.com/v/68829906"/>
+        <updated>2025-01-24T09:10:26.746Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어딘가로 (OMW) - 몬트 (M.O.N.T) | KBS 250124 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/68829916</id>
+        <link href="https://tv.naver.com/v/68829916"/>
+        <updated>2025-01-24T09:10:26.747Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너뿐야 - 별사랑 (Byeol Sarang) | KBS 250124 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/68829383</id>
+        <link href="https://tv.naver.com/v/68829383"/>
+        <updated>2025-01-24T09:10:26.748Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아라리요 - 윤서령 (Yoon Seoryeong) | KBS 250124 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/68829375</id>
+        <link href="https://tv.naver.com/v/68829375"/>
+        <updated>2025-01-24T09:10:26.750Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#shorts#아이브 컴백인터뷰(IVE COMEBACK Interview) | KBS 250117 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/68617996</id>
@@ -17,61 +73,5 @@
         <link href="https://tv.naver.com/v/68407056"/>
         <updated>2025-01-17T10:10:04.224Z</updated>
         <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUCKY - 완선&슬기 (Wan Sun&SEULGI) | KBS 250117 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/68405868</id>
-        <link href="https://tv.naver.com/v/68405868"/>
-        <updated>2025-01-17T10:10:04.225Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루퍼트의 눈물 (Rupert‘s drop) - 원어스 (ONEUS) | KBS 250117 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/68405865</id>
-        <link href="https://tv.naver.com/v/68405865"/>
-        <updated>2025-01-17T10:10:04.227Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IKUK - 원어스 (ONEUS) | KBS 250117 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/68405860</id>
-        <link href="https://tv.naver.com/v/68405860"/>
-        <updated>2025-01-17T10:10:04.229Z</updated>
-        <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 반딧불 - 황가람 (Hwang Garam)  | KBS 250117 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/68405856</id>
-        <link href="https://tv.naver.com/v/68405856"/>
-        <updated>2025-01-17T10:10:04.232Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love 2 - 브브걸 (BBGIRLS) | KBS 250117 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/68405850</id>
-        <link href="https://tv.naver.com/v/68405850"/>
-        <updated>2025-01-17T10:10:04.234Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을밤 떠난 너 - 이진이 (JinE) | KBS 250117 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/68404665</id>
-        <link href="https://tv.naver.com/v/68404665"/>
-        <updated>2025-01-17T10:10:04.236Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나비당신 - 양지은 (Yang Ji Eun) | KBS 250117 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/68404664</id>
-        <link href="https://tv.naver.com/v/68404664"/>
-        <updated>2025-01-17T10:10:04.237Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바다사나이 - 박지현 (Park Ji Hyeon) | KBS 250117 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/68404662</id>
-        <link href="https://tv.naver.com/v/68404662"/>
-        <updated>2025-01-17T10:10:04.239Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
