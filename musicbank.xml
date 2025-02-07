@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2025-02-07T11:08:17.655Z</updated>
+    <updated>2025-02-07T12:16:58.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GIMME GIMME - ALL(H)OURS (올아워즈)  | KBS 250207 방송]]></title>
+        <id>https://tv.naver.com/v/69595699</id>
+        <link href="https://tv.naver.com/v/69595699"/>
+        <updated>2025-02-07T12:16:57.738Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UP N DOWN - 은혁 (EUNHYUK) | KBS 250207 방송]]></title>
         <id>https://tv.naver.com/v/69590822</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/69589367"/>
         <updated>2025-02-07T10:10:33.311Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glow Up - RESCENE (리센느) | KBS 250207 방송]]></title>
-        <id>https://tv.naver.com/v/69588353</id>
-        <link href="https://tv.naver.com/v/69588353"/>
-        <updated>2025-02-07T10:10:33.313Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
 </feed>
