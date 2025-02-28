@@ -2,76 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/musicbank/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-28T08:13:22.169Z</updated>
+    <updated>2025-02-28T09:17:45.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250221 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70516944</id>
-        <link href="https://tv.naver.com/v/70516944"/>
-        <updated>2025-02-21T10:10:33.760Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
+        <title type="html"><![CDATA[I DO ME - KiiiKiii (키키) | KBS 250228 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70983107</id>
+        <link href="https://tv.naver.com/v/70983107"/>
+        <updated>2025-02-28T09:17:45.014Z</updated>
+        <content type="html"><![CDATA[04:18]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가르쳐줘 - 한해 (HANHAE), 문세윤(Moon Seyoon) | KBS 250221 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70516932</id>
-        <link href="https://tv.naver.com/v/70516932"/>
-        <updated>2025-02-21T10:10:33.761Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
+        <title type="html"><![CDATA[Storm - 김보경 (KIM BO-KYOUNG) | KBS 250228 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70983041</id>
+        <link href="https://tv.naver.com/v/70983041"/>
+        <updated>2025-02-28T09:17:45.016Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HOT MESS - EVNNE (이븐) | KBS 250221 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70516651</id>
-        <link href="https://tv.naver.com/v/70516651"/>
-        <updated>2025-02-21T10:10:33.761Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
+        <title type="html"><![CDATA[100! - ONE PACT (원팩트) | KBS 250228 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70983034</id>
+        <link href="https://tv.naver.com/v/70983034"/>
+        <updated>2025-02-28T09:17:45.016Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TIME 2 SHINE - XODIAC (소디엑) | KBS 250221 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70516645</id>
-        <link href="https://tv.naver.com/v/70516645"/>
-        <updated>2025-02-21T10:10:33.763Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나비 - LUN8 (루네이트) | KBS 250221 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70516628</id>
-        <link href="https://tv.naver.com/v/70516628"/>
-        <updated>2025-02-21T10:10:33.765Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIMME GIMME - ALL(H)OURS (올아워즈)  | KBS 250221 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70516018</id>
-        <link href="https://tv.naver.com/v/70516018"/>
-        <updated>2025-02-21T10:10:33.770Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100! - ONE PACT (원팩트) | KBS 250221 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70516013</id>
-        <link href="https://tv.naver.com/v/70516013"/>
-        <updated>2025-02-21T10:10:33.771Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glow Up - RESCENE (리센느) | KBS 250221 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70515648</id>
-        <link href="https://tv.naver.com/v/70515648"/>
-        <updated>2025-02-21T10:10:33.772Z</updated>
+        <title type="html"><![CDATA[Graffiti - ALL(H)OURS (올아워즈) | KBS 250228 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70983029</id>
+        <link href="https://tv.naver.com/v/70983029"/>
+        <updated>2025-02-28T09:17:45.016Z</updated>
         <content type="html"><![CDATA[02:35]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가라고 - 전유진 (Jeon Yu Jin) | KBS 250221 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70515341</id>
-        <link href="https://tv.naver.com/v/70515341"/>
-        <updated>2025-02-21T10:10:33.773Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
+        <title type="html"><![CDATA[LIKE U 100 - 규빈 (Gyubin) | KBS 250228 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70981927</id>
+        <link href="https://tv.naver.com/v/70981927"/>
+        <updated>2025-02-28T09:17:45.017Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Knock Knock - KickFlip (킥플립) | KBS 250221 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70515101</id>
-        <link href="https://tv.naver.com/v/70515101"/>
-        <updated>2025-02-21T10:10:33.775Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
+        <title type="html"><![CDATA[Glow Up - RESCENE (리센느) | KBS 250228 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70981917</id>
+        <link href="https://tv.naver.com/v/70981917"/>
+        <updated>2025-02-28T09:17:45.020Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nu kidz - ARrC (아크) | KBS 250228 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70981438</id>
+        <link href="https://tv.naver.com/v/70981438"/>
+        <updated>2025-02-28T09:17:45.021Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dear my wave - 김채원 (Kim Chaewon) | KBS 250228 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70981075</id>
+        <link href="https://tv.naver.com/v/70981075"/>
+        <updated>2025-02-28T09:17:45.022Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farewell - 이진이 (JinE) | KBS 250228 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70981066</id>
+        <link href="https://tv.naver.com/v/70981066"/>
+        <updated>2025-02-28T09:17:45.023Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음 (Mm-hmm) - 3WAY (쓰리웨이) | KBS 250228 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70980689</id>
+        <link href="https://tv.naver.com/v/70980689"/>
+        <updated>2025-02-28T09:17:45.024Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
