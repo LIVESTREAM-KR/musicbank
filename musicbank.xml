@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2025-03-14T08:13:53.751Z</updated>
+    <updated>2025-03-14T09:11:17.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ShaLala - SAY MY NAME (세이마이네임) | KBS 250314 방송]]></title>
+        <id>https://tv.naver.com/v/71921369</id>
+        <link href="https://tv.naver.com/v/71921369"/>
+        <updated>2025-03-14T09:11:17.087Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chase - Hearts2Hearts (하츠투하츠) | KBS 250314 방송]]></title>
+        <id>https://tv.naver.com/v/71921364</id>
+        <link href="https://tv.naver.com/v/71921364"/>
+        <updated>2025-03-14T09:11:17.092Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I DO ME - KiiiKiii (키키) | KBS 250314 방송]]></title>
+        <id>https://tv.naver.com/v/71921363</id>
+        <link href="https://tv.naver.com/v/71921363"/>
+        <updated>2025-03-14T09:11:17.093Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OVER N OVER - NTX (엔티엑스) | KBS 250314 방송]]></title>
+        <id>https://tv.naver.com/v/71920942</id>
+        <link href="https://tv.naver.com/v/71920942"/>
+        <updated>2025-03-14T09:11:17.093Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACT LIKE THAT - GENBLUE (젠블루) | KBS 250314 방송]]></title>
+        <id>https://tv.naver.com/v/71920584</id>
+        <link href="https://tv.naver.com/v/71920584"/>
+        <updated>2025-03-14T09:11:17.093Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[행운을 부탁해 - 보라미유 (BORAMIYU) | KBS 250314 방송]]></title>
+        <id>https://tv.naver.com/v/71920563</id>
+        <link href="https://tv.naver.com/v/71920563"/>
+        <updated>2025-03-14T09:11:17.095Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나도 여자랍니다 - 김지현 (Kim Ji Hyun) | KBS 250314 방송]]></title>
+        <id>https://tv.naver.com/v/71920560</id>
+        <link href="https://tv.naver.com/v/71920560"/>
+        <updated>2025-03-14T09:11:17.096Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dangerous - 인피니트 (INFINITE) | KBS 250307 방송]]></title>
         <id>https://tv.naver.com/v/71436316</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/71436003"/>
         <updated>2025-03-07T10:11:14.969Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불씨 - 비투비 (BTOB) | KBS 250307 방송]]></title>
-        <id>https://tv.naver.com/v/71435740</id>
-        <link href="https://tv.naver.com/v/71435740"/>
-        <updated>2025-03-07T10:11:14.972Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별 헤는 밤 (The Starry Night) - 원위 (ONEWE) | KBS 250307 방송]]></title>
-        <id>https://tv.naver.com/v/71435482</id>
-        <link href="https://tv.naver.com/v/71435482"/>
-        <updated>2025-03-07T10:11:14.973Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Want You Now - 8TURN(에잇턴) | KBS 250307 방송]]></title>
-        <id>https://tv.naver.com/v/71435463</id>
-        <link href="https://tv.naver.com/v/71435463"/>
-        <updated>2025-03-07T10:11:14.974Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEGGO - 8TURN(에잇턴) | KBS 250307 방송]]></title>
-        <id>https://tv.naver.com/v/71435127</id>
-        <link href="https://tv.naver.com/v/71435127"/>
-        <updated>2025-03-07T10:11:14.976Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIME 2 SHINE - XODIAC (소디엑) | KBS 250307 방송]]></title>
-        <id>https://tv.naver.com/v/71434858</id>
-        <link href="https://tv.naver.com/v/71434858"/>
-        <updated>2025-03-07T10:11:14.977Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N.I.N (New is Now) - NouerA (누에라) | KBS 250307 방송]]></title>
-        <id>https://tv.naver.com/v/71434855</id>
-        <link href="https://tv.naver.com/v/71434855"/>
-        <updated>2025-03-07T10:11:14.978Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COLD (YPS Colder Ver.) - YOUNG POSSE (영파씨) | KBS 250307 방송]]></title>
-        <id>https://tv.naver.com/v/71434809</id>
-        <link href="https://tv.naver.com/v/71434809"/>
-        <updated>2025-03-07T10:11:14.980Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
