@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2025-04-04T08:14:16.022Z</updated>
+    <updated>2025-04-04T09:10:51.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ShaLala - SAY MY NAME (세이마이네임) | KBS 250328 방송]]></title>
+        <id>https://tv.naver.com/v/73458291</id>
+        <link href="https://tv.naver.com/v/73458291"/>
+        <updated>2025-04-04T09:10:50.995Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OVER N OVER - NTX (엔티엑스) | KBS 250328 방송]]></title>
+        <id>https://tv.naver.com/v/73457670</id>
+        <link href="https://tv.naver.com/v/73457670"/>
+        <updated>2025-04-04T09:10:50.997Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Only One - 더윈드 (The Wind) | KBS 250328 방송]]></title>
+        <id>https://tv.naver.com/v/73457307</id>
+        <link href="https://tv.naver.com/v/73457307"/>
+        <updated>2025-04-04T09:10:50.998Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Undeniable - FANTASY BOYS (판타지보이즈) | KBS 250328 방송]]></title>
+        <id>https://tv.naver.com/v/73457211</id>
+        <link href="https://tv.naver.com/v/73457211"/>
+        <updated>2025-04-04T09:10:50.999Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flip the Coin - NEWBEAT (뉴비트) | KBS 250328 방송]]></title>
+        <id>https://tv.naver.com/v/73456734</id>
+        <link href="https://tv.naver.com/v/73456734"/>
+        <updated>2025-04-04T09:10:50.999Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIP TOE - Candy Shop (캔디샵) | KBS 250328 방송]]></title>
+        <id>https://tv.naver.com/v/73456703</id>
+        <link href="https://tv.naver.com/v/73456703"/>
+        <updated>2025-04-04T09:10:51.000Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DSTM - ONE OR EIGHT (원 올 에잇) | KBS 250328 방송]]></title>
+        <id>https://tv.naver.com/v/73456685</id>
+        <link href="https://tv.naver.com/v/73456685"/>
+        <updated>2025-04-04T09:10:51.002Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucky Tonight - 이스트샤인 (EASTSHINE) | KBS 250328 방송]]></title>
+        <id>https://tv.naver.com/v/73456251</id>
+        <link href="https://tv.naver.com/v/73456251"/>
+        <updated>2025-04-04T09:10:51.004Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOT - LE SSERAFIM (르세라핌) | KBS 250321 방송]]></title>
         <id>https://tv.naver.com/v/72417770</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/72417764"/>
         <updated>2025-03-21T10:10:44.255Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VVV - 더보이즈 (THE BOYZ) | KBS 250321 방송]]></title>
-        <id>https://tv.naver.com/v/72417075</id>
-        <link href="https://tv.naver.com/v/72417075"/>
-        <updated>2025-03-21T10:10:44.258Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undeniable - FANTASY BOYS (판타지보이즈) | KBS 250321 방송]]></title>
-        <id>https://tv.naver.com/v/72417066</id>
-        <link href="https://tv.naver.com/v/72417066"/>
-        <updated>2025-03-21T10:10:44.258Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Air - 예지(ITZY) (YEJI) | KBS 250321 방송]]></title>
-        <id>https://tv.naver.com/v/72416681</id>
-        <link href="https://tv.naver.com/v/72416681"/>
-        <updated>2025-03-21T10:10:44.259Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEBE - STAYC (스테이씨) | KBS 250321 방송]]></title>
-        <id>https://tv.naver.com/v/72415940</id>
-        <link href="https://tv.naver.com/v/72415940"/>
-        <updated>2025-03-21T10:10:44.260Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PIPE DOWN - STAYC (스테이씨) | KBS 250321 방송]]></title>
-        <id>https://tv.naver.com/v/72415510</id>
-        <link href="https://tv.naver.com/v/72415510"/>
-        <updated>2025-03-21T10:10:44.261Z</updated>
-        <content type="html"><![CDATA[01:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MMI - 에일리 (Ailee) | KBS 250321 방송]]></title>
-        <id>https://tv.naver.com/v/72415504</id>
-        <link href="https://tv.naver.com/v/72415504"/>
-        <updated>2025-03-21T10:10:44.263Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KNOW ABOUT ME - NMIXX (엔믹스) | KBS 250321 방송]]></title>
-        <id>https://tv.naver.com/v/72415493</id>
-        <link href="https://tv.naver.com/v/72415493"/>
-        <updated>2025-03-21T10:10:44.264Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Horse - NMIXX (엔믹스) | KBS 250321 방송]]></title>
-        <id>https://tv.naver.com/v/72415116</id>
-        <link href="https://tv.naver.com/v/72415116"/>
-        <updated>2025-03-21T10:10:44.265Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
