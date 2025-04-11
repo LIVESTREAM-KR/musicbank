@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2025-04-11T10:11:35.027Z</updated>
+    <updated>2025-04-11T11:09:03.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WANT - 솔라 (Slolar) | KBS 250411 방송]]></title>
+        <title type="html"><![CDATA[WANT - 솔라 (Solar) | KBS 250411 방송]]></title>
         <id>https://tv.naver.com/v/73983999</id>
         <link href="https://tv.naver.com/v/73983999"/>
         <updated>2025-04-11T10:11:34.350Z</updated>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SNAP (feat. sokodomo) - 문수아X시윤 (Billlie) | KBS 250411 방송]]></title>
-        <id>https://tv.naver.com/v/73983046</id>
-        <link href="https://tv.naver.com/v/73983046"/>
-        <updated>2025-04-11T10:11:34.354Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아 진짜? (For Real?) - TNX (티엔엑스) | KBS 250411 방송]]></title>
         <id>https://tv.naver.com/v/73983072</id>
         <link href="https://tv.naver.com/v/73983072"/>
@@ -55,14 +48,21 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SIGN - inza (이즈나) | KBS 250411 방송]]></title>
+        <title type="html"><![CDATA[SNAP (feat. sokodomo) - 문수아X시윤 (Billlie) | KBS 250411 방송]]></title>
+        <id>https://tv.naver.com/v/73983046</id>
+        <link href="https://tv.naver.com/v/73983046"/>
+        <updated>2025-04-11T10:11:34.354Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIGN - izna (이즈나) | KBS 250411 방송]]></title>
         <id>https://tv.naver.com/v/73983040</id>
         <link href="https://tv.naver.com/v/73983040"/>
         <updated>2025-04-11T10:11:34.360Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BTG - KiiKii (키키) | KBS 250411 방송]]></title>
+        <title type="html"><![CDATA[BTG - KiiiKiii (키키) | KBS 250411 방송]]></title>
         <id>https://tv.naver.com/v/73983036</id>
         <link href="https://tv.naver.com/v/73983036"/>
         <updated>2025-04-11T10:11:34.361Z</updated>
